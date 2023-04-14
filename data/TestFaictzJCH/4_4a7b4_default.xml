@@ -162,23 +162,6 @@
                    TAGREFS="BT728">
           <Shape><Polygon POINTS="546 2045 546 2140 763 2140 763 2045"/></Shape>
           
-          
-          <TextLine ID="eSc_line_68e2dac5"
-                    TAGREFS="LT331"
-                    BASELINE="579 2107 746 2107" 
-                    HPOS="577"
-                    VPOS="2045"
-                    WIDTH="167"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="659 2045 638 2045 618 2045 597 2045 577 2045 577 2106 577 2114 742 2124 744 2106 744 2049 687 2045 679 2045"/></Shape>
-	    <String CONTENT=""
-                    HPOS="577"
-                    VPOS="2045"
-                    WIDTH="167"
-                    HEIGHT="79"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
         <TextBlock HPOS="129"
