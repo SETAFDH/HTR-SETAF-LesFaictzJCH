@@ -34,7 +34,7 @@ volume:
 - metric: files
   count: 1
 - metric: lines
-  count: 8
+  count: 7
 - metric: regions
   count: 3
 characters:
