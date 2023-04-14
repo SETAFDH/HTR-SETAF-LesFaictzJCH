@@ -2,21 +2,21 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 authors:
-  - name: Geneviève
-    surname: Gross
-    orcid: 0009-0006-5367-4262
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
+- name: "Genevi\xE8ve"
+  surname: Gross
+  orcid: 0009-0006-5367-4262
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
 institutions: []
 description: Data for SETAF project
 project-name: SETAF Project
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1500'
@@ -25,6 +25,52 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
+volume:
+- metric: characters
+  count: 247
+- metric: files
+  count: 1
+- metric: lines
+  count: 8
+- metric: regions
+  count: 3
+characters:
+  mode: NFD
+  members:
+  - e
+  - u
+  - r
+  - a
+  - i
+  - s
+  - l
+  - t
+  - c
+  - o
+  - n
+  - d
+  - z
+  - p
+  - ','
+  - g
+  - "\u0303"
+  - f
+  - m
+  - "\u204A"
+  - C
+  - h
+  - P
+  - '-'
+  - .
+  - "\xB6"
+  - L
+  - I
+  - q
+  - x
+  - ;
+  - E
+  - "\uA751"
+  - A
