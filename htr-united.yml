@@ -34,7 +34,7 @@ volume:
 - metric: files
   count: 3
 - metric: lines
-  count: 75
+  count: 74
 - metric: regions
   count: 12
 characters:
@@ -79,14 +79,14 @@ characters:
   - "\u0365"
   - U
   - "\uA751"
-  - '2'
-  - '1'
-  - Q
   - N
   - S
   - G
   - "\uA753"
   - "\u036C"
+  - '2'
+  - '1'
+  - Q
+  - '3'
   - R
   - v
-  - '3'
