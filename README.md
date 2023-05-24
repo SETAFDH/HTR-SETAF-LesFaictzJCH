@@ -6,7 +6,7 @@ Données HTR pour le projet SETAF
 
 ## Projet SETAF
 
-GitHub du Projet : https://github.com/SETAFDH 
+GitHub du projet : https://github.com/SETAFDH 
 
 Site du projet : https://www.unige.ch/setaf
 
