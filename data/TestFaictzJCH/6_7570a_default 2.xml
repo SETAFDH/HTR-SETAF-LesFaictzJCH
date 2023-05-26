@@ -25,13 +25,13 @@
                   WIDTH="1700"
                   HEIGHT="2447">
         
-        <TextBlock HPOS="62"
-                   VPOS="91"
-                   WIDTH="1251"
-                   HEIGHT="1974"
-                   ID="eSc_textblock_5c48bed0"
+        <TextBlock HPOS="92"
+                   VPOS="74"
+                   WIDTH="1183"
+                   HEIGHT="1962"
+                   ID="eSc_textblock_2f56782f"
                    TAGREFS="BT731">
-          <Shape><Polygon POINTS="76 91 62 2065 879 2048 946 2047 1301 2040 1313 95"/></Shape>
+          <Shape><Polygon POINTS="92 74 92 2036 1275 2032 1275 74"/></Shape>
           
           
           <TextLine ID="eSc_line_98c787d7"
@@ -52,13 +52,13 @@
           
           
           <TextLine ID="eSc_line_bf3c22aa"
-                    TAGREFS="LT246"
+                    TAGREFS="LT247"
                     BASELINE="167 254 1212 254" 
                     HPOS="165"
                     VPOS="183"
                     WIDTH="1045"
                     HEIGHT="84">
-            <Shape><Polygon POINTS="165 252 165 261 1208 267 1210 252 1210 193 165 183 165 252"/></Shape>
+            <Shape><Polygon POINTS="165 261 1208 267 1210 252 1210 193 165 183 165 252"/></Shape>
 	    <String CONTENT="¶ A tous ceulx qui liront Grace, paix, ⁊ salut de Dieu"
                     HPOS="165"
                     VPOS="183"
@@ -211,7 +211,7 @@
                     VPOS="762"
                     WIDTH="251"
                     HEIGHT="80">
-            <Shape><Polygon POINTS="120 809 120 842 361 840 365 834 371 809 369 762 316 768 314 768 312 768 312 770 295 787 191 787 179 774 173 768 173 766 171 766 169 766 167 766 120 776 120 809"/></Shape>
+            <Shape><Polygon POINTS="120 842 361 840 365 834 371 809 369 762 316 768 314 768 312 768 312 770 295 787 191 787 179 774 173 768 173 766 171 766 169 766 167 766 120 776 120 809"/></Shape>
 	    <String CONTENT="L"
                     HPOS="120"
                     VPOS="762"
@@ -596,13 +596,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="933"
-                   VPOS="2040"
-                   WIDTH="388"
-                   HEIGHT="117"
-                   ID="eSc_textblock_70b8e22b"
+        <TextBlock HPOS="921"
+                   VPOS="2045"
+                   WIDTH="375"
+                   HEIGHT="125"
+                   ID="eSc_textblock_aafd4a28"
                    TAGREFS="BT1117">
-          <Shape><Polygon POINTS="933 2040 937 2157 1320 2157 1321 2045"/></Shape>
+          <Shape><Polygon POINTS="921 2045 921 2170 1296 2170 1296 2045"/></Shape>
           
           
           <TextLine ID="eSc_line_70bdcb27"
@@ -623,13 +623,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="96"
+        <TextBlock HPOS="104"
                    VPOS="545"
-                   WIDTH="308"
-                   HEIGHT="298"
-                   ID="eSc_textblock_88d210d3"
+                   WIDTH="292"
+                   HEIGHT="295"
+                   ID="eSc_textblock_8d9038c8"
                    TAGREFS="BT729">
-          <Shape><Polygon POINTS="100 545 96 843 404 843 396 545"/></Shape>
+          <Shape><Polygon POINTS="104 545 104 840 396 840 396 545"/></Shape>
           
         </TextBlock>
         
