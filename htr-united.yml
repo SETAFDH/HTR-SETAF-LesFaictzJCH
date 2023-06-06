@@ -30,7 +30,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 0
+  count: 2414
 - metric: files
   count: 1
 - metric: lines
@@ -39,4 +39,45 @@ volume:
   count: 7
 characters:
   mode: NFD
-  members: []
+  members:
+  - e
+  - s
+  - u
+  - a
+  - l
+  - n
+  - o
+  - t
+  - i
+  - r
+  - c
+  - d
+  - p
+  - m
+  - q
+  - ','
+  - .
+  - "\u0303"
+  - f
+  - "\u204A"
+  - b
+  - g
+  - z
+  - h
+  - x
+  - '-'
+  - y
+  - E
+  - S
+  - D
+  - A
+  - ;
+  - I
+  - "\u0365"
+  - C
+  - P
+  - G
+  - L
+  - "\uA770"
+  - "\u1DE4"
+  - k
