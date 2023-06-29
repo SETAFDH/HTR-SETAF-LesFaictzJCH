@@ -9,58 +9,67 @@ authors:
 characters:
   members:
   - e
-  - s
   - u
+  - s
   - i
+  - n
+  - t
   - a
   - r
   - o
-  - t
-  - n
-  - m
   - l
-  - .
   - c
-  - p
   - d
+  - .
+  - m
+  - p
   - ','
-  - h
-  - f
-  - ¶
-  - y
   - q
-  - ⁊
-  - P
-  - C
-  - I
+  - y
   - g
-  - ;
-  - b
-  - '-'
-  - z
-  - '1'
-  - (
-  - )
+  - ⁊
+  - f
   - L
-  - N
+  - h
+  - b
+  - z
   - x
+  - P
   - '2'
-  - E
-  - ̃
-  - '9'
   - R
-  - J
-  - '7'
-  - M
-  - '5'
-  - '3'
-  - D
-  - T
-  - G
-  - ꝰ
-  - A
+  - ̃
+  - '-'
   - S
-  - '0'
+  - ¶
+  - '1'
+  - C
+  - ;
+  - I
+  - E
+  - M
+  - '6'
+  - '8'
+  - D
+  - J
+  - '?'
+  - '9'
+  - ':'
+  - '3'
+  - '7'
+  - B
+  - A
+  - '4'
+  - H
+  - O
+  - N
+  - Q
+  - ꝰ
+  - ꝓ
+  - U
+  - T
+  - F
+  - G
+  - v
   mode: NFD
 description: Data for SETAF project
 format: Alto-XML
@@ -85,11 +94,11 @@ time:
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
-- count: 1412
+- count: 3232
   metric: characters
-- count: 2
+- count: 4
   metric: files
-- count: 38
+- count: 96
   metric: lines
-- count: 6
+- count: 18
   metric: regions
