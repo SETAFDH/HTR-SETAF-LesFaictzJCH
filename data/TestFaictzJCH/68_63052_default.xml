@@ -104,12 +104,12 @@
           
           <TextLine ID="eSc_line_df62e2a3"
                     TAGREFS="LT246"
-                    BASELINE="104 428 942 440 1253 443" 
+                    BASELINE="104 428 1253 443" 
                     HPOS="100"
                     VPOS="377"
                     WIDTH="1151"
                     HEIGHT="75">
-            <Shape><Polygon POINTS="959 383 938 383 918 383 897 381 877 381 857 381 836 381 816 381 795 381 775 379 755 379 734 379 714 379 693 379 673 377 653 377 632 377 612 377 591 377 571 377 102 377 102 426 100 438 1246 452 1251 442 1251 395 965 383 959 383"/></Shape>
+            <Shape><Polygon POINTS="102 426 100 438 1246 452 1251 442 1248 393 102 377 102 426"/></Shape>
 	    <String CONTENT="stament en mon sang, qui sera respandu pour uous. Faictes"
                     HPOS="100"
                     VPOS="377"
@@ -155,34 +155,34 @@
           
           <TextLine ID="eSc_line_9e6d345d"
                     TAGREFS="LT246"
-                    BASELINE="100 603 1230 611 1249 616" 
+                    BASELINE="100 603 1249 616" 
                     HPOS="97"
-                    VPOS="554"
+                    VPOS="552"
                     WIDTH="1151"
-                    HEIGHT="72">
-            <Shape><Polygon POINTS="100 601 97 611 1244 626 1248 615 1248 560 100 554 100 601"/></Shape>
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="920 552 918 552 916 552 100 552 100 601 97 611 108 619 110 619 112 619 1244 626 1248 615 1248 566 1214 556 1212 556 1210 556 936 562 922 552 920 552"/></Shape>
 	    <String CONTENT="uous annoncerez la mort du Seigneur iusques a ce quil uien"
                     HPOS="97"
-                    VPOS="554"
+                    VPOS="552"
                     WIDTH="1151"
-                    HEIGHT="72"></String>
+                    HEIGHT="74"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_a1572b5e"
                     TAGREFS="LT246"
-                    BASELINE="108 668 1179 670 1252 675" 
+                    BASELINE="108 668 1252 675" 
                     HPOS="104"
-                    VPOS="605"
+                    VPOS="603"
                     WIDTH="1147"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1165 609 1144 609 1136 609 1110 617 1106 617 1093 609 1083 609 1063 609 1061 609 991 615 963 617 938 615 879 607 877 607 875 607 848 613 830 617 771 613 697 607 695 607 555 611 346 615 334 607 332 605 330 605 328 605 326 605 279 607 130 615 108 605 106 666 104 681 1246 685 1251 674 1248 619 1165 609 1165 609"/></Shape>
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1148 609 1146 609 1120 619 1118 619 1089 609 1087 609 1085 609 563 615 508 615 506 615 487 605 485 605 483 605 420 615 412 615 410 615 387 603 377 603 355 613 328 603 326 603 324 603 106 611 106 666 104 679 1246 687 1251 674 1248 621 1151 609 1148 609"/></Shape>
 	    <String CONTENT="gne. Iesus debuoit mourir pour la gent; ⁊ non seulemẽt pour"
                     HPOS="104"
-                    VPOS="605"
+                    VPOS="603"
                     WIDTH="1147"
-                    HEIGHT="80"></String>
+                    HEIGHT="84"></String>
           </TextLine>
 
           
@@ -206,15 +206,15 @@
           
           <TextLine ID="eSc_line_319dd3d0"
                     TAGREFS="LT246"
-                    BASELINE="100 781 1232 785 1249 786" 
+                    BASELINE="100 781 1249 786" 
                     HPOS="97"
-                    VPOS="725"
+                    VPOS="723"
                     WIDTH="1151"
                     HEIGHT="76">
-            <Shape><Polygon POINTS="100 778 97 789 124 799 126 799 128 801 1246 801 1248 785 1244 725 100 730 100 778"/></Shape>
+            <Shape><Polygon POINTS="100 778 97 787 1244 799 1248 785 1242 725 1208 736 1053 725 1034 725 1032 725 1030 725 1028 725 1016 738 883 738 871 727 869 723 867 723 865 723 863 723 100 730 100 778"/></Shape>
 	    <String CONTENT="qui estoyent espars. Ie ne prie point seulement poͬ eulx ; mais"
                     HPOS="97"
-                    VPOS="725"
+                    VPOS="723"
                     WIDTH="1151"
                     HEIGHT="76"></String>
           </TextLine>
@@ -606,7 +606,7 @@
           
           
           <TextLine ID="eSc_line_80c87626"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1288 265 1396 270" 
                     HPOS="1285"
                     VPOS="220"
@@ -725,7 +725,7 @@
           
           
           <TextLine ID="eSc_line_d65b3492"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1275 564 1392 564" 
                     HPOS="1273"
                     VPOS="519"
@@ -742,7 +742,7 @@
           
           
           <TextLine ID="eSc_line_3a6ca535"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1275 600 1279 599 1385 601" 
                     HPOS="1271"
                     VPOS="552"
@@ -759,7 +759,7 @@
           
           
           <TextLine ID="eSc_line_e32928d4"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1275 642 1395 642" 
                     HPOS="1273"
                     VPOS="597"
@@ -776,7 +776,7 @@
           
           
           <TextLine ID="eSc_line_18b9cd97"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1276 686 1399 691" 
                     HPOS="1273"
                     VPOS="638"
@@ -793,7 +793,7 @@
           
           
           <TextLine ID="eSc_line_db08fc55"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1280 727 1400 725" 
                     HPOS="1277"
                     VPOS="683"
@@ -810,7 +810,7 @@
           
           
           <TextLine ID="eSc_line_8926bdf2"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1274 769 1381 768 1381 764" 
                     HPOS="1271"
                     VPOS="725"
@@ -837,7 +837,7 @@
           
           
           <TextLine ID="eSc_line_26b3672d"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1265 1237 1391 1237" 
                     HPOS="1263"
                     VPOS="1182"
@@ -854,7 +854,7 @@
           
           
           <TextLine ID="eSc_line_379c510c"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1271 1283 1273 1282 1371 1282" 
                     HPOS="1267"
                     VPOS="1241"
@@ -908,7 +908,7 @@
           
           
           <TextLine ID="eSc_line_4d013191"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1258 1704 1402 1702" 
                     HPOS="1255"
                     VPOS="1655"
@@ -935,7 +935,7 @@
           
           
           <TextLine ID="eSc_line_a2fdb86c"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1259 1940 1363 1941" 
                     HPOS="1257"
                     VPOS="1892"

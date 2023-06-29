@@ -606,13 +606,13 @@
           
           
           <TextLine ID="eSc_line_5135606a"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1285 551 1391 548" 
                     HPOS="1279"
                     VPOS="495"
                     WIDTH="110"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="1300 495 1279 495 1283 550 1283 568 1389 558 1389 546 1385 505 1308 495 1300 495"/></Shape>
+            <Shape><Polygon POINTS="1279 495 1283 550 1283 568 1389 558 1389 546 1385 505 1308 495 1300 495"/></Shape>
 	    <String CONTENT="Ebre.4."
                     HPOS="1279"
                     VPOS="495"
@@ -633,7 +633,7 @@
           
           
           <TextLine ID="eSc_line_363a4e20"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1276 940 1383 940" 
                     HPOS="1275"
                     VPOS="895"
@@ -660,13 +660,13 @@
           
           
           <TextLine ID="eSc_line_9b4fac51"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1280 1517 1381 1517" 
                     HPOS="1279"
                     VPOS="1478"
                     WIDTH="100"
                     HEIGHT="61">
-            <Shape><Polygon POINTS="1361 1478 1340 1478 1320 1478 1300 1478 1279 1478 1279 1515 1279 1539 1379 1535 1379 1515 1379 1478 1361 1478"/></Shape>
+            <Shape><Polygon POINTS="1340 1478 1320 1478 1300 1478 1279 1478 1279 1515 1279 1539 1379 1535 1379 1515 1379 1478 1361 1478"/></Shape>
 	    <String CONTENT="Ebre.7."
                     HPOS="1279"
                     VPOS="1478"

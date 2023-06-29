@@ -606,13 +606,13 @@
           
           
           <TextLine ID="eSc_line_fed7994e"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1260 962 1369 962" 
                     HPOS="1259"
                     VPOS="907"
                     WIDTH="108"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="1259 960 1259 970 1365 980 1367 960 1367 913 1259 907 1259 960"/></Shape>
+            <Shape><Polygon POINTS="1259 970 1365 980 1367 960 1367 913 1259 907 1259 960"/></Shape>
 	    <String CONTENT="Rom.6."
                     HPOS="1259"
                     VPOS="907"
@@ -623,13 +623,13 @@
           
           
           <TextLine ID="eSc_line_e087ebc5"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1247 1012 1361 1018" 
                     HPOS="1244"
                     VPOS="962"
                     WIDTH="115"
                     HEIGHT="73">
-            <Shape><Polygon POINTS="1269 962 1248 962 1246 1011 1244 1031 1355 1035 1359 1017 1359 968 1273 962 1269 962"/></Shape>
+            <Shape><Polygon POINTS="1248 962 1246 1011 1244 1031 1355 1035 1359 1017 1359 968 1273 962 1269 962"/></Shape>
 	    <String CONTENT="Ebr.10."
                     HPOS="1244"
                     VPOS="962"
