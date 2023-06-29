@@ -205,7 +205,7 @@
           
           
           <TextLine ID="eSc_line_b1200951"
-                    
+                    TAGREFS="LT246"
                     BASELINE="434 786 1610 776" 
                     HPOS="430"
                     VPOS="727"
@@ -651,17 +651,17 @@
           
           <TextLine ID="eSc_line_eb5044ec"
                     TAGREFS="LT246"
-                    BASELINE="277 768 338 772 412 777" 
+                    BASELINE="277 768 412 777" 
                     HPOS="273"
-                    VPOS="693"
-                    WIDTH="139"
-                    HEIGHT="90">
-            <Shape><Polygon POINTS="275 766 273 776 406 783 410 776 412 693 279 703 275 766"/></Shape>
+                    VPOS="717"
+                    WIDTH="137"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="277 738 275 766 273 776 406 783 410 776 408 717 283 721 277 738"/></Shape>
 	    <String CONTENT="matt.19."
                     HPOS="273"
-                    VPOS="693"
-                    WIDTH="139"
-                    HEIGHT="90"></String>
+                    VPOS="717"
+                    WIDTH="137"
+                    HEIGHT="66"></String>
           </TextLine>
 
           
