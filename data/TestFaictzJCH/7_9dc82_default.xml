@@ -25,13 +25,13 @@
                   WIDTH="1700"
                   HEIGHT="2447">
         
-        <TextBlock HPOS="385"
+        <TextBlock HPOS="363"
                    VPOS="99"
-                   WIDTH="1194"
-                   HEIGHT="1941"
+                   WIDTH="1224"
+                   HEIGHT="1958"
                    ID="eSc_textblock_cdf92cdf"
                    TAGREFS="BT731">
-          <Shape><Polygon POINTS="392 99 385 927 411 982 397 1077 397 1076 390 1069 388 2040 1575 2040 1579 103"/></Shape>
+          <Shape><Polygon POINTS="392 99 385 927 403 982 389 1085 397 1076 390 1069 363 2053 1575 2057 1587 103"/></Shape>
           
           
           <TextLine ID="eSc_line_a5098cc5"
@@ -75,7 +75,7 @@
                     VPOS="258"
                     WIDTH="1165"
                     HEIGHT="66">
-            <Shape><Polygon POINTS="408 309 408 324 1569 324 1571 305 1565 258 406 258 408 309"/></Shape>
+            <Shape><Polygon POINTS="408 324 1569 324 1571 305 1565 258 406 258 408 309"/></Shape>
 	    <String CONTENT="struire ceulx qui monstrent leur estat, ⁊ a ce par tous moyens"
                     HPOS="406"
                     VPOS="258"
@@ -188,13 +188,13 @@
           
           
           <TextLine ID="eSc_line_2f820f0e"
-                    
+                    TAGREFS="LT246"
                     BASELINE="409 703 1566 709" 
                     HPOS="406"
                     VPOS="650"
                     WIDTH="1159"
                     HEIGHT="75">
-            <Shape><Polygon POINTS="408 701 406 721 1561 725 1565 707 1559 654 1516 664 1412 654 1410 654 1408 654 1406 654 1406 656 1395 666 1253 666 408 650 408 701"/></Shape>
+            <Shape><Polygon POINTS="406 721 1561 725 1565 707 1559 654 1516 664 1412 654 1410 654 1408 654 1406 654 1406 656 1395 666 1253 666 408 650 408 701"/></Shape>
 	    <String CONTENT="abusez. Car nonobstãt que la vie ⁊ le train du Pape soit tres-"
                     HPOS="406"
                     VPOS="650"
@@ -291,17 +291,17 @@
           
           <TextLine ID="eSc_line_83b6b7f9"
                     TAGREFS="LT246"
-                    BASELINE="403 1052 524 1052 1565 1056" 
+                    BASELINE="403 1060 1565 1056" 
                     HPOS="400"
-                    VPOS="997"
+                    VPOS="1001"
                     WIDTH="1163"
-                    HEIGHT="77">
-            <Shape><Polygon POINTS="402 1050 400 1062 528 1074 530 1074 1561 1070 1563 1054 1561 1009 402 997 402 1050"/></Shape>
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="402 1058 402 1068 1559 1072 1563 1054 1559 1009 400 1001 402 1058"/></Shape>
 	    <String CONTENT="de Pape Paul, ne Dalexãdre, qui entre autres cas enormes"
                     HPOS="400"
-                    VPOS="997"
+                    VPOS="1001"
                     WIDTH="1163"
-                    HEIGHT="77"></String>
+                    HEIGHT="71"></String>
           </TextLine>
 
           
