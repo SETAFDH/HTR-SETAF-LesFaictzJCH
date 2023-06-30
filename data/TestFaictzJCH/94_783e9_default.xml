@@ -606,13 +606,13 @@
           
           
           <TextLine ID="eSc_line_a0389261"
-                    
+                    TAGREFS="LT246"
                     BASELINE="1297 908 1400 909" 
                     HPOS="1295"
                     VPOS="862"
                     WIDTH="105"
                     HEIGHT="78">
-            <Shape><Polygon POINTS="1295 903 1295 907 1295 931 1397 940 1400 907 1400 862 1295 862 1295 903"/></Shape>
+            <Shape><Polygon POINTS="1295 907 1295 931 1397 940 1400 907 1400 862 1295 862 1295 903"/></Shape>
 	    <String CONTENT="Jeh. 8."
                     HPOS="1295"
                     VPOS="862"
