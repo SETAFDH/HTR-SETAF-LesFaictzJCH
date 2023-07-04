@@ -67,8 +67,8 @@ characters:
   - '9'
   - O
   - ':'
-  - H
   - '5'
+  - H
   - B
   - F
   - '0'
@@ -113,7 +113,7 @@ time:
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
-- count: 124840
+- count: 124843
   metric: characters
 - count: 108
   metric: files
