@@ -115,9 +115,9 @@ url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
 - count: 124843
   metric: characters
-- count: 108
+- count: 122
   metric: files
-- count: 3059
+- count: 3655
   metric: lines
-- count: 358
+- count: 391
   metric: regions
