@@ -31,17 +31,17 @@ characters:
   - y
   - g
   - h
-  - b
   - z
+  - b
   - '-'
   - x
   - /
   - I
-  - P
-  - E
   - ;
-  - ¶
   - C
+  - E
+  - P
+  - ¶
   - L
   - D
   - S
@@ -53,18 +53,18 @@ characters:
   - R
   - ͥ
   - ':'
-  - '3'
   - N
-  - Q
+  - '3'
   - T
+  - Q
   - '4'
   - '?'
   - '6'
   - ͬ
-  - '8'
   - U
-  - '5'
+  - '8'
   - G
+  - '5'
   - '9'
   - O
   - '0'
@@ -84,10 +84,10 @@ characters:
   - ᑕ
   - ᷤ
   - ᗅ
+  - ᷑
   - V
   - K
   - ̌
-  - ᷑
   - j
   - ꝗ
   mode: NFD
@@ -114,11 +114,11 @@ time:
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
-- count: 163507
+- count: 181204
   metric: characters
-- count: 128
+- count: 134
   metric: files
-- count: 3926
+- count: 4281
   metric: lines
-- count: 405
+- count: 448
   metric: regions
