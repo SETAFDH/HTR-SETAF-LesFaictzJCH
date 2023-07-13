@@ -65,8 +65,8 @@ characters:
   - ͬ
   - '8'
   - '5'
-  - '9'
   - O
+  - '9'
   - B
   - '0'
   - '7'
@@ -83,11 +83,11 @@ characters:
   - ᷤ
   - Z
   - ᑕ
-  - ̌
   - ᗅ
   - ᷑
   - V
   - K
+  - ̌
   - j
   - ꝗ
   mode: NFD
@@ -114,7 +114,7 @@ time:
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
-- count: 198084
+- count: 198124
   metric: characters
 - count: 140
   metric: files
