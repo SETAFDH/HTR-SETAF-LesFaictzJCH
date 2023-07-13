@@ -39,40 +39,40 @@ characters:
   - I
   - ;
   - C
-  - P
   - E
+  - P
   - D
-  - ¶
   - L
+  - ¶
   - S
   - '1'
   - A
   - '2'
-  - M
   - ꝰ
+  - M
   - R
   - ͥ
   - ':'
   - N
   - '3'
-  - Q
   - T
+  - Q
+  - G
   - '4'
   - '?'
   - '6'
-  - G
-  - U
   - ͬ
+  - U
   - '8'
-  - '5'
   - O
+  - '5'
   - '9'
   - B
+  - H
   - '0'
   - '7'
-  - H
-  - J
   - F
+  - J
   - )
   - v
   - (
@@ -83,13 +83,14 @@ characters:
   - ᷤ
   - Z
   - ᑕ
-  - ᗅ
   - ᷑
+  - ᗅ
   - V
   - K
   - ̌
   - j
   - ꝗ
+  - ÷
   mode: NFD
 description: Data for SETAF project
 format: Alto-XML
@@ -114,11 +115,11 @@ time:
 title: HTR-SETAF-LesFaictzJCH
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
-- count: 198124
+- count: 205005
   metric: characters
-- count: 140
+- count: 143
   metric: files
-- count: 4620
+- count: 4767
   metric: lines
-- count: 475
+- count: 484
   metric: regions
