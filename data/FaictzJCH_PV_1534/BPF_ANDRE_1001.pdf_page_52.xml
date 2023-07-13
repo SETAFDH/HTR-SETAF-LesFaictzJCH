@@ -62,14 +62,14 @@
           
           
           <TextLine ID="eSc_line_100cf152"
-                    
+                    TAGREFS="LT394"
                     BASELINE="1166 309 1642 301" 
                     HPOS="1163"
                     VPOS="242"
                     WIDTH="479"
                     HEIGHT="94">
             <Shape><Polygon POINTS="1601 268 1572 245 1543 245 1514 245 1485 245 1455 245 1426 245 1397 245 1368 245 1338 245 1309 245 1280 245 1251 245 1221 245 1192 245 1163 263 1166 309 1166 336 1642 315 1642 301 1637 245 1631 242 1631 292"/></Shape>
-	    <String CONTENT="¶ Lux le cteurs"
+	    <String CONTENT="¶ Aux lecteurs."
                     HPOS="1163"
                     VPOS="242"
                     WIDTH="479"
@@ -86,7 +86,7 @@
                     WIDTH="1576"
                     HEIGHT="99">
             <Shape><Polygon POINTS="654 403 654 420 2227 409 2227 400 2218 330 1803 342 1768 333 1742 327 1739 327 1736 327 1733 327 1704 336 1675 342 1666 336 1654 324 1651 324 1648 324 1645 324 1642 324 1622 336 1613 339 1601 336 1552 321 1549 321 1546 321 1543 321 1508 336 1502 339 1496 336 1452 321 1449 321 1447 321 1245 336 1216 321 1213 321 1210 321 1207 321 1172 342 1166 344 932 344 760 344 745 330 745 327 742 327 739 327 736 327 651 344 654 403"/></Shape>
-	    <String CONTENT="E dil est ainsi q̃ selon le commademẽt de Dieu nous sommes tenus de ramener a nostre"
+	    <String CONTENT="¶  Sil est ainsi q̃ selon le commademẽt de Dieu nous sommes tenus de ramener a nostre"
                     HPOS="651"
                     VPOS="321"
                     WIDTH="1576"
@@ -103,7 +103,7 @@
                     WIDTH="1564"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1476 400 1447 400 1417 400 1388 400 1359 400 1330 400 1300 400 1271 400 1242 400 1213 400 1183 403 1154 403 1125 403 1096 403 1067 403 1037 403 1008 403 979 403 950 403 920 403 891 403 862 403 833 406 803 406 774 406 745 406 716 406 686 406 657 406 660 450 660 470 2218 467 2221 444 2215 400 1534 400 1505 400"/></Shape>
-	    <String CONTENT="cnnemy son asne qͥ crre, uiayemẽt iceluy est fort mhumain, cruel, ⁊ hors de Dieu, qͥ pẽse"
+	    <String CONTENT="ennemy son asne qͥ erre/ urayemẽt iceluy est fort inhumain/ cruel/ ⁊ hors de Dieu/ qͥ pẽse"
                     HPOS="657"
                     VPOS="400"
                     WIDTH="1564"
@@ -120,7 +120,7 @@
                     WIDTH="1567"
                     HEIGHT="73">
             <Shape><Polygon POINTS="657 499 657 520 2218 505 2221 491 2212 447 654 453 657 499"/></Shape>
-	    <String CONTENT="n estre point tenu autãt a sauuer le corps de son amy, ⁊ encore plus de tacher a retirer der-"
+	    <String CONTENT="nestre point tenu autãt a sauuer le corps de son amy/ ⁊ encore plus de tacher a retirer der-"
                     HPOS="654"
                     VPOS="447"
                     WIDTH="1567"
@@ -137,7 +137,7 @@
                     WIDTH="1570"
                     HEIGHT="70">
             <Shape><Polygon POINTS="657 546 657 564 2221 564 2224 537 2215 494 654 499 657 546"/></Shape>
-	    <String CONTENT="reur dãnable lame de son frcre, faicte a limage ⁊ semblãce de Dieu, rachetce du preuieux"
+	    <String CONTENT="reur dãnable lame de son frere/ faicte a limage ⁊ semblãce de Dieu/ rachetee du precieux"
                     HPOS="654"
                     VPOS="494"
                     WIDTH="1570"
@@ -1109,7 +1109,7 @@
                     WIDTH="108"
                     HEIGHT="56">
             <Shape><Polygon POINTS="605 827 575 824 546 821 517 818 517 859 514 874 619 871 622 865 619 827 605 827"/></Shape>
-	    <String CONTENT="Ro.n."
+	    <String CONTENT="Ro.13."
                     HPOS="514"
                     VPOS="818"
                     WIDTH="108"
@@ -1126,7 +1126,7 @@
                     WIDTH="146"
                     HEIGHT="67">
             <Shape><Polygon POINTS="596 862 567 862 537 859 508 859 508 909 508 920 651 926 654 909 654 859 596 859 596 862"/></Shape>
-	    <String CONTENT="i..Tima"
+	    <String CONTENT="1.Tim̃.1."
                     HPOS="508"
                     VPOS="859"
                     WIDTH="146"
@@ -1143,7 +1143,7 @@
                     WIDTH="120"
                     HEIGHT="64">
             <Shape><Polygon POINTS="599 903 570 903 540 903 514 909 517 947 517 964 634 964 634 938 625 900 599 903"/></Shape>
-	    <String CONTENT="Gal."
+	    <String CONTENT="Gal.5."
                     HPOS="514"
                     VPOS="900"
                     WIDTH="120"
