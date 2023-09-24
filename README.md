@@ -8,6 +8,7 @@ Ce dépôt contient les données HTR de différentes éditions des Faits de Jés
 ## Projet SETAF
 
 GitHub du projet : https://github.com/SETAFDH 
+
 Site du projet : https://www.unige.ch/setaf
 
 
