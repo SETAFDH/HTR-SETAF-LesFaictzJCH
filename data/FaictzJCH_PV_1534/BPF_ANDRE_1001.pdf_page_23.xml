@@ -59,7 +59,7 @@
                     WIDTH="485"
                     HEIGHT="117">
             <Shape><Polygon POINTS="1426 532 1906 543 1911 517 1911 447 1844 426 1841 426 1838 426 1835 426 1832 426 1818 438 1800 426 1797 426 1794 426 1792 426 1660 441 1552 426 1549 426 1546 426 1543 426 1517 444 1508 447 1429 444 1429 514"/></Shape>
-	    <String CONTENT="Luxum die sectatur inertem."
+	    <String CONTENT="Luxum hic sectatur inertem."
                     HPOS="1426"
                     VPOS="426"
                     WIDTH="485"
@@ -246,7 +246,7 @@
                     WIDTH="553"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1423 1283 1423 1309 1976 1306 1976 1283 1976 1233 1423 1230 1423 1283"/></Shape>
-	    <String CONTENT="Pape. distinc.23. In no-"
+	    <String CONTENT="Pape. distinc.23.In no-"
                     HPOS="1423"
                     VPOS="1230"
                     WIDTH="553"
@@ -416,7 +416,7 @@
                     WIDTH="1748"
                     HEIGHT="94">
             <Shape><Polygon POINTS="1534 1815 1505 1815 1493 1815 1487 1821 1289 1821 1230 1803 1227 1803 1224 1803 1151 1818 1131 1803 1128 1803 1125 1803 1113 1803 1090 1821 1087 1821 1064 1821 953 1806 950 1809 920 1809 897 1821 894 1821 891 1821 877 1809 862 1809 833 1809 803 1812 774 1812 745 1812 716 1812 686 1812 657 1815 628 1815 599 1815 570 1815 540 1815 511 1815 482 1818 453 1818 423 1818 394 1818 365 1818 336 1821 306 1821 277 1821 248 1821 222 1873 222 1888 1964 1897 1970 1868 1964 1821 1552 1821 1540 1815 1534 1815"/></Shape>
-	    <String CONTENT="Pierre, ⁊ des Euesques/ il le deffend comme lon uoit ⁊ parauant sen estoit demis/ le com-"
+	    <String CONTENT="Pierre/ ⁊ des Euesques/ il le deffend comme lon uoit/ ⁊ parauant sen estoit demis/ le com-"
                     HPOS="222"
                     VPOS="1803"
                     WIDTH="1748"
@@ -433,7 +433,7 @@
                     WIDTH="1754"
                     HEIGHT="73">
             <Shape><Polygon POINTS="219 1926 216 1946 1967 1946 1970 1932 1967 1876 219 1873 219 1926"/></Shape>
-	    <String CONTENT="mettant aux aultres .c.Inter cetera. De offic. iudi.ordi. Auquel chapitre il confesse que"
+	    <String CONTENT="mettant aux aultres. c.Inter cetera.De offic.iudi.ordi. Auquel chapitre il confesse que"
                     HPOS="216"
                     VPOS="1873"
                     WIDTH="1754"
@@ -518,7 +518,7 @@
                     WIDTH="1751"
                     HEIGHT="67">
             <Shape><Polygon POINTS="222 2218 219 2239 1967 2239 1970 2227 1967 2174 245 2172 222 2218"/></Shape>
-	    <String CONTENT="Et ilz seruent a leur uentre/ non pas a Dieu .Rom̃.16. Et pourtãt tous Euesques ne"
+	    <String CONTENT="Et ilz seruent a leur uentre/ non pas a Dieu. Rom̃.16. Et pourtãt tous Euesques ne"
                     HPOS="219"
                     VPOS="2172"
                     WIDTH="1751"
@@ -535,7 +535,7 @@
                     WIDTH="1751"
                     HEIGHT="108">
             <Shape><Polygon POINTS="1303 2224 1274 2224 1245 2224 1216 2224 1186 2224 1183 2224 836 2233 806 2233 783 2221 777 2221 748 2221 719 2221 689 2221 663 2221 245 2230 222 2280 219 2297 637 2315 640 2315 739 2306 800 2303 809 2309 833 2324 836 2324 839 2324 841 2326 1318 2326 1318 2324 1321 2324 1344 2318 1382 2306 1426 2318 1452 2326 1455 2326 1458 2329 1967 2329 1970 2288 1967 2239 1388 2239 1379 2236 1318 2224 1303 2224"/></Shape>
-	    <String CONTENT="sont pas Euesques/ regarde a Pierre ⁊ considere Iudas. Rubrica. dignitas non facit"
+	    <String CONTENT="sont pas Euesques/ regarde a Pierre ⁊ considere Iudas. Rubrica.dignitas non facit"
                     HPOS="219"
                     VPOS="2221"
                     WIDTH="1751"
@@ -552,7 +552,7 @@
                     WIDTH="567"
                     HEIGHT="68">
             <Shape><Polygon POINTS="222 2341 222 2359 789 2359 789 2341 789 2291 245 2291 222 2341"/></Shape>
-	    <String CONTENT="Episcopum : sed uita.2. qõ.7."
+	    <String CONTENT="Episcopum: sed uita.2.qõ.7."
                     HPOS="222"
                     VPOS="2291"
                     WIDTH="567"
@@ -620,7 +620,7 @@
                     WIDTH="1748"
                     HEIGHT="94">
             <Shape><Polygon POINTS="219 2575 216 2590 359 2610 362 2610 365 2610 415 2595 511 2610 514 2610 517 2610 520 2610 520 2607 534 2595 798 2595 935 2613 938 2613 1110 2598 1143 2613 1145 2613 1148 2613 1227 2601 1391 2616 1394 2619 1903 2619 1903 2616 1906 2616 1961 2598 1964 2584 1961 2534 219 2525 219 2575"/></Shape>
-	    <String CONTENT="demẽt/ ⁊ pour lyurongnerte faillent/ ⁊ sacrificateurs ⁊ prophetes sont errans par yuron-"
+	    <String CONTENT="demẽt/ ⁊ pour lyurongnerie faillent/ ⁊ sacrificateurs ⁊ prophetes sont errans par yuron-"
                     HPOS="216"
                     VPOS="2525"
                     WIDTH="1748"
@@ -654,7 +654,7 @@
                     WIDTH="1748"
                     HEIGHT="87">
             <Shape><Polygon POINTS="1242 2642 1224 2642 1213 2648 929 2648 923 2642 920 2642 891 2642 862 2642 833 2642 803 2642 774 2642 745 2642 733 2639 722 2642 470 2639 453 2639 423 2639 394 2639 365 2639 336 2639 306 2639 277 2639 248 2639 245 2636 219 2636 219 2695 216 2712 1961 2712 1964 2701 1964 2651 1751 2651 1748 2648 1704 2625 1701 2625 1575 2625 1572 2625 1569 2625 1531 2645 1525 2648 1452 2645 1429 2645 1406 2625 1403 2625 1400 2625 1274 2625 1271 2625 1268 2625 1245 2633 1242 2642"/></Shape>
-	    <String CONTENT="¶ Il est deffendu de donner les biens aux ioueurs distinc.86. donare. de iouer aux detz/"
+	    <String CONTENT="¶ Il est deffendu de donner les biens aux ioueurs. distinc.86.donare. de iouer aux detz/"
                     HPOS="216"
                     VPOS="2625"
                     WIDTH="1748"
@@ -671,7 +671,7 @@
                     WIDTH="1754"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1941 2701 1911 2701 1882 2701 1853 2701 1824 2701 1794 2701 1765 2701 1736 2701 1707 2701 1678 2701 1648 2701 1619 2701 1590 2701 1561 2701 1531 2701 1502 2701 1473 2701 1444 2701 1414 2701 1385 2701 1356 2701 1327 2701 1297 2701 1268 2701 1239 2701 1210 2701 1181 2701 1151 2701 1122 2701 1096 2701 242 2701 216 2756 213 2777 1961 2783 1967 2765 1964 2698 1941 2698 1941 2701"/></Shape>
-	    <String CONTENT="⁊ de yurongner soubz la peine destre depose. distinc.35. Episcopus. Celuy qui est fornica"
+	    <String CONTENT="⁊ de yurongner soubz la peine destre depose. distinc.35.Episcopus. Celuy qui est fornica"
                     HPOS="213"
                     VPOS="2698"
                     WIDTH="1754"
@@ -688,7 +688,7 @@
                     WIDTH="1745"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1941 2765 1911 2765 1882 2765 1853 2765 1824 2765 1794 2765 1765 2765 1736 2765 1707 2765 1678 2765 1648 2765 1619 2765 1590 2765 1561 2765 1531 2765 1502 2765 1473 2765 1444 2765 1414 2765 1385 2765 239 2765 216 2815 213 2826 1952 2835 1958 2823 1955 2765 1941 2765"/></Shape>
-	    <String CONTENT="teur/ pariure/ ou larron doibt estre depose. distinc.81. prebyster. Si quis Episcopus. Per-"
+	    <String CONTENT="teur/ pariure/ ou larron doibt estre depose. distinc.81.prebyster.Si quis Episcopus. Per-"
                     HPOS="213"
                     VPOS="2765"
                     WIDTH="1745"
@@ -705,7 +705,7 @@
                     WIDTH="1751"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1944 2823 1914 2823 1885 2823 1856 2823 1827 2823 1797 2823 1768 2823 1739 2823 1710 2823 1680 2823 1651 2823 1622 2823 1593 2823 1563 2823 1534 2823 1505 2823 1476 2823 1447 2823 1417 2823 1388 2823 1359 2821 1330 2821 1300 2821 1271 2821 1242 2821 1213 2821 1183 2821 1154 2821 1125 2821 1096 2821 1067 2821 1037 2821 1008 2821 979 2821 950 2821 920 2821 891 2821 862 2821 833 2821 803 2821 774 2818 745 2818 716 2818 686 2818 657 2818 628 2818 599 2818 570 2818 540 2818 511 2818 482 2818 453 2818 423 2818 394 2818 365 2818 336 2818 306 2818 277 2818 248 2818 245 2809 219 2809 219 2873 216 2894 1964 2894 1967 2879 1964 2823 1944 2821 1944 2823"/></Shape>
-	    <String CONTENT="sonne ne doibt ouyr loffice dung qui tient concubine. distinctio.32. Nullus. ⁊ ce soubz pei"
+	    <String CONTENT="sonne ne doibt ouyr loffice dung qui tient concubine. distinctio.32.Nullus. ⁊ ce soubz pei"
                     HPOS="216"
                     VPOS="2809"
                     WIDTH="1751"
@@ -766,7 +766,7 @@
                     WIDTH="167"
                     HEIGHT="117">
             <Shape><Polygon POINTS="1654 3060 1651 3084 1812 3098 1818 3063 1815 2981 1654 2993 1654 3060"/></Shape>
-	    <String CONTENT="C ii"
+	    <String CONTENT="C .ii."
                     HPOS="1651"
                     VPOS="2981"
                     WIDTH="167"

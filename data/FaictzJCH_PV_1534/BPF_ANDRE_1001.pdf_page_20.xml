@@ -144,7 +144,7 @@
                     WIDTH="532"
                     HEIGHT="84">
             <Shape><Polygon POINTS="561 809 558 830 1084 838 1090 815 1087 760 561 754 561 809"/></Shape>
-	    <String CONTENT="porte sa croix, ⁊ me suyue."
+	    <String CONTENT="porte sa croix/ ⁊ me suyue."
                     HPOS="558"
                     VPOS="754"
                     WIDTH="532"
@@ -229,7 +229,7 @@
                     WIDTH="465"
                     HEIGHT="73">
             <Shape><Polygon POINTS="558 1102 558 1125 1023 1122 1023 1102 1023 1052 558 1052 558 1102"/></Shape>
-	    <String CONTENT="nõme Caluaire.Io.19."
+	    <String CONTENT="nõme Caluaire. Io.19."
                     HPOS="558"
                     VPOS="1052"
                     WIDTH="465"
@@ -518,7 +518,7 @@
                     WIDTH="1707"
                     HEIGHT="88">
             <Shape><Polygon POINTS="2253 2043 2224 2043 2195 2043 2166 2043 2136 2043 2107 2043 2078 2043 2049 2043 2020 2043 1990 2043 1961 2043 1932 2043 1903 2043 1873 2043 1844 2043 1815 2043 1786 2043 1756 2043 1727 2043 1698 2043 1669 2040 1639 2040 1610 2040 1581 2040 1552 2040 1523 2040 1493 2040 1464 2040 1435 2040 1406 2040 1376 2040 1347 2040 1318 2040 1289 2040 1259 2040 1230 2040 1201 2040 1172 2040 1143 2040 1113 2037 1084 2037 1055 2037 1026 2037 996 2037 967 2037 938 2037 909 2037 879 2037 850 2037 821 2037 792 2037 762 2037 733 2037 704 2037 675 2037 646 2037 616 2037 587 2037 558 2037 558 2093 555 2107 2256 2125 2262 2098 2259 2043 2253 2043"/></Shape>
-	    <String CONTENT="qͥ sont charges importables/ receu as ces ceremontes ⁊ fassons / qͥ sont choses dãnables/"
+	    <String CONTENT="qͥ sont charges importables/ receu as ces ceremonies ⁊ fassons / qͥ sont choses dãnables/"
                     HPOS="555"
                     VPOS="2037"
                     WIDTH="1707"
@@ -535,7 +535,7 @@
                     WIDTH="1713"
                     HEIGHT="91">
             <Shape><Polygon POINTS="2256 2107 558 2098 558 2148 555 2166 2262 2189 2268 2160 2265 2131 2256 2107"/></Shape>
-	    <String CONTENT="laisse ce diable, retorne a esus, prens son tous ⁊ sa charge legiere / aultre ne te plaise que"
+	    <String CONTENT="laisse ce diable/ retorne a Iesus/ prens son ioug ⁊ sa charge legiere / aultre ne te plaise que"
                     HPOS="555"
                     VPOS="2098"
                     WIDTH="1713"
@@ -603,7 +603,7 @@
                     WIDTH="1710"
                     HEIGHT="73">
             <Shape><Polygon POINTS="558 2385 555 2402 2259 2408 2265 2394 2262 2341 558 2335 558 2385"/></Shape>
-	    <String CONTENT="la/ ⁊ soyez en exultation : car uoicy uostre loyer est grãd au ciel. Certes telles choses fai-"
+	    <String CONTENT="la/ ⁊ soyez en exultation: car uoicy uostre loyer est grãd au ciel. Certes telles choses fai-"
                     HPOS="555"
                     VPOS="2335"
                     WIDTH="1710"
@@ -637,7 +637,7 @@
                     WIDTH="1710"
                     HEIGHT="73">
             <Shape><Polygon POINTS="558 2502 555 2525 2262 2525 2265 2508 2262 2458 558 2452 558 2502"/></Shape>
-	    <String CONTENT="bienheureux : car ainsi faisoyent leurs peres aux faulx prophetes. Luc.6. ¶ Le disciple"
+	    <String CONTENT="bienheureux: car ainsi faisoyent leurs peres aux faulx prophetes. Luc.6. ¶ Le disciple"
                     HPOS="555"
                     VPOS="2452"
                     WIDTH="1710"
@@ -739,7 +739,7 @@
                     WIDTH="1710"
                     HEIGHT="73">
             <Shape><Polygon POINTS="561 2856 558 2876 2265 2876 2268 2861 2268 2809 561 2803 561 2856"/></Shape>
-	    <String CONTENT="siege de Dieu. Mais pẽsez ⁊ repẽsez celuy qͥ a souffert telle cõtradicriõ des pecheurs a len"
+	    <String CONTENT="siege de Dieu. Mais pẽsez ⁊ repẽsez celuy qͥ a souffert telle cõtradictiõ des pecheurs a len"
                     HPOS="558"
                     VPOS="2803"
                     WIDTH="1710"
