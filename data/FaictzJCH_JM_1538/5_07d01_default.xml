@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="800"
                     HEIGHT="112">
             <Shape><Polygon POINTS="600 575 691 589 693 589 820 579 828 579 840 579 1048 593 1051 593 1110 583 1122 593 1122 595 1124 595 1126 595 1128 595 1130 595 1148 587 1257 597 1259 597 1373 585 1375 583 1395 579 1397 579 1400 579 1397 501 1300 511 1257 501 1222 491 1220 491 1218 491 1216 491 1177 501 1167 503 1155 501 1112 489 1110 489 1108 489 1036 501 997 507 979 501 938 487 936 487 934 487 932 487 930 487 906 501 897 507 838 507 828 501 787 485 785 485 718 485 716 485 714 485 712 485 712 487 693 501 693 503 602 503 602 568"/></Shape>
-	    <String CONTENT="¶ Eusebius ad Lectorem ln Antithesin"
+	    <String CONTENT="¶ Eusebius ad Lectorem in Antithesin"
                     HPOS="600"
                     VPOS="485"
                     WIDTH="800"
@@ -59,7 +59,7 @@
                     WIDTH="429"
                     HEIGHT="86">
             <Shape><Polygon POINTS="904 570 883 570 863 570 842 570 822 570 808 570 781 579 781 632 781 656 848 646 1208 656 1210 632 1210 581 934 570 924 570"/></Shape>
-	    <String CONTENT="Christi⁊ Antichristi."
+	    <String CONTENT="Christi ⁊ Antichristi."
                     HPOS="781"
                     VPOS="570"
                     WIDTH="429"
@@ -75,7 +75,7 @@
                     VPOS="670"
                     WIDTH="998"
                     HEIGHT="100">
-            <Shape><Polygon POINTS="1489 693 1485 691 1469 691 1448 689 1428 689 1426 687 1336 697 1326 689 1326 687 1324 687 1322 687 1320 687 1275 695 1259 683 1259 681 1257 681 1255 681 1195 679 1136 679 1134 679 1132 679 1130 679 1130 681 1114 693 1065 683 1063 683 995 689 951 674 948 674 946 674 828 687 779 670 777 670 775 670 710 685 610 674 591 679 571 681 551 685 530 687 510 691 510 742 508 754 685 750 779 760 795 762 797 762 808 762 859 754 904 762 916 764 918 764 932 762 993 756 1502 770 1506 756 1504 719 1489 693"/></Shape>
+            <Shape><Polygon POINTS="1485 691 1469 691 1448 689 1428 689 1426 687 1336 697 1326 689 1326 687 1324 687 1322 687 1320 687 1275 695 1259 683 1259 681 1257 681 1255 681 1195 679 1136 679 1134 679 1132 679 1130 679 1130 681 1114 693 1065 683 1063 683 995 689 951 674 948 674 946 674 828 687 779 670 777 670 775 670 710 685 610 674 591 679 571 681 551 685 530 687 510 691 510 742 508 754 685 750 779 760 795 762 797 762 808 762 859 754 904 762 916 764 918 764 932 762 993 756 1502 770 1506 756 1504 719 1489 693"/></Shape>
 	    <String CONTENT="Quam male conueniant cum Christi pectore Iesu."
                     HPOS="508"
                     VPOS="670"
@@ -93,7 +93,7 @@
                     WIDTH="743"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1222 750 1202 750 1185 748 1153 754 1151 754 1142 748 1140 748 1120 746 1093 752 1087 754 1083 752 1071 746 1059 746 1038 744 1018 744 997 744 977 744 957 742 951 750 946 752 930 750 861 740 859 740 857 740 855 740 842 748 838 750 810 748 730 740 712 740 691 740 675 740 665 744 661 746 569 744 569 795 567 809 936 809 1306 825 1310 807 1308 758 1236 750 1222 750"/></Shape>
-	    <String CONTENT="Pontificum mores; iste libellus habet."
+	    <String CONTENT="Pontificum mores: iste libellus habet."
                     HPOS="567"
                     VPOS="740"
                     WIDTH="743"
@@ -110,7 +110,7 @@
                     WIDTH="783"
                     HEIGHT="85">
             <Shape><Polygon POINTS="985 803 967 803 953 809 948 809 842 801 822 801 802 799 781 799 767 799 691 807 679 807 677 807 667 797 659 797 638 797 628 797 516 803 516 852 514 872 612 864 638 874 640 874 642 874 691 866 704 876 706 878 708 878 710 878 712 878 726 876 771 866 842 876 865 878 867 878 869 878 871 878 873 876 883 868 981 868 1010 876 1030 882 1032 882 1034 882 1295 876 1297 862 1297 815 1036 813 1030 811 1000 803 985 803"/></Shape>
-	    <String CONTENT="Hec lege; qui uere pietatis amore teneris."
+	    <String CONTENT="Hec lege: qui uere pietatis amore teneris."
                     HPOS="514"
                     VPOS="797"
                     WIDTH="783"
@@ -127,7 +127,7 @@
                     WIDTH="682"
                     HEIGHT="96">
             <Shape><Polygon POINTS="569 911 569 944 602 933 661 933 673 944 677 946 677 948 679 948 681 948 683 948 685 948 702 944 720 940 787 944 910 952 912 952 985 944 1018 940 1022 944 1032 952 1032 954 1034 954 1036 954 1038 954 1040 954 1077 944 1083 942 1089 944 1118 952 1120 952 1122 952 1124 952 1126 952 1136 944 1138 942 1246 942 1251 923 1248 870 569 858 569 911"/></Shape>
-	    <String CONTENT="Hoc pius, ⁊ lecto codice doctus eris."
+	    <String CONTENT="Hoc pius/ ⁊ lecto codice doctus eris."
                     HPOS="569"
                     VPOS="858"
                     WIDTH="682"
@@ -161,7 +161,7 @@
                     WIDTH="830"
                     HEIGHT="104">
             <Shape><Polygon POINTS="1381 1270 1371 1268 1169 1268 1163 1260 1159 1258 1159 1256 1157 1256 1155 1256 1038 1252 1036 1252 1016 1256 987 1262 951 1254 928 1250 926 1250 910 1254 877 1260 859 1252 855 1250 853 1250 851 1250 822 1250 689 1256 565 1243 565 1311 563 1325 1028 1329 1030 1333 1038 1339 1038 1341 1040 1341 1042 1341 1044 1341 1097 1333 1108 1333 1110 1333 1124 1343 1126 1343 1128 1343 1130 1343 1204 1335 1214 1335 1224 1335 1304 1347 1306 1347 1391 1337 1393 1331 1393 1274 1381 1270"/></Shape>
-	    <String CONTENT="Lecteur tu uois, les faictz de Iesus Christ"
+	    <String CONTENT="Lecteur tu uois/ les faictz de Iesus Christ"
                     HPOS="563"
                     VPOS="1243"
                     WIDTH="830"
@@ -178,7 +178,7 @@
                     WIDTH="726"
                     HEIGHT="81">
             <Shape><Polygon POINTS="1273 1327 1253 1327 1232 1325 1216 1325 1153 1331 1136 1331 1104 1329 930 1317 928 1317 620 1319 620 1368 618 1374 673 1388 675 1388 677 1388 704 1378 812 1378 814 1382 820 1390 822 1390 822 1392 824 1392 826 1392 828 1392 887 1384 904 1382 910 1384 928 1394 930 1394 932 1394 995 1388 1032 1384 1340 1398 1344 1382 1342 1335 1273 1327 1273 1327"/></Shape>
-	    <String CONTENT="En ce liuret, aussi les meurs du Pape"
+	    <String CONTENT="En ce liuret/ aussi les meurs du Pape"
                     HPOS="618"
                     VPOS="1317"
                     WIDTH="726"
@@ -195,7 +195,7 @@
                     WIDTH="892"
                     HEIGHT="77">
             <Shape><Polygon POINTS="1444 1392 1442 1390 567 1376 567 1425 565 1439 1453 1453 1457 1443 1457 1396 1444 1392"/></Shape>
-	    <String CONTENT="Christ donne tout, pour neant; par son Esprit,"
+	    <String CONTENT="Christ donne tout/ pour neant: par son Esprit/"
                     HPOS="565"
                     VPOS="1376"
                     WIDTH="892"
@@ -212,7 +212,7 @@
                     WIDTH="859"
                     HEIGHT="116">
             <Shape><Polygon POINTS="1471 1453 1091 1437 1091 1437 1071 1437 1051 1435 1048 1435 1030 1435 1010 1435 989 1435 969 1435 957 1433 948 1441 797 1441 793 1439 781 1431 765 1431 763 1429 742 1437 740 1437 738 1437 718 1429 704 1429 683 1429 675 1427 622 1433 622 1484 620 1506 628 1513 630 1513 632 1513 634 1513 636 1513 667 1504 726 1523 728 1523 730 1523 732 1523 753 1513 765 1525 765 1527 767 1527 769 1527 879 1531 881 1531 989 1519 1046 1513 1053 1521 1055 1521 1055 1523 1057 1523 1059 1523 1061 1523 1069 1523 1165 1517 1197 1529 1220 1539 1222 1539 1224 1539 1226 1539 1228 1539 1238 1531 1248 1527 1287 1535 1324 1541 1326 1541 1328 1541 1338 1537 1371 1521 1391 1537 1393 1537 1395 1537 1475 1543 1479 1504 1477 1478 1471 1453"/></Shape>
-	    <String CONTENT="Le Pape non; mais tout bien prent ⁊ happe."
+	    <String CONTENT="Le Pape non: mais tout bien prent ⁊ happe."
                     HPOS="620"
                     VPOS="1427"
                     WIDTH="859"

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="1165"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1644 1629 1624 1629 1604 1629 1583 1629 1563 1629 1542 1629 1530 1627 1430 1627 1420 1627 1400 1627 1395 1625 540 1619 522 1623 502 1629 502 1670 500 1678 1661 1682 1665 1674 1663 1629 1644 1627 1644 1629"/></Shape>
-	    <String CONTENT="¶Le Pape excommunie tous uicaires, ⁊ tenãs aucune cho-"
+	    <String CONTENT="¶ Le Pape excommunie tous uicaires/ ⁊ tenãs aucune cho-"
                     HPOS="500"
                     VPOS="1619"
                     WIDTH="1165"
@@ -76,7 +76,7 @@
                     WIDTH="1165"
                     HEIGHT="79">
             <Shape><Polygon POINTS="957 1672 783 1680 755 1680 751 1680 740 1672 726 1672 706 1672 685 1672 673 1672 502 1676 502 1723 500 1735 1200 1749 1202 1749 1414 1741 1428 1741 1436 1741 1528 1751 1530 1751 1663 1741 1665 1733 1663 1688 959 1672 957 1672"/></Shape>
-	    <String CONTENT="se de Lempire, si du tout ne se demettẽt, laissantz tout ce quilz"
+	    <String CONTENT="se de Lempire/ si du tout ne se demettẽt/ laissantz tout ce quilz"
                     HPOS="500"
                     VPOS="1672"
                     WIDTH="1165"
@@ -93,7 +93,7 @@
                     WIDTH="1166"
                     HEIGHT="67">
             <Shape><Polygon POINTS="1646 1745 504 1735 500 1739 500 1778 497 1788 732 1802 734 1802 1661 1798 1663 1788 1659 1776 1646 1745"/></Shape>
-	    <String CONTENT="tiennent, cassant tous sermens, ⁊ iuremens faictz du peuple"
+	    <String CONTENT="tiennent/ cassant tous sermens/ ⁊ iuremens faictz du peuple"
                     HPOS="497"
                     VPOS="1735"
                     WIDTH="1166"
@@ -110,7 +110,7 @@
                     WIDTH="1166"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1644 1792 1638 1790 1636 1790 1634 1790 1632 1790 1630 1790 1628 1790 1614 1800 1581 1790 1579 1790 1577 1790 1442 1800 1436 1800 1187 1800 1187 1798 1175 1788 1173 1788 1171 1788 1169 1788 1030 1796 1014 1786 1012 1786 1010 1786 1008 1786 1006 1786 985 1796 944 1786 942 1786 940 1786 938 1786 918 1796 887 1786 885 1786 883 1786 818 1796 808 1796 793 1796 673 1784 671 1784 500 1792 500 1837 497 1845 1371 1863 1373 1863 1661 1853 1663 1845 1661 1837 1644 1792"/></Shape>
-	    <String CONTENT="a iceulx; ⁊ pour le ueoir plus a plain, quon regarde le chapi-"
+	    <String CONTENT="a iceulx: ⁊ pour le ueoir plus a plain/ quon regarde le chapi-"
                     HPOS="497"
                     VPOS="1784"
                     WIDTH="1166"
@@ -144,7 +144,7 @@
                     WIDTH="1166"
                     HEIGHT="69">
             <Shape><Polygon POINTS="497 1949 495 1963 1657 1971 1661 1961 1657 1908 1524 1916 1279 1906 1202 1904 1200 1904 1167 1906 1097 1912 1087 1906 1083 1902 1081 1902 1079 1902 1077 1902 497 1904 497 1949"/></Shape>
-	    <String CONTENT="aliquid innouetur extrauag. Si de fratrum. Et oyez encores,"
+	    <String CONTENT="aliquid innouetur extrauag. Si de fratrum. Et oyez encores/"
                     HPOS="495"
                     VPOS="1902"
                     WIDTH="1166"
@@ -161,7 +161,7 @@
                     WIDTH="1166"
                     HEIGHT="118">
             <Shape><Polygon POINTS="1646 1975 1473 1975 1473 1973 1467 1965 1465 1965 1465 1963 1463 1963 1461 1963 1459 1963 1320 1971 1297 1971 1295 1971 1277 1961 1275 1961 1273 1961 500 1961 500 2006 497 2024 569 2045 571 2045 573 2045 575 2045 577 2045 597 2031 602 2028 638 2031 640 2033 685 2059 687 2059 689 2059 755 2069 757 2071 810 2071 810 2069 812 2069 814 2069 842 2043 863 2043 995 2033 1022 2047 1024 2047 1026 2047 1028 2047 1079 2035 1124 2053 1144 2063 1146 2063 1148 2065 1222 2065 1222 2063 1240 2059 1316 2041 1348 2053 1351 2053 1353 2053 1438 2041 1473 2045 1497 2071 1504 2075 1504 2077 1506 2077 1508 2077 1510 2079 1661 2079 1663 2018 1659 2002 1646 1975"/></Shape>
-	    <String CONTENT="comme il se magnifie, ⁊ aneantist la puisance de Lempereur,"
+	    <String CONTENT="comme il se magnifie/ ⁊ aneantist la puisance de Lempereur/"
                     HPOS="497"
                     VPOS="1961"
                     WIDTH="1166"
@@ -222,7 +222,7 @@
                     WIDTH="114"
                     HEIGHT="59">
             <Shape><Polygon POINTS="440 929 420 931 400 931 381 931 359 935 361 972 361 984 469 988 473 968 469 933 446 929 440 929"/></Shape>
-	    <String CONTENT="pit ur."
+	    <String CONTENT="pit ur-"
                     HPOS="359"
                     VPOS="929"
                     WIDTH="114"
@@ -266,7 +266,7 @@
                     WIDTH="166"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1493 2081 1495 2114 1518 2104 1653 2108 1657 2077 1653 2033 1595 2033 1577 2018 1575 2018 1573 2018 1571 2018 1491 2035 1493 2081"/></Shape>
-	    <String CONTENT="disant;"
+	    <String CONTENT="disant:"
                     HPOS="1491"
                     VPOS="2018"
                     WIDTH="166"

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -53,17 +53,17 @@
           
           <TextLine ID="eSc_line_6182a105"
                     TAGREFS="LT246"
-                    BASELINE="73 265 1238 261" 
-                    HPOS="73"
-                    VPOS="199"
-                    WIDTH="1165"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1193 220 1173 218 1153 216 1132 214 1112 212 1091 207 1073 205 851 199 848 199 104 210 91 214 73 224 73 265 73 279 1236 271 1238 261 1210 222 1193 220"/></Shape>
-	    <String CONTENT="plus paoure, est orgueilleusement accoustre, sur tous princes,"
-                    HPOS="73"
-                    VPOS="199"
-                    WIDTH="1165"
-                    HEIGHT="80"></String>
+                    BASELINE="73 265 1242 261" 
+                    HPOS="69"
+                    VPOS="195"
+                    WIDTH="1171"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="946 197 926 197 906 197 885 197 865 197 844 197 824 197 804 197 783 197 777 195 69 197 71 263 71 281 1238 273 1240 258 1234 195 946 195 946 197"/></Shape>
+	    <String CONTENT="plus paoure/ est orgueilleusement accoustre/ sur tous princes/"
+                    HPOS="69"
+                    VPOS="195"
+                    WIDTH="1171"
+                    HEIGHT="86"></String>
           </TextLine>
 
           
@@ -76,7 +76,7 @@
                     WIDTH="1165"
                     HEIGHT="65">
             <Shape><Polygon POINTS="75 320 75 330 1238 340 1240 320 1240 275 75 275 75 320"/></Shape>
-	    <String CONTENT="empereurs, roys, ⁊ seigneurs; ⁊ en plus grosse boubãce que per"
+	    <String CONTENT="empereurs/ roys/ ⁊ seigneurs: ⁊ en plus grosse boubãce que per"
                     HPOS="75"
                     VPOS="275"
                     WIDTH="1165"
@@ -93,7 +93,7 @@
                     WIDTH="1165"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1095 322 1075 322 1055 322 1034 322 1032 322 995 326 993 326 979 322 973 322 953 322 944 322 942 326 940 330 830 330 826 326 822 322 810 322 789 322 769 322 761 322 710 326 655 330 644 326 634 322 626 322 606 322 595 322 536 326 467 332 402 332 395 326 391 322 381 322 377 322 367 326 351 330 75 326 77 379 77 393 1238 383 1240 371 1236 328 1112 328 1110 326 1102 322 1095 322"/></Shape>
-	    <String CONTENT="sonne qui soit sur terre, ⁊ cõbien qͥl ne soit par l ire ⁊ fureur de"
+	    <String CONTENT="sonne qui soit sur terre/ ⁊ cõbien qͥl ne soit par lire ⁊ fureur de"
                     HPOS="75"
                     VPOS="322"
                     WIDTH="1165"
@@ -110,7 +110,7 @@
                     WIDTH="1169"
                     HEIGHT="69">
             <Shape><Polygon POINTS="75 436 75 450 1240 448 1242 430 1238 383 73 381 75 436"/></Shape>
-	    <String CONTENT="Dieu, fors que poͬ tout perdre ⁊ gaster, ueu qͥl est le filz de per-"
+	    <String CONTENT="Dieu/ fors que poͬ tout perdre ⁊ gaster/ ueu qͥl est le filz de per-"
                     HPOS="73"
                     VPOS="381"
                     WIDTH="1169"
@@ -127,7 +127,7 @@
                     WIDTH="1169"
                     HEIGHT="65">
             <Shape><Polygon POINTS="73 491 73 503 1242 503 1242 491 1242 444 73 438 73 491"/></Shape>
-	    <String CONTENT="ditiõ, par leq̃l tout biẽ, iustice ⁊ uertu, est chassee de la terre, ne"
+	    <String CONTENT="ditiõ/ par leq̃l tout biẽ/ iustice ⁊ uertu/ est chassee de la terre/ ne"
                     HPOS="73"
                     VPOS="438"
                     WIDTH="1169"
@@ -144,7 +144,7 @@
                     WIDTH="1167"
                     HEIGHT="63">
             <Shape><Polygon POINTS="77 550 77 560 1238 562 1242 544 1236 499 75 501 77 550"/></Shape>
-	    <String CONTENT="demandant que perdre, piller, ⁊ destruire, neantmoins tout le"
+	    <String CONTENT="demandant que perdre/ piller/ ⁊ destruire/ neantmoins tout le"
                     HPOS="75"
                     VPOS="499"
                     WIDTH="1167"
@@ -161,7 +161,7 @@
                     WIDTH="1163"
                     HEIGHT="71">
             <Shape><Polygon POINTS="442 550 422 550 402 550 381 550 361 550 340 550 320 550 300 550 279 550 259 550 238 550 218 550 197 550 177 550 169 550 167 550 75 560 77 607 77 621 1236 621 1238 603 1234 550 463 550 442 550"/></Shape>
-	    <String CONTENT="monde le receoit en tres grosse reuerẽce ⁊ honneur, loue de toꝰ,"
+	    <String CONTENT="monde le receoit en tres grosse reuerẽce ⁊ honneur/ loue de toꝰ/"
                     HPOS="75"
                     VPOS="550"
                     WIDTH="1163"
@@ -178,7 +178,7 @@
                     WIDTH="1167"
                     HEIGHT="72">
             <Shape><Polygon POINTS="932 605 912 605 891 605 871 605 851 605 844 611 840 613 830 611 810 605 810 605 789 605 761 611 748 613 736 611 700 605 687 605 683 605 675 613 673 613 669 613 642 607 626 607 616 607 573 613 557 615 553 613 536 607 524 607 504 607 495 607 369 615 361 615 355 615 240 607 238 607 218 607 197 607 195 607 138 615 118 607 116 607 102 607 75 617 77 664 77 677 1242 677 1242 660 1236 607 951 613 946 609 940 605 932 605"/></Shape>
-	    <String CONTENT="cõe tres biẽheureux, tressainct, cõbien qͥl soit le plus mauldict"
+	    <String CONTENT="cõe tresbiẽheureux/ tressainct/ cõbien qͥl soit le plus mauldict"
                     HPOS="75"
                     VPOS="605"
                     WIDTH="1167"
@@ -195,7 +195,7 @@
                     WIDTH="1165"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1032 662 1012 662 991 662 971 662 969 662 928 670 920 672 73 672 75 723 75 740 879 740 879 738 1020 727 1220 736 1222 736 1224 736 1226 736 1238 725 1238 715 1234 670 1032 662 1032 662"/></Shape>
-	    <String CONTENT="⁊ malheureux qui soit sur terre, tous taschẽt luy dõner gloire"
+	    <String CONTENT="⁊ malheureux qui soit sur terre/ tous taschẽt luy dõner gloire"
                     HPOS="73"
                     VPOS="662"
                     WIDTH="1165"
@@ -212,7 +212,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="338 723 318 723 297 723 277 723 267 723 73 734 75 781 75 795 1234 785 1236 770 1232 725 375 721 359 723"/></Shape>
-	    <String CONTENT="⁊ louenge de uertus, desq̃lles il ne uit iamais l ombre, car au-"
+	    <String CONTENT="⁊ louenge de uertus/ desq̃lles il ne uit iamais lombre/ car au-"
                     HPOS="73"
                     VPOS="721"
                     WIDTH="1163"
@@ -229,7 +229,7 @@
                     WIDTH="1165"
                     HEIGHT="69">
             <Shape><Polygon POINTS="275 781 255 781 234 781 214 781 193 781 173 781 153 781 132 781 112 781 91 781 71 781 73 840 73 850 1234 840 1236 829 1232 781 295 781 275 781"/></Shape>
-	    <String CONTENT="tant que Iesus est loing destre demoniacle; ⁊ faisant uertus"
+	    <String CONTENT="tant que Iesus est loing destre demoniacle: ⁊ faisant uertus"
                     HPOS="71"
                     VPOS="781"
                     WIDTH="1165"
@@ -246,7 +246,7 @@
                     WIDTH="1165"
                     HEIGHT="69">
             <Shape><Polygon POINTS="71 895 71 909 1232 909 1234 887 1228 840 69 842 71 895"/></Shape>
-	    <String CONTENT="par Beelzebub, autãt est loing le Pape du bien quon dit estre"
+	    <String CONTENT="par Beelzebub/ autãt est loing le Pape du bien quon dit estre"
                     HPOS="69"
                     VPOS="840"
                     WIDTH="1165"
@@ -263,7 +263,7 @@
                     WIDTH="1167"
                     HEIGHT="71">
             <Shape><Polygon POINTS="69 954 69 966 1232 960 1234 946 1228 895 67 905 69 954"/></Shape>
-	    <String CONTENT="en luy. Et sil y a quelque uille qui ne le receoiue, mon Dieu,"
+	    <String CONTENT="en luy. Et sil y a quelque uille qui ne le receoiue/ mon Dieu/"
                     HPOS="67"
                     VPOS="895"
                     WIDTH="1167"
@@ -280,7 +280,7 @@
                     WIDTH="1169"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1024 948 1004 948 983 948 967 948 934 956 893 950 881 950 861 950 855 950 838 958 836 960 800 960 744 960 695 950 679 950 669 960 581 960 524 952 514 952 495 952 424 962 318 954 310 954 289 954 279 954 232 964 77 956 75 956 73 956 71 956 71 958 65 962 67 1011 67 1021 1232 1017 1234 999 1230 954 1042 948 1024 948"/></Shape>
-	    <String CONTENT="quelles maledictions, q̃lz pourchatz pour la destruire, ⁊ quãd"
+	    <String CONTENT="quelles maledictions/ q̃lz pourchatz pour la destruire/ ⁊ quãd"
                     HPOS="65"
                     VPOS="948"
                     WIDTH="1169"
@@ -297,7 +297,7 @@
                     WIDTH="1169"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1083 1001 1081 1001 1079 1001 1079 1003 1071 1009 1063 1001 1061 1001 1059 1001 1057 1001 1055 1001 1034 1011 857 1003 842 1003 822 1015 569 1015 542 1007 534 1007 528 1007 526 1007 518 1017 185 1011 167 1011 146 1011 126 1011 106 1011 85 1011 69 1011 67 1011 65 1013 67 1068 67 1084 991 1084 991 1082 993 1082 995 1082 1012 1072 1018 1072 1148 1080 1151 1080 1232 1068 1234 1058 1230 1013 1085 1001 1083 1001"/></Shape>
-	    <String CONTENT="la uolunte du Pape par sang, ⁊ par feu est faicte sur la uille, a-"
+	    <String CONTENT="la uolunte du Pape par sang/ ⁊ par feu est faicte sur la uille/ a-"
                     HPOS="65"
                     VPOS="1001"
                     WIDTH="1169"
@@ -314,7 +314,7 @@
                     WIDTH="1171"
                     HEIGHT="69">
             <Shape><Polygon POINTS="904 1062 714 1072 651 1074 636 1072 589 1064 587 1064 585 1064 567 1072 563 1074 538 1072 442 1066 440 1066 393 1074 381 1076 377 1074 365 1066 363 1066 361 1066 359 1066 357 1066 326 1074 322 1076 320 1074 312 1068 312 1066 310 1066 308 1066 287 1068 267 1068 246 1068 226 1068 210 1068 200 1076 200 1078 79 1078 65 1123 65 1131 1236 1125 1236 1117 1232 1068 906 1062 904 1062"/></Shape>
-	    <String CONTENT="lors nest q̃stion de plourer; mais gros feux de ioye, gros trium"
+	    <String CONTENT="lors nest q̃stion de plourer: mais gros feux de ioye/ gros trium"
                     HPOS="65"
                     VPOS="1062"
                     WIDTH="1171"
@@ -331,7 +331,7 @@
                     WIDTH="1165"
                     HEIGHT="84">
             <Shape><Polygon POINTS="820 1121 800 1121 779 1121 759 1121 738 1121 718 1121 697 1121 677 1121 657 1121 636 1121 616 1121 595 1121 575 1121 555 1121 534 1121 514 1121 493 1121 491 1121 489 1121 487 1121 453 1131 448 1131 434 1131 265 1123 263 1123 181 1133 100 1125 97 1125 95 1125 65 1135 67 1184 71 1205 87 1194 232 1203 242 1203 244 1203 246 1203 248 1203 263 1192 1226 1192 1230 1172 1226 1121 840 1121 820 1121"/></Shape>
-	    <String CONTENT="phes ⁊ festins, oyez quil dit. Les spirituelz ⁊ ecclestasticques,"
+	    <String CONTENT="phes ⁊ festins/ oyez quil dit. Les spirituelz ⁊ ecclesiasticques/"
                     HPOS="65"
                     VPOS="1121"
                     WIDTH="1165"
@@ -348,7 +348,7 @@
                     WIDTH="1167"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1065 1174 1063 1174 1022 1184 1020 1184 881 1176 879 1176 802 1186 800 1186 795 1186 653 1178 636 1178 624 1188 614 1188 471 1180 453 1182 432 1182 412 1182 408 1182 65 1192 67 1241 67 1256 1230 1239 1232 1229 1228 1184 1067 1174 1065 1174"/></Shape>
-	    <String CONTENT="sont tous roys, cõme signifie la teste pelee en iceulx, ilz ont ce-"
+	    <String CONTENT="sont tous roys/ cõme signifie la teste pelee en iceulx/ ilz ont ce-"
                     HPOS="65"
                     VPOS="1174"
                     WIDTH="1167"
@@ -365,7 +365,7 @@
                     WIDTH="1169"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1124 1231 1122 1231 1120 1231 763 1247 700 1235 697 1235 628 1247 500 1239 497 1239 495 1239 493 1239 493 1241 483 1250 438 1239 432 1239 412 1239 391 1239 371 1239 351 1239 330 1239 312 1250 291 1239 289 1239 287 1239 285 1239 244 1250 114 1241 106 1241 85 1241 75 1241 65 1250 67 1298 67 1311 1232 1303 1234 1288 1230 1245 1138 1245 1126 1233 1126 1231 1124 1231"/></Shape>
-	    <String CONTENT="ste tonsure de l ordõnance Romaine.12.q.. Duo. ¶ Il nous"
+	    <String CONTENT="ste tonsure de lordõnance Romaine. 12.q.1.Duo. ¶ Il nous"
                     HPOS="65"
                     VPOS="1231"
                     WIDTH="1169"
@@ -382,7 +382,7 @@
                     WIDTH="1169"
                     HEIGHT="74">
             <Shape><Polygon POINTS="861 1292 846 1292 842 1296 836 1303 720 1303 704 1298 675 1294 657 1294 636 1294 628 1294 608 1300 597 1303 583 1300 538 1294 534 1294 514 1296 502 1296 473 1303 463 1296 453 1296 440 1296 426 1305 424 1305 410 1305 320 1296 310 1296 289 1298 269 1298 267 1298 210 1307 120 1298 106 1298 87 1298 65 1309 67 1356 67 1364 1232 1351 1234 1343 1228 1290 895 1298 883 1296 871 1292 861 1292"/></Shape>
-	    <String CONTENT="est dõne de cheuaucher cõme L empereur, lequel est nostre la-"
+	    <String CONTENT="est dõne de cheuaucher cõme Lempereur/ lequel est nostre la-"
                     HPOS="65"
                     VPOS="1290"
                     WIDTH="1169"
@@ -399,7 +399,7 @@
                     WIDTH="1169"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1169 1345 1148 1345 1128 1345 1108 1345 889 1356 873 1347 863 1347 857 1347 836 1358 834 1358 824 1358 718 1349 700 1349 685 1349 675 1358 610 1351 597 1351 577 1351 575 1351 526 1360 469 1351 455 1351 434 1354 424 1354 371 1362 287 1354 271 1354 255 1354 244 1364 191 1356 189 1356 67 1366 69 1411 69 1429 1234 1411 1236 1398 1232 1354 1169 1345 1169 1345"/></Shape>
-	    <String CONTENT="quect, tenant la bride de nostre cheual, ⁊ tous ceulx qui sont"
+	    <String CONTENT="quect/ tenant la bride de nostre cheual/ ⁊ tous ceulx qui sont"
                     HPOS="67"
                     VPOS="1345"
                     WIDTH="1169"
@@ -416,7 +416,7 @@
                     WIDTH="1165"
                     HEIGHT="73">
             <Shape><Polygon POINTS="71 1470 71 1480 1234 1472 1234 1458 1228 1407 69 1419 71 1470"/></Shape>
-	    <String CONTENT="soubz nous, doibuent aller comme les nobles de la court de"
+	    <String CONTENT="soubz nous/ doibuent aller comme les nobles de la court de"
                     HPOS="69"
                     VPOS="1407"
                     WIDTH="1165"
@@ -433,7 +433,7 @@
                     WIDTH="1163"
                     HEIGHT="63">
             <Shape><Polygon POINTS="69 1525 69 1533 1228 1525 1230 1517 1224 1470 67 1470 69 1525"/></Shape>
-	    <String CONTENT="L empereur; car toute gloire, honneur, ⁊ magnificence impe-"
+	    <String CONTENT="Lempereur: car toute gloire/ honneur/ ⁊ magnificence impe-"
                     HPOS="67"
                     VPOS="1470"
                     WIDTH="1163"
@@ -450,7 +450,7 @@
                     WIDTH="1169"
                     HEIGHT="69">
             <Shape><Polygon POINTS="351 1525 342 1525 302 1533 100 1525 97 1525 95 1525 65 1535 67 1582 67 1592 1232 1584 1234 1574 1230 1529 369 1523 351 1525"/></Shape>
-	    <String CONTENT="riale, tant en dignitez quen offices, cheuaulx, ⁊ habillemens"
+	    <String CONTENT="riale/ tant en dignitez quen offices/ cheuaulx/ ⁊ habillemens"
                     HPOS="65"
                     VPOS="1523"
                     WIDTH="1169"
@@ -467,7 +467,7 @@
                     WIDTH="1171"
                     HEIGHT="69">
             <Shape><Polygon POINTS="495 1580 169 1592 126 1584 124 1584 65 1594 67 1641 67 1649 1234 1637 1236 1629 1232 1582 497 1580 495 1580"/></Shape>
-	    <String CONTENT="noꝰ est dõnee auec toute L ẽpire de occident dist.96. Cõstan-"
+	    <String CONTENT="noꝰ est dõnee auec toute Lẽpire de occident dist.96.Cõstan-"
                     HPOS="65"
                     VPOS="1580"
                     WIDTH="1171"
@@ -484,7 +484,7 @@
                     WIDTH="1171"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1169 1631 1148 1631 1128 1631 1108 1631 1087 1631 1067 1631 1046 1631 1026 1633 1006 1633 985 1633 965 1633 944 1633 924 1633 904 1633 885 1633 859 1633 842 1635 822 1635 802 1635 781 1635 761 1635 748 1635 642 1635 638 1637 618 1637 612 1637 67 1643 69 1696 69 1706 1236 1696 1238 1686 1234 1639 1175 1631 1169 1631"/></Shape>
-	    <String CONTENT="tinus. ¶Le Pape est sur toutes gens ⁊ Royaumes. Extra-"
+	    <String CONTENT="tinus. ¶ Le Pape est sur toutes gens ⁊ Royaumes. Extra-"
                     HPOS="67"
                     VPOS="1631"
                     WIDTH="1171"
@@ -501,7 +501,7 @@
                     WIDTH="1173"
                     HEIGHT="75">
             <Shape><Polygon POINTS="761 1692 740 1692 720 1692 700 1692 679 1692 659 1692 638 1692 618 1692 600 1692 353 1702 191 1696 189 1696 169 1696 148 1696 128 1696 124 1696 67 1704 69 1753 69 1765 1238 1765 1240 1745 1236 1698 765 1690 761 1692"/></Shape>
-	    <String CONTENT="uag. Super gen. ¶Uoulez uoꝰ bouche plꝰ plaine de blasphe-"
+	    <String CONTENT="uag. Super gen. ¶ Uoulez uoꝰ bouche plꝰ plaine de blasphe-"
                     HPOS="67"
                     VPOS="1690"
                     WIDTH="1173"
@@ -518,7 +518,7 @@
                     WIDTH="1179"
                     HEIGHT="71">
             <Shape><Polygon POINTS="638 1751 618 1751 597 1751 577 1751 557 1751 536 1751 516 1751 495 1751 475 1751 455 1751 434 1751 414 1751 393 1751 373 1751 353 1753 332 1753 312 1753 291 1753 273 1753 67 1761 69 1812 69 1820 1244 1812 1246 1804 1242 1755 638 1749 638 1751"/></Shape>
-	    <String CONTENT="mes, que dire tenir le lieu de Iesus ⁊ de ses Apostres, ⁊ auoir"
+	    <String CONTENT="mes/ que dire tenir le lieu de Iesus ⁊ de ses Apostres/ ⁊ auoir"
                     HPOS="67"
                     VPOS="1749"
                     WIDTH="1179"
@@ -535,7 +535,7 @@
                     WIDTH="1179"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1191 1806 1171 1806 1151 1806 1130 1806 1122 1806 1008 1814 936 1808 926 1808 906 1808 885 1808 869 1808 848 1814 830 1808 824 1808 804 1808 797 1808 765 1816 418 1810 416 1810 395 1810 375 1810 355 1812 334 1812 314 1812 293 1812 273 1812 269 1812 206 1820 112 1812 110 1812 89 1812 79 1812 69 1818 71 1869 71 1886 1248 1867 1248 1859 1244 1814 1204 1806 1191 1806"/></Shape>
-	    <String CONTENT="la domination sur toute la terre, ⁊ appeller Lempereur son la-"
+	    <String CONTENT="la domination sur toute la terre/ ⁊ appeller Lempereur son la-"
                     HPOS="69"
                     VPOS="1806"
                     WIDTH="1179"
@@ -552,7 +552,7 @@
                     WIDTH="1175"
                     HEIGHT="80">
             <Shape><Polygon POINTS="883 1863 863 1863 842 1863 822 1863 818 1863 773 1869 746 1871 736 1869 722 1865 720 1865 700 1865 695 1865 687 1869 683 1871 681 1869 669 1865 659 1865 638 1865 628 1865 589 1871 573 1873 561 1871 528 1867 516 1867 495 1867 479 1867 461 1873 457 1876 453 1873 434 1867 434 1867 414 1867 412 1867 361 1876 357 1876 348 1876 163 1869 148 1869 128 1869 108 1869 91 1869 67 1878 69 1931 69 1941 1006 1939 1089 1929 1189 1937 1191 1937 1242 1924 1242 1918 1236 1861 932 1869 904 1865 885 1863 883 1863"/></Shape>
-	    <String CONTENT="quect. Ie croy que les princes sont si folz, qͥlz luy seruiront en-"
+	    <String CONTENT="quect. Ie croy que les princes sont si folz/ qͥlz luy seruiront en-"
                     HPOS="67"
                     VPOS="1861"
                     WIDTH="1175"
@@ -569,7 +569,7 @@
                     WIDTH="1139"
                     HEIGHT="84">
             <Shape><Polygon POINTS="918 1920 916 1920 883 1931 877 1931 848 1931 681 1922 679 1922 651 1922 638 1924 618 1924 597 1924 591 1924 83 1935 69 1982 69 2004 1208 1990 1208 1973 1204 1929 920 1920 918 1920"/></Shape>
-	    <String CONTENT="core de macquereaulx, ⁊ en tout ce quil luy plaira cõmander."
+	    <String CONTENT="core de macquereaulx/ ⁊ en tout ce quil luy plaira cõmander."
                     HPOS="69"
                     VPOS="1920"
                     WIDTH="1139"

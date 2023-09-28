@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="813"
                     HEIGHT="80">
             <Shape><Polygon POINTS="438 1690 440 1725 440 1733 1248 1733 1251 1716 1246 1668 1126 1653 1124 1653 1122 1653 1093 1668 987 1668 946 1655 944 1655 942 1655 940 1655 891 1668 857 1655 855 1655 853 1655 851 1655 848 1655 830 1670 757 1657 755 1657 753 1657 751 1657 751 1659 738 1672 685 1672 651 1657 648 1657 646 1657 565 1672 457 1661 455 1661 453 1661 451 1661 438 1670 438 1690"/></Shape>
-	    <String CONTENT="¶ Qui seslieue, sera humilie. Matthi.23."
+	    <String CONTENT="¶ Qui seslieue/ sera humilie. Matthi.23."
                     HPOS="438"
                     VPOS="1653"
                     WIDTH="813"
@@ -76,7 +76,7 @@
                     WIDTH="1178"
                     HEIGHT="72">
             <Shape><Polygon POINTS="1604 1727 1583 1727 1563 1727 1542 1727 1522 1725 1502 1725 1481 1725 1461 1725 1440 1723 1420 1723 1400 1723 1379 1723 1363 1721 1361 1723 1320 1721 1318 1721 1297 1721 1277 1721 1273 1716 1238 1714 1236 1719 1216 1719 1195 1719 1175 1719 1155 1719 1146 1719 1138 1725 1040 1719 1032 1719 1012 1719 991 1719 971 1719 951 1719 932 1719 851 1727 787 1719 787 1719 767 1719 763 1719 753 1727 689 1719 685 1719 665 1721 651 1721 606 1729 534 1725 522 1725 502 1725 481 1727 461 1727 448 1727 440 1729 442 1782 442 1786 1618 1784 1618 1772 1614 1727 1604 1727"/></Shape>
-	    <String CONTENT="¶Le Pape sest esleue sur toꝰ, il sera abisme plus bas que toꝰ."
+	    <String CONTENT="¶ Le Pape sest esleue sur toꝰ/ il sera abisme plus bas que toꝰ."
                     HPOS="440"
                     VPOS="1714"
                     WIDTH="1178"
@@ -110,7 +110,7 @@
                     WIDTH="1176"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1493 1829 1491 1829 1465 1841 444 1841 446 1890 446 1900 1618 1894 1620 1884 1616 1841 1495 1829 1493 1829"/></Shape>
-	    <String CONTENT="tu tombe lucifer, sortant au matin? es tu rue a terre, qui auois"
+	    <String CONTENT="tu tombe lucifer/ sortant au matin? es tu rue a terre/ qui auois"
                     HPOS="444"
                     VPOS="1829"
                     WIDTH="1176"
@@ -144,7 +144,7 @@
                     WIDTH="1168"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1334 1943 1332 1943 1330 1943 1312 1953 1073 1945 1071 1945 1024 1945 1016 1947 995 1947 991 1947 444 1959 446 2004 446 2014 1610 2006 1612 1996 1608 1953 1336 1943 1334 1943"/></Shape>
-	    <String CONTENT="coeur; Ie monteray es cieulx, ie esleueray mon siege sur les e-"
+	    <String CONTENT="coeur: Ie monteray es cieulx/ ie esleueray mon siege sur les e-"
                     HPOS="444"
                     VPOS="1943"
                     WIDTH="1168"
@@ -161,7 +161,7 @@
                     WIDTH="1176"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1485 1998 1465 1998 1459 1998 1448 2008 1114 2010 1028 2000 1016 2002 1002 2002 936 2010 920 2002 914 2002 893 2002 810 2012 793 2002 791 2002 789 2002 771 2002 751 2002 730 2004 710 2004 689 2004 669 2004 659 2004 567 2014 557 2006 557 2004 555 2004 553 2004 546 2004 526 2004 506 2004 485 2004 465 2004 461 2004 459 2004 457 2004 455 2004 444 2010 446 2065 446 2094 569 2094 569 2092 571 2092 573 2092 575 2090 593 2079 610 2090 612 2092 614 2092 616 2092 618 2092 777 2090 779 2090 781 2090 787 2086 800 2077 859 2084 910 2090 912 2090 914 2090 928 2084 944 2075 959 2081 973 2088 975 2088 977 2090 1124 2090 1124 2088 1126 2088 1146 2077 1153 2075 1161 2077 1185 2086 1187 2086 1189 2086 1191 2086 1228 2077 1242 2073 1259 2075 1314 2086 1316 2086 1318 2086 1320 2086 1332 2073 1334 2071 1620 2067 1620 2055 1616 2008 1491 1998 1485 1998"/></Shape>
-	    <String CONTENT="stoilles du Ciel, ie masserray sur la montaigne du testament"
+	    <String CONTENT="stoilles du Ciel/ ie masserray sur la montaigne du testament"
                     HPOS="444"
                     VPOS="1998"
                     WIDTH="1176"

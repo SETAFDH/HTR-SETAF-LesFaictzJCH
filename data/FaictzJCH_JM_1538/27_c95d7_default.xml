@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="1167"
                     HEIGHT="69">
             <Shape><Polygon POINTS="1548 1655 1528 1655 1508 1655 1487 1655 1467 1655 1446 1655 1426 1655 1406 1655 1385 1655 1365 1655 1344 1655 1324 1655 1304 1655 1283 1655 1263 1655 1242 1655 1222 1655 1202 1655 1181 1655 1161 1655 1140 1655 1120 1655 1100 1655 1079 1655 1059 1655 1038 1655 1018 1655 997 1655 977 1655 957 1655 936 1655 916 1655 895 1655 875 1655 855 1655 834 1655 814 1655 793 1655 773 1655 753 1655 732 1655 712 1655 691 1655 671 1655 651 1655 630 1655 610 1655 589 1655 569 1655 548 1655 528 1655 508 1655 487 1655 467 1655 446 1655 426 1655 424 1647 406 1647 408 1706 408 1716 1571 1704 1573 1694 1569 1647 1548 1647 1548 1655"/></Shape>
-	    <String CONTENT="¶ Grand multitude de peuple uenoit pour l ouyr, ⁊ pour estre"
+	    <String CONTENT="¶ Grand multitude de peuple uenoit pour louyr/ ⁊ pour estre"
                     HPOS="406"
                     VPOS="1647"
                     WIDTH="1167"
@@ -76,7 +76,7 @@
                     WIDTH="1167"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1336 1698 1334 1698 1314 1708 1312 1710 406 1710 408 1763 408 1772 1571 1763 1573 1753 1569 1708 1338 1698 1336 1698"/></Shape>
-	    <String CONTENT="gueris, de leurs maladies, ⁊ ceulx qui estoyent uexez des e-"
+	    <String CONTENT="gueris/ de leurs maladies/ ⁊ ceulx qui estoyent uexez des e-"
                     HPOS="406"
                     VPOS="1698"
                     WIDTH="1167"
@@ -93,7 +93,7 @@
                     WIDTH="1169"
                     HEIGHT="78">
             <Shape><Polygon POINTS="406 1825 406 1835 1571 1816 1573 1808 1567 1757 404 1772 406 1825"/></Shape>
-	    <String CONTENT="spritz immundes, estoyent gueris, ⁊ toute la multitude que-"
+	    <String CONTENT="spritz immundes/ estoyent gueris/ ⁊ toute la multitude que-"
                     HPOS="404"
                     VPOS="1757"
                     WIDTH="1169"
@@ -110,7 +110,7 @@
                     WIDTH="1159"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1263 1814 1259 1814 1197 1825 1071 1816 1059 1816 1038 1816 1028 1816 1004 1825 991 1816 977 1818 967 1818 942 1827 934 1818 916 1818 908 1818 842 1827 795 1820 793 1820 773 1820 755 1820 748 1827 597 1823 589 1823 569 1823 548 1825 528 1825 508 1825 487 1825 467 1825 446 1825 428 1825 424 1825 408 1853 408 1876 408 1886 1565 1882 1567 1867 1563 1825 1279 1812 1263 1814"/></Shape>
-	    <String CONTENT="roit le toucher; car uertu yssoit de luy, ⁊ guerissoit tous. Luc.6."
+	    <String CONTENT="roit le toucher: car uertu yssoit de luy/ ⁊ guerissoit tous. Luc.6."
                     HPOS="408"
                     VPOS="1812"
                     WIDTH="1159"
@@ -127,7 +127,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1353 1869 955 1882 928 1873 916 1873 912 1873 902 1884 712 1884 677 1876 671 1876 651 1876 648 1876 585 1884 573 1876 569 1876 548 1876 528 1876 508 1876 487 1876 467 1876 446 1876 428 1876 406 1886 408 1935 408 1943 1567 1937 1569 1929 1565 1880 1355 1869 1353 1869"/></Shape>
-	    <String CONTENT="¶Ilz luy presenterent plusieurs demoniacles, ⁊ il ietta hors"
+	    <String CONTENT="¶ Ilz luy presenterent plusieurs demoniacles/ ⁊ il ietta hors"
                     HPOS="406"
                     VPOS="1869"
                     WIDTH="1163"
@@ -144,7 +144,7 @@
                     WIDTH="1165"
                     HEIGHT="69">
             <Shape><Polygon POINTS="691 1935 671 1935 651 1935 630 1935 610 1935 589 1935 569 1935 548 1935 528 1935 508 1935 487 1935 467 1935 446 1935 426 1935 424 1933 418 1933 416 1933 414 1933 412 1933 412 1935 406 1939 408 1988 408 2002 1571 1994 1571 1984 1567 1941 704 1935 691 1935"/></Shape>
-	    <String CONTENT="les espritz, par la parolle, ⁊ guerist tous les malades; afin que"
+	    <String CONTENT="les espritz/ par la parolle/ ⁊ guerist tous les malades: afin que"
                     HPOS="406"
                     VPOS="1933"
                     WIDTH="1165"
@@ -161,7 +161,7 @@
                     WIDTH="1161"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1485 1986 1122 1996 1053 1986 1051 1986 985 1998 942 1988 940 1988 938 1988 516 1998 424 1988 422 1988 420 1988 418 1988 408 1996 410 2049 410 2069 1569 2069 1569 2045 1565 1998 1487 1986 1485 1986"/></Shape>
-	    <String CONTENT="fust accomply ce qui estoit dit par le Prophete Esaye; disant."
+	    <String CONTENT="fust accomply ce qui estoit dit par le Prophete Esaye: disant."
                     HPOS="408"
                     VPOS="1986"
                     WIDTH="1161"

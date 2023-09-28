@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="1174"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1604 1661 1583 1661 1563 1661 1542 1661 1522 1661 1502 1661 1481 1661 1461 1659 1440 1659 1420 1659 1400 1659 1379 1659 1359 1659 1338 1659 1318 1657 1297 1657 1277 1657 1257 1657 1236 1657 1216 1657 1195 1657 1175 1655 1155 1655 1134 1655 1114 1655 1093 1655 1073 1655 1053 1653 1032 1653 1012 1653 991 1653 971 1653 951 1653 930 1653 910 1651 889 1651 869 1651 848 1651 828 1651 808 1651 787 1651 777 1649 469 1649 461 1651 440 1651 442 1708 442 1719 610 1729 612 1729 614 1729 634 1719 642 1719 789 1727 791 1727 853 1716 855 1716 865 1725 865 1727 867 1727 869 1727 871 1727 936 1716 938 1716 942 1716 1002 1727 1004 1727 1006 1727 1008 1727 1026 1714 1028 1714 1030 1714 1055 1725 1057 1725 1059 1727 1242 1727 1242 1725 1614 1710 1614 1700 1608 1665 1604 1661"/></Shape>
-	    <String CONTENT="¶ Sẽtez certes en uous, ce qui a este en Iesus Christ, lequel"
+	    <String CONTENT="¶ Sẽtez certes en uous/ ce qui a este en Iesus Christ/ lequel"
                     HPOS="440"
                     VPOS="1649"
                     WIDTH="1174"
@@ -76,7 +76,7 @@
                     WIDTH="1166"
                     HEIGHT="72">
             <Shape><Polygon POINTS="1248 1704 1246 1704 1244 1704 1232 1714 1230 1716 1055 1716 1053 1714 1036 1704 1034 1704 1024 1704 969 1714 967 1714 951 1706 932 1706 912 1706 891 1706 871 1706 851 1706 830 1706 810 1706 806 1706 765 1714 763 1714 759 1714 681 1708 667 1708 646 1708 626 1708 606 1708 585 1708 569 1708 459 1714 444 1745 442 1763 442 1772 1606 1776 1608 1763 1608 1714 1251 1704 1248 1704"/></Shape>
-	    <String CONTENT="comme ainsi fut quil estoit en la forme de Dieu, il na point"
+	    <String CONTENT="comme ainsi fut quil estoit en la forme de Dieu/ il na point"
                     HPOS="442"
                     VPOS="1704"
                     WIDTH="1166"
@@ -93,7 +93,7 @@
                     WIDTH="1168"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1583 1765 1563 1765 1542 1765 1522 1765 1502 1765 1481 1765 1461 1765 1440 1765 1420 1765 1400 1765 1379 1765 1359 1765 1338 1765 1318 1765 1297 1765 1277 1765 1257 1765 1236 1765 1216 1765 1195 1765 1175 1765 1155 1765 1134 1765 1114 1765 628 1769 579 1765 563 1765 542 1765 522 1765 502 1765 481 1765 477 1765 440 1772 442 1820 442 1833 1606 1825 1608 1816 1602 1765 1583 1765"/></Shape>
-	    <String CONTENT="repute larrecin, estre esgal a Dieu: mais il sest aneãty soymes-"
+	    <String CONTENT="repute larrecin/ estre esgal a Dieu: mais il sest aneãty soymes-"
                     HPOS="440"
                     VPOS="1765"
                     WIDTH="1168"
@@ -110,7 +110,7 @@
                     WIDTH="1164"
                     HEIGHT="70">
             <Shape><Polygon POINTS="473 1820 471 1820 440 1831 442 1878 442 1890 1602 1886 1604 1871 1600 1827 475 1820 473 1820"/></Shape>
-	    <String CONTENT="me, prenant la forme du seruiteur, faict a la similitude des"
+	    <String CONTENT="me/ prenant la forme du seruiteur/ faict a la similitude des"
                     HPOS="440"
                     VPOS="1820"
                     WIDTH="1164"
@@ -127,7 +127,7 @@
                     WIDTH="1164"
                     HEIGHT="57">
             <Shape><Polygon POINTS="442 1935 442 1943 1602 1939 1604 1931 1600 1886 440 1886 442 1935"/></Shape>
-	    <String CONTENT="hommes, ⁊ trouue en habit, comme homme. Il sest humilie"
+	    <String CONTENT="hommes/ ⁊ trouue en habit/ comme homme. Il sest humilie"
                     HPOS="440"
                     VPOS="1886"
                     WIDTH="1164"
@@ -144,7 +144,7 @@
                     WIDTH="1164"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1469 1933 1322 1943 1293 1933 1291 1933 1289 1933 1183 1943 1112 1933 1110 1933 1048 1943 1024 1933 1012 1935 991 1935 971 1935 951 1935 930 1935 924 1935 922 1935 920 1935 908 1945 581 1935 579 1935 512 1945 461 1935 440 1947 442 1992 442 2006 1602 1998 1604 1988 1600 1945 1471 1933 1469 1933"/></Shape>
-	    <String CONTENT="soy mesme, ⁊ a este faict obedient, iusques a la mort, uoire a"
+	    <String CONTENT="soy mesme/ ⁊ a este faict obedient/ iusques a la mort/ uoire a"
                     HPOS="440"
                     VPOS="1933"
                     WIDTH="1164"

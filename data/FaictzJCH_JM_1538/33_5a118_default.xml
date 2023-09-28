@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -137,7 +137,7 @@
                     WIDTH="115"
                     HEIGHT="76">
             <Shape><Polygon POINTS="395 454 375 452 355 450 334 448 314 448 293 456 297 505 297 511 367 524 369 524 371 524 408 505 408 499 402 466 395 454"/></Shape>
-	    <String CONTENT="¶Le"
+	    <String CONTENT="¶ Le"
                     HPOS="293"
                     VPOS="448"
                     WIDTH="115"
@@ -256,7 +256,7 @@
                     WIDTH="141"
                     HEIGHT="75">
             <Shape><Polygon POINTS="326 844 306 844 302 844 265 856 269 905 269 917 404 917 406 899 402 850 328 842 326 844"/></Shape>
-	    <String CONTENT="glises;"
+	    <String CONTENT="glises:"
                     HPOS="265"
                     VPOS="842"
                     WIDTH="141"
@@ -307,7 +307,7 @@
                     WIDTH="137"
                     HEIGHT="65">
             <Shape><Polygon POINTS="269 1072 269 1084 404 1080 404 1068 400 1025 267 1019 269 1072"/></Shape>
-	    <String CONTENT="la por"
+	    <String CONTENT="la por-"
                     HPOS="267"
                     VPOS="1019"
                     WIDTH="137"
@@ -375,7 +375,7 @@
                     WIDTH="139"
                     HEIGHT="64">
             <Shape><Polygon POINTS="328 1247 308 1247 287 1247 267 1245 269 1298 269 1309 406 1307 406 1294 402 1250 334 1247 328 1247"/></Shape>
-	    <String CONTENT="le gon,"
+	    <String CONTENT="le gon/"
                     HPOS="267"
                     VPOS="1245"
                     WIDTH="139"
@@ -426,7 +426,7 @@
                     WIDTH="151"
                     HEIGHT="73">
             <Shape><Polygon POINTS="271 1474 271 1484 377 1484 418 1500 422 1474 422 1427 271 1427 271 1474"/></Shape>
-	    <String CONTENT="torite,"
+	    <String CONTENT="torite/"
                     HPOS="271"
                     VPOS="1427"
                     WIDTH="151"
@@ -494,7 +494,7 @@
                     WIDTH="1296"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1553 1661 1532 1661 1512 1661 1491 1661 1471 1661 1451 1659 1430 1659 1410 1659 1389 1659 1369 1657 1348 1657 1328 1657 1308 1657 1287 1655 1267 1655 1246 1655 1226 1655 1206 1653 1185 1653 1165 1653 1144 1653 1124 1653 1104 1651 1083 1651 1063 1651 1042 1651 1022 1649 1002 1649 981 1649 961 1649 948 1647 267 1649 269 1700 269 1712 1114 1725 1116 1725 1563 1710 1563 1696 1557 1645 1553 1645 1553 1661"/></Shape>
-	    <String CONTENT="glises sont gouuernees. Il est appelle pere des peres, cest adire uniuer"
+	    <String CONTENT="glises sont gouuernees. Il est appelle pere des peres/ cest adire uniuer"
                     HPOS="267"
                     VPOS="1645"
                     WIDTH="1296"
@@ -511,7 +511,7 @@
                     WIDTH="1294"
                     HEIGHT="86">
             <Shape><Polygon POINTS="1187 1706 1167 1706 1146 1706 1126 1706 1106 1708 1085 1708 1065 1708 1044 1708 1024 1710 1004 1710 991 1710 977 1712 269 1706 271 1757 271 1774 463 1774 491 1784 493 1784 495 1784 1563 1774 1563 1757 1557 1698 1297 1710 1195 1704 1187 1706"/></Shape>
-	    <String CONTENT="Iel; car il est prince sur toute l eglise, ⁊ est souuerain pontife; car il est"
+	    <String CONTENT="Iel: car il est prince sur toute leglise/ ⁊ est souuerain pontife: car il est"
                     HPOS="269"
                     VPOS="1698"
                     WIDTH="1294"
@@ -528,7 +528,7 @@
                     WIDTH="1288"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1187 1763 1167 1763 1146 1763 1126 1763 1122 1763 1018 1763 1004 1765 983 1765 963 1765 942 1765 922 1765 902 1765 881 1765 861 1765 840 1765 820 1767 800 1767 779 1767 759 1767 738 1767 718 1767 697 1767 677 1767 657 1767 636 1767 616 1767 595 1767 575 1767 561 1765 269 1765 271 1812 271 1829 1202 1837 1204 1837 1555 1825 1557 1814 1551 1761 1189 1761 1187 1763"/></Shape>
-	    <String CONTENT="sur tous les pontifes, duquel comme de la teste, iceulx comme mem"
+	    <String CONTENT="sur tous les pontifes/ duquel comme de la teste/ iceulx comme mem"
                     HPOS="269"
                     VPOS="1761"
                     WIDTH="1288"
@@ -545,7 +545,7 @@
                     WIDTH="1284"
                     HEIGHT="78">
             <Shape><Polygon POINTS="987 1823 967 1823 946 1823 926 1825 914 1825 875 1829 865 1825 865 1825 844 1825 824 1825 804 1825 785 1825 765 1827 761 1825 742 1825 724 1825 720 1827 544 1820 538 1820 532 1818 487 1818 477 1818 457 1818 438 1816 430 1816 428 1816 426 1816 393 1827 383 1816 381 1816 379 1816 377 1816 314 1827 300 1816 297 1816 295 1816 293 1816 291 1816 273 1825 273 1873 273 1894 1555 1886 1557 1871 1538 1825 1520 1818 1518 1818 1516 1818 1026 1829 1024 1829 993 1823 987 1823"/></Shape>
-	    <String CONTENT="bres descendent, de la plenitude, duq̃l tous prẽnent, lesq̃lz ilz appel-"
+	    <String CONTENT="bres descendent/ de la plenitude/ duq̃l tous prẽnent/ lesq̃lz ilz appel-"
                     HPOS="273"
                     VPOS="1816"
                     WIDTH="1284"
@@ -562,7 +562,7 @@
                     WIDTH="1282"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1432 1876 1426 1876 1408 1888 1308 1888 1289 1878 1289 1880 1269 1880 1248 1880 1228 1880 1208 1882 1187 1882 1167 1882 1146 1882 1126 1882 1106 1882 1097 1882 1075 1886 1071 1882 1065 1882 1044 1882 1034 1882 1020 1886 1008 1882 1004 1882 983 1882 963 1882 953 1882 906 1890 844 1890 836 1884 830 1880 820 1880 800 1880 779 1880 765 1880 683 1886 655 1888 646 1888 604 1878 595 1878 575 1878 555 1878 534 1878 514 1878 493 1878 473 1876 453 1876 444 1876 442 1876 373 1888 289 1876 287 1876 285 1876 283 1876 269 1886 271 1935 271 1943 1548 1949 1551 1931 1542 1873 1516 1884 1446 1876 1432 1876"/></Shape>
-	    <String CONTENT="le en partie de soing, non point a la plenitude de puissance. Cestuy"
+	    <String CONTENT="le en partie de soing/ non point a la plenitude de puissance. Cestuy"
                     HPOS="269"
                     VPOS="1873"
                     WIDTH="1282"
@@ -579,7 +579,7 @@
                     WIDTH="1290"
                     HEIGHT="81">
             <Shape><Polygon POINTS="1148 1933 1128 1933 1108 1933 1087 1933 1067 1933 1046 1933 1038 1933 967 1943 836 1935 822 1935 802 1935 795 1935 781 1947 702 1947 663 1935 659 1935 646 1935 628 1945 620 1937 620 1935 618 1935 616 1935 597 1935 577 1935 557 1935 536 1935 516 1935 504 1935 406 1943 306 1935 304 1935 302 1935 271 1947 273 1996 273 2006 785 2014 787 2014 865 2002 873 2002 885 2002 1018 2012 1020 2012 1093 2002 1434 2008 1436 2008 1438 2008 1440 2008 1453 1998 1504 2008 1506 2008 1559 1996 1561 1986 1557 1941 1157 1933 1148 1933"/></Shape>
-	    <String CONTENT="est Melchisedec, duquel l office nest cõpare aux autres. lib.ii. ratio"
+	    <String CONTENT="est Melchisedec/ duquel loffice nest cõpare aux autres. lib.ii. ratio"
                     HPOS="271"
                     VPOS="1933"
                     WIDTH="1290"

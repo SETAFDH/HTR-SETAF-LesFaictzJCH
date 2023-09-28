@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="837"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1357 340 1336 340 1334 338 579 338 561 340 540 340 542 399 542 409 1377 407 1377 395 1369 360 1357 340"/></Shape>
-	    <String CONTENT="¶ Pour les esleuz, ces iours seront abregez."
+	    <String CONTENT="¶ Pour les esleuz/ ces iours seront abregez."
                     HPOS="540"
                     VPOS="338"
                     WIDTH="837"
@@ -76,7 +76,7 @@
                     WIDTH="231"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1077 534 1057 532 1036 530 1016 528 995 526 975 524 959 519 885 519 873 532 873 566 873 579 1000 593 1002 593 1004 593 1006 593 1024 579 1026 579 1104 579 1104 566 1083 534 1077 534"/></Shape>
-	    <String CONTENT="Esaye .11."
+	    <String CONTENT="Esaye.11."
                     HPOS="873"
                     VPOS="519"
                     WIDTH="231"
@@ -93,7 +93,7 @@
                     WIDTH="998"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1451 630 1430 626 1414 619 1397 619 1389 619 1369 619 1348 619 1328 619 1308 619 1295 619 1263 626 1234 619 1226 619 1206 619 1204 619 1197 626 1163 619 1144 619 1126 619 1032 628 669 619 667 619 585 632 491 621 489 621 487 621 485 621 471 630 473 687 473 697 1467 695 1469 677 1465 632 1451 630"/></Shape>
-	    <String CONTENT="¶ Par L esprit de ses leures, il occira le mescreant."
+	    <String CONTENT="¶ Par Lesprit de ses leures/ il occira le mescreant."
                     HPOS="471"
                     VPOS="619"
                     WIDTH="998"
@@ -127,7 +127,7 @@
                     WIDTH="1165"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1546 911 1526 911 1506 911 1485 911 1465 911 1444 911 1424 911 1404 911 1383 911 1363 911 1342 911 1322 911 1302 911 1281 911 1261 909 1240 909 1220 909 1200 909 1179 909 1159 909 1138 909 1118 909 1097 909 1077 909 1057 909 1036 909 1016 909 995 909 975 907 957 907 918 915 769 907 751 907 746 907 744 907 738 907 685 917 628 907 620 907 618 907 546 907 536 909 534 909 532 909 532 911 522 919 404 909 406 976 406 991 1567 972 1569 964 1565 917 1546 911"/></Shape>
-	    <String CONTENT="¶Les paoures sesiouyront au sainct Disrael, quand le ty-"
+	    <String CONTENT="¶Les paoures sesiouyront au sainct Disrael/ quand le ty-"
                     HPOS="404"
                     VPOS="907"
                     WIDTH="1165"
@@ -144,7 +144,7 @@
                     WIDTH="1167"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1557 966 1534 974 1408 966 1402 966 1381 966 1361 968 1340 968 1330 968 1263 976 1171 970 1157 970 1136 970 1116 970 1095 970 1075 970 1071 970 1059 972 1020 978 1008 972 1002 970 993 970 977 970 969 974 953 978 887 974 838 972 830 972 810 972 789 974 773 974 763 978 753 980 700 978 606 974 606 974 585 976 565 976 544 976 524 976 508 976 418 982 406 1007 404 1033 404 1042 1569 1031 1571 1023 1563 966 1557 966"/></Shape>
-	    <String CONTENT="rant cessera, ⁊ quand le mocqueur deffauldra, quãd ceulx qui"
+	    <String CONTENT="rant cessera/ ⁊ quand le mocqueur deffauldra/ quãd ceulx qui"
                     HPOS="404"
                     VPOS="966"
                     WIDTH="1167"
@@ -161,7 +161,7 @@
                     WIDTH="1161"
                     HEIGHT="86">
             <Shape><Polygon POINTS="1546 1025 1526 1025 1506 1025 1485 1025 1465 1025 1444 1025 1430 1025 1240 1031 1116 1027 1097 1029 1077 1029 1057 1029 1036 1029 1016 1029 995 1029 975 1029 969 1029 961 1033 897 1031 867 1029 853 1031 832 1031 812 1031 791 1031 771 1031 751 1031 730 1031 724 1031 708 1033 689 1035 651 1035 600 1033 587 1033 567 1033 546 1033 526 1033 506 1033 485 1033 465 1033 444 1033 424 1033 404 1050 406 1088 406 1097 485 1109 487 1109 489 1109 530 1099 551 1111 553 1111 555 1111 557 1111 559 1111 602 1099 663 1111 665 1111 744 1097 769 1109 771 1109 773 1109 775 1109 822 1097 948 1109 951 1109 953 1109 1004 1095 1020 1107 1022 1107 1024 1107 1026 1107 1085 1097 1263 1107 1265 1107 1373 1095 1510 1105 1512 1105 1514 1105 1565 1088 1565 1080 1559 1025 1546 1025"/></Shape>
-	    <String CONTENT="constraignoyent a faire iniquite seront couppez, qui font pe-"
+	    <String CONTENT="constraignoyent a faire iniquite seront couppez/ qui font pe-"
                     HPOS="404"
                     VPOS="1025"
                     WIDTH="1161"
@@ -178,7 +178,7 @@
                     WIDTH="647"
                     HEIGHT="80">
             <Shape><Polygon POINTS="893 1086 875 1086 859 1092 810 1086 808 1086 806 1086 773 1097 753 1086 751 1086 730 1086 716 1086 653 1097 632 1088 628 1088 608 1088 597 1088 571 1099 542 1088 526 1088 516 1088 493 1099 444 1088 444 1088 424 1088 416 1088 404 1101 406 1148 406 1166 1048 1156 1051 1141 1046 1099 942 1099 912 1086 893 1086"/></Shape>
-	    <String CONTENT="cher l homme en la parolle."
+	    <String CONTENT="cher lhomme en la parolle."
                     HPOS="404"
                     VPOS="1086"
                     WIDTH="647"
@@ -195,7 +195,7 @@
                     WIDTH="257"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1108 1270 1087 1270 1067 1270 1046 1268 1026 1268 1006 1266 985 1266 965 1266 883 1266 863 1270 863 1317 863 1327 1120 1325 1120 1317 1116 1276 1108 1270"/></Shape>
-	    <String CONTENT="2. Timot .3."
+	    <String CONTENT="2.Timot.3."
                     HPOS="863"
                     VPOS="1266"
                     WIDTH="257"
@@ -212,7 +212,7 @@
                     WIDTH="898"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1420 1384 1400 1384 1379 1382 1359 1382 1338 1380 1318 1380 1297 1380 1277 1378 1257 1378 1236 1376 1216 1376 1195 1374 1175 1374 1155 1374 1134 1372 1114 1372 1093 1370 1073 1370 1053 1368 1051 1366 989 1366 987 1366 559 1378 542 1390 544 1433 544 1445 1440 1435 1440 1425 1426 1386 1420 1384"/></Shape>
-	    <String CONTENT="¶ Hommes corrompus d entendement, reprou-"
+	    <String CONTENT="¶ Hommes corrompus dentendement/ reprou-"
                     HPOS="542"
                     VPOS="1366"
                     WIDTH="898"
@@ -229,7 +229,7 @@
                     WIDTH="723"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1340 1435 1210 1427 1197 1429 1177 1429 1157 1429 1136 1429 1132 1429 1124 1437 1046 1437 1014 1429 993 1429 973 1431 953 1431 948 1431 922 1437 842 1431 830 1431 810 1431 789 1431 769 1431 748 1433 728 1433 708 1433 706 1433 679 1437 673 1433 667 1433 646 1433 628 1478 628 1488 628 1502 965 1506 967 1506 969 1506 1002 1498 1008 1496 1014 1498 1042 1506 1044 1506 1046 1506 1048 1506 1073 1496 1075 1496 1079 1496 1128 1506 1130 1506 1132 1506 1159 1496 1208 1506 1210 1506 1291 1496 1320 1506 1322 1506 1324 1506 1326 1506 1351 1492 1351 1484 1348 1482 1340 1435"/></Shape>
-	    <String CONTENT="uez en la foy;mais ilz ne proffiteront"
+	    <String CONTENT="uez en la foy: mais ilz ne proffiteront"
                     HPOS="628"
                     VPOS="1427"
                     WIDTH="723"
@@ -297,7 +297,7 @@
                     WIDTH="896"
                     HEIGHT="119">
             <Shape><Polygon POINTS="1418 1723 1397 1719 1377 1719 1357 1716 1336 1716 1316 1716 1295 1714 1277 1714 1275 1714 1255 1712 1234 1712 1214 1710 1206 1710 1193 1712 1177 1714 540 1710 542 1782 542 1829 604 1829 604 1827 606 1827 608 1827 642 1798 663 1808 665 1808 667 1808 765 1796 834 1823 836 1823 838 1823 840 1823 897 1798 995 1804 997 1804 1000 1804 1002 1804 1016 1794 1075 1810 1077 1810 1079 1810 1081 1810 1083 1810 1110 1794 1173 1794 1240 1820 1242 1820 1244 1820 1436 1818 1436 1774 1426 1727 1418 1723"/></Shape>
-	    <String CONTENT="¶  Imprime a Rome au chasteau sainct Ange."
+	    <String CONTENT="¶  Imprime a Rome/ au chasteau sainct Ange."
                     HPOS="540"
                     VPOS="1710"
                     WIDTH="896"

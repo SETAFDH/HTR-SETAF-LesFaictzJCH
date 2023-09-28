@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT896" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="BT728" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT729" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT730" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT731" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT732" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT796" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1117" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1132" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
     <OtherTag ID="LT246" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT247" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT277" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT415" LABEL="CustomLine:handwrittenNote" DESCRIPTION="line type CustomLine:handwrittenNote"/><OtherTag ID="LT462" LABEL="CustomLine:Faits" DESCRIPTION="line type CustomLine:Faits"/>
   </Tags>
   
@@ -42,7 +42,7 @@
                     WIDTH="494"
                     HEIGHT="88">
             <Shape><Polygon POINTS="985 122 965 122 944 122 924 122 904 122 861 124 820 126 814 124 808 122 802 122 781 122 761 122 740 122 738 122 720 124 720 191 718 205 1208 210 1212 203 1210 124 1130 134 1108 124 1106 124 1104 124 1097 124 1014 130 1004 124 1002 122 985 122"/></Shape>
-	    <String CONTENT="Sur l asne vient"
+	    <String CONTENT="Sur lasne vient"
                     HPOS="718"
                     VPOS="122"
                     WIDTH="494"
@@ -59,7 +59,7 @@
                     WIDTH="1169"
                     HEIGHT="67">
             <Shape><Polygon POINTS="1577 1653 1557 1645 1536 1645 1516 1645 1495 1645 1475 1645 1455 1645 1434 1645 1414 1645 1393 1645 1373 1645 1353 1645 1332 1645 1312 1645 1291 1645 1271 1643 1251 1643 1230 1643 1210 1643 1189 1643 1169 1643 1148 1643 1128 1643 1108 1643 1087 1643 1067 1643 1046 1643 1026 1643 1006 1643 985 1641 965 1641 944 1641 924 1641 904 1641 883 1641 863 1641 842 1641 822 1641 802 1641 781 1641 761 1641 740 1641 720 1641 700 1639 679 1639 659 1639 638 1639 618 1639 597 1639 577 1639 557 1639 536 1639 528 1639 414 1639 414 1692 412 1702 1577 1706 1581 1696 1581 1655 1577 1653"/></Shape>
-	    <String CONTENT="¶ Leuez uoz yeulx a la uraye clarte ⁊ Lumiere, Iesus, lequel"
+	    <String CONTENT="¶ Leuez uoz yeulx a la uraye clarte ⁊ Lumiere/ Iesus/ lequel"
                     HPOS="412"
                     VPOS="1639"
                     WIDTH="1169"
@@ -76,7 +76,7 @@
                     WIDTH="1167"
                     HEIGHT="71">
             <Shape><Polygon POINTS="577 1694 557 1694 536 1694 516 1694 495 1694 475 1694 455 1694 434 1694 414 1694 414 1745 412 1763 1575 1765 1579 1753 1577 1706 579 1694 577 1694"/></Shape>
-	    <String CONTENT="faict son entree en la cite rebelle, qui a resiste tousiours a ue-"
+	    <String CONTENT="faict son entree en la cite rebelle/ qui a resiste tousiours a ue-"
                     HPOS="412"
                     VPOS="1694"
                     WIDTH="1167"
@@ -93,7 +93,7 @@
                     WIDTH="1165"
                     HEIGHT="76">
             <Shape><Polygon POINTS="414 1802 412 1812 1573 1829 1577 1812 1575 1761 414 1753 414 1802"/></Shape>
-	    <String CONTENT="rite, de laquelle Iesus a uoulu assembler les enfans, comme"
+	    <String CONTENT="rite/ de laquelle Iesus a uoulu assembler les enfans/ comme"
                     HPOS="412"
                     VPOS="1753"
                     WIDTH="1165"
@@ -110,7 +110,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="414 1857 412 1867 579 1882 581 1884 1573 1884 1575 1871 1573 1818 414 1810 414 1857"/></Shape>
-	    <String CONTENT="la geline assemble ses petis; ⁊ ne la point uoulu. Matth.23."
+	    <String CONTENT="la geline assemble ses petis: ⁊ ne la point uoulu. Matth.23."
                     HPOS="412"
                     VPOS="1810"
                     WIDTH="1163"
@@ -127,7 +127,7 @@
                     WIDTH="1165"
                     HEIGHT="78">
             <Shape><Polygon POINTS="416 1916 414 1924 636 1939 638 1939 1144 1935 1193 1945 1195 1945 1577 1937 1579 1929 1579 1880 416 1867 416 1916"/></Shape>
-	    <String CONTENT="Et pourtant Iesus uoyant la Cite, a pleure sur icelle. Luc.19."
+	    <String CONTENT="Et pourtant Iesus uoyant la Cite/ a pleure sur icelle. Luc.19."
                     HPOS="414"
                     VPOS="1867"
                     WIDTH="1165"
@@ -144,7 +144,7 @@
                     WIDTH="1163"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1559 1929 1538 1929 1518 1929 1497 1929 1477 1929 1457 1929 1436 1929 1416 1929 1395 1929 1379 1927 728 1929 710 1920 702 1920 681 1920 661 1920 648 1920 514 1927 434 1918 416 1918 416 1975 414 1986 1573 2002 1577 1984 1573 1929 1559 1929"/></Shape>
-	    <String CONTENT="¶ De si grande doulceur ⁊ misericorde, est le bon Sauueur,"
+	    <String CONTENT="¶ De si grande doulceur ⁊ misericorde/ est le bon Sauueur/"
                     HPOS="414"
                     VPOS="1918"
                     WIDTH="1163"
@@ -161,7 +161,7 @@
                     WIDTH="1165"
                     HEIGHT="91">
             <Shape><Polygon POINTS="416 2031 414 2065 479 2055 579 2055 597 2067 600 2067 602 2067 604 2067 608 2067 671 2057 685 2067 687 2069 689 2069 691 2069 693 2069 695 2069 702 2067 726 2057 744 2067 746 2069 748 2069 751 2069 753 2069 787 2067 832 2063 851 2067 881 2073 883 2075 1097 2075 1097 2073 1132 2065 1155 2061 1175 2065 1218 2075 1220 2075 1577 2063 1579 2041 1577 1992 416 1984 416 2031"/></Shape>
-	    <String CONTENT="ne cessant ⁊ ne delaissant de bien faire, uoyre a ses ennemys"
+	    <String CONTENT="ne cessant ⁊ ne delaissant de bien faire/ uoyre a ses ennemys"
                     HPOS="414"
                     VPOS="1984"
                     WIDTH="1165"
@@ -188,7 +188,7 @@
                     WIDTH="133"
                     HEIGHT="78">
             <Shape><Polygon POINTS="275 897 275 907 408 905 408 897 408 846 275 829 275 897"/></Shape>
-	    <String CONTENT="ᑕhristꝰ"
+	    <String CONTENT="Christꝰ"
                     HPOS="275"
                     VPOS="829"
                     WIDTH="133"
