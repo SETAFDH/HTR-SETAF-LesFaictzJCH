@@ -76,7 +76,7 @@
                     WIDTH="546"
                     HEIGHT="120">
             <Shape><Polygon POINTS="529 955 526 967 1067 970 1072 958 1072 853 967 850 964 850 961 850 958 850 950 859 926 879 894 862 891 862 888 862 885 862 841 879 762 868 742 865 739 865 736 865 733 865 730 868 713 882 643 874 581 865 578 865 575 865 529 876 529 955"/></Shape>
-	    <String CONTENT="¶Grand multitude de peu"
+	    <String CONTENT="¶ Grand multitude de peu"
                     HPOS="526"
                     VPOS="850"
                     WIDTH="546"
@@ -93,7 +93,7 @@
                     WIDTH="546"
                     HEIGHT="73">
             <Shape><Polygon POINTS="792 955 762 955 733 955 704 955 675 955 646 955 616 955 587 955 558 955 529 953 529 1005 526 1026 1069 1026 1072 1011 1069 958 798 955 792 955"/></Shape>
-	    <String CONTENT="ple uenoit poͬ louyr, ⁊ pour"
+	    <String CONTENT="ple uenoit poͬ louyr/ ⁊ pour"
                     HPOS="526"
                     VPOS="953"
                     WIDTH="546"
@@ -365,7 +365,7 @@
                     WIDTH="1716"
                     HEIGHT="76">
             <Shape><Polygon POINTS="2221 1903 2192 1903 2163 1903 2134 1900 2104 1900 2075 1900 2046 1897 2017 1897 1987 1897 1958 1897 1929 1894 1900 1894 1870 1894 1403 1894 1400 1891 1397 1888 1373 1888 1344 1888 1315 1888 1286 1888 1257 1888 1227 1888 1198 1888 1169 1888 1140 1888 1110 1888 1081 1888 1052 1888 1023 1888 993 1888 964 1888 935 1885 906 1885 877 1885 847 1885 818 1885 789 1885 760 1885 736 1885 526 1885 526 1941 523 1955 2233 1961 2239 1946 2236 1900 2221 1903"/></Shape>
-	    <String CONTENT="¶ Il guerist plusieurs de leurs maladies ⁊ playes, ⁊ des mauuais esperitz/ ⁊ rẽdit la ueue"
+	    <String CONTENT="¶ Il guerist plusieurs de leurs maladies ⁊ playes/ ⁊ des mauuais esperitz/ ⁊ rẽdit la ueue"
                     HPOS="523"
                     VPOS="1885"
                     WIDTH="1716"
@@ -450,7 +450,7 @@
                     WIDTH="1704"
                     HEIGHT="102">
             <Shape><Polygon POINTS="1110 2177 1081 2177 1052 2177 1023 2177 993 2177 964 2177 935 2177 906 2177 877 2177 847 2177 526 2177 526 2236 526 2256 2230 2256 2230 2236 2230 2174 2177 2157 2174 2157 2172 2157 2093 2174 2034 2154 2031 2154 1642 2154 1639 2154 1637 2154 1634 2154 1616 2172 1566 2154 1563 2154 1207 2154 1204 2154 1201 2154 1198 2154 1163 2177 1140 2177 1110 2177"/></Shape>
-	    <String CONTENT="¶ Il nest aultre mention par tout fors comment le Sauueur a ayde auy paoures mala-"
+	    <String CONTENT="¶ Il nest aultre mention par tout fors comment le Sauueur a ayde aux paoures mala-"
                     HPOS="526"
                     VPOS="2154"
                     WIDTH="1704"
@@ -535,7 +535,7 @@
                     WIDTH="1707"
                     HEIGHT="99">
             <Shape><Polygon POINTS="2218 2473 2189 2473 2160 2473 2131 2473 2101 2473 2072 2473 2043 2473 2014 2473 1984 2473 1955 2473 1926 2473 1897 2473 1868 2473 1838 2473 1809 2473 1780 2473 1751 2473 1721 2473 1692 2473 1663 2473 1634 2473 1604 2473 1575 2473 1546 2473 1517 2473 1487 2473 1458 2473 1429 2473 1400 2473 1371 2470 1341 2470 1312 2470 1283 2470 1254 2470 1224 2470 1195 2470 1166 2470 1137 2470 1107 2470 1078 2470 1049 2470 1020 2470 991 2470 961 2470 932 2470 903 2470 874 2470 844 2470 815 2470 786 2470 757 2470 727 2470 698 2470 669 2470 640 2470 610 2470 581 2470 552 2470 523 2470 523 2525 520 2543 1087 2543 1201 2554 1251 2560 1254 2560 1257 2560 1268 2557 1295 2546 1642 2546 1657 2557 1657 2560 1660 2560 1663 2560 1666 2560 1675 2560 1856 2549 1938 2563 1952 2566 1955 2569 2224 2569 2227 2534 2224 2470 2218 2470 2218 2473"/></Shape>
-	    <String CONTENT="contre Iesus/ pourtant quil alloit en hierusalem/ ne dit il pas quilz ne scauoyent de quel"
+	    <String CONTENT="contre Iesus/ pourtant quil alloit en Hierusalem/ ne dit il pas quilz ne scauoyent de quel"
                     HPOS="520"
                     VPOS="2470"
                     WIDTH="1707"

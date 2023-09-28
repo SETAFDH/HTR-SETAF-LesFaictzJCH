@@ -59,7 +59,7 @@
                     WIDTH="476"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1844 456 1815 456 1786 456 1756 456 1727 456 1698 456 1669 456 1639 456 1610 456 1581 456 1552 456 1523 456 1493 456 1464 456 1435 450 1435 496 1435 517 1876 534 1879 534 1882 534 1885 534 1911 517 1911 496 1900 476 1873 456"/></Shape>
-	    <String CONTENT="Ttiplicem gerit ille coronam."
+	    <String CONTENT="Triplicem gerit ille coronam."
                     HPOS="1435"
                     VPOS="450"
                     WIDTH="476"
@@ -76,7 +76,7 @@
                     WIDTH="555"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1917 686 1888 686 1859 686 1830 686 1800 684 1771 684 1742 684 1713 684 1683 681 1654 681 1625 681 1596 681 1566 678 1537 678 1508 678 1479 678 1449 678 1420 681 1391 684 1394 733 1394 748 1944 742 1946 727 1941 681 1917 686"/></Shape>
-	    <String CONTENT="¶Quel orgueil, qu elle põ-"
+	    <String CONTENT="¶ Quel orgueil/ quelle põ-"
                     HPOS="1391"
                     VPOS="678"
                     WIDTH="555"
@@ -93,7 +93,7 @@
                     WIDTH="556"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1391 786 1388 803 1941 803 1944 792 1920 736 1391 733 1391 786"/></Shape>
-	    <String CONTENT="pe, qu elle boubance peult e-"
+	    <String CONTENT="pe/ quelle boubance peult e-"
                     HPOS="1388"
                     VPOS="733"
                     WIDTH="556"
@@ -144,7 +144,7 @@
                     WIDTH="553"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1391 964 1391 988 1944 979 1944 964 1917 912 1391 909 1391 964"/></Shape>
-	    <String CONTENT="nemeni: n est ce pas la grãd"
+	    <String CONTENT="nement? nest ce pas la grãd"
                     HPOS="1391"
                     VPOS="909"
                     WIDTH="553"
@@ -161,7 +161,7 @@
                     WIDTH="561"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1941 967 1911 967 1882 967 1853 967 1824 967 1794 967 1765 967 1736 967 1707 967 1678 967 1648 967 1619 967 1590 967 1561 967 1531 967 1502 967 1473 967 1444 967 1414 967 1411 961 1385 961 1388 1029 1388 1040 1946 1031 1946 1023 1941 964 1941 967"/></Shape>
-	    <String CONTENT="paillarde; de laquelle est dit"
+	    <String CONTENT="paillarde? de laquelle est dit"
                     HPOS="1385"
                     VPOS="961"
                     WIDTH="561"
@@ -212,7 +212,7 @@
                     WIDTH="552"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1748 1145 1718 1145 1689 1145 1675 1143 1578 1143 1572 1143 1543 1143 1514 1143 1485 1143 1455 1143 1426 1143 1397 1143 1397 1195 1394 1207 1941 1216 1946 1204 1946 1148 1762 1145 1748 1145"/></Shape>
-	    <String CONTENT="blasphemes, laquelle estoit"
+	    <String CONTENT="blasphemes? laquelle estoit"
                     HPOS="1394"
                     VPOS="1143"
                     WIDTH="552"
@@ -246,7 +246,7 @@
                     WIDTH="553"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1391 1318 1391 1341 1944 1335 1944 1318 1917 1265 1391 1259 1391 1318"/></Shape>
-	    <String CONTENT="carlate, ⁊ doree dor ⁊ de pier-"
+	    <String CONTENT="carlate/ ⁊ doree dor ⁊ de pier-"
                     HPOS="1391"
                     VPOS="1259"
                     WIDTH="553"
@@ -263,7 +263,7 @@
                     WIDTH="555"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1745 1321 1716 1321 1686 1321 1657 1321 1628 1321 1599 1321 1569 1321 1540 1321 1511 1321 1482 1321 1452 1321 1423 1321 1394 1321 1394 1371 1391 1382 1941 1391 1946 1379 1946 1324 1762 1321 1745 1321"/></Shape>
-	    <String CONTENT="res precieuses, ⁊ de margue-"
+	    <String CONTENT="res precieuses/ ⁊ de margue-"
                     HPOS="1391"
                     VPOS="1321"
                     WIDTH="555"
@@ -280,7 +280,7 @@
                     WIDTH="558"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1391 1432 1388 1444 1941 1452 1946 1438 1946 1385 1391 1379 1391 1432"/></Shape>
-	    <String CONTENT="rites apant en sa main ung"
+	    <String CONTENT="rites ayant en sa main ung"
                     HPOS="1388"
                     VPOS="1379"
                     WIDTH="558"
@@ -297,7 +297,7 @@
                     WIDTH="556"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1710 1438 1680 1438 1666 1435 1604 1435 1593 1435 1563 1435 1534 1435 1505 1435 1476 1435 1447 1435 1417 1435 1414 1429 1388 1429 1388 1493 1388 1514 1944 1514 1944 1493 1914 1441 1713 1438 1710 1438"/></Shape>
-	    <String CONTENT="calice dor plain dabomtna-"
+	    <String CONTENT="calice dor plain dabomina-"
                     HPOS="1388"
                     VPOS="1429"
                     WIDTH="556"
@@ -331,7 +331,7 @@
                     WIDTH="547"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1391 1610 1391 1634 1938 1625 1938 1610 1938 1558 1391 1555 1391 1610"/></Shape>
-	    <String CONTENT="nicatiãz Elle ua a perditiõ;"
+	    <String CONTENT="nicatiõ? Elle ua a perditiõ:"
                     HPOS="1391"
                     VPOS="1555"
                     WIDTH="547"
@@ -365,7 +365,7 @@
                     WIDTH="555"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1397 1727 1397 1745 1952 1745 1952 1727 1952 1675 1397 1675 1397 1727"/></Shape>
-	    <String CONTENT="tans de la terre, qui ne sont"
+	    <String CONTENT="tans de la terre/ qui ne sont"
                     HPOS="1397"
                     VPOS="1675"
                     WIDTH="555"
@@ -399,7 +399,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1099 1797 1069 1797 233 1797 222 1809 222 1847 222 1873 1944 1862 1944 1847 1917 1797 1128 1797 1099 1797"/></Shape>
-	    <String CONTENT="cõstitution du monde. Apoca.. ¶ Le pape se uante qu il a eue en don la coronne ⁊ le"
+	    <String CONTENT="cõstitution du monde. Apoca.17. ¶ Le pape se uante quil a eue en don la coronne ⁊ le"
                     HPOS="222"
                     VPOS="1797"
                     WIDTH="1722"
@@ -416,7 +416,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="222 1908 222 1929 1944 1920 1944 1908 1917 1853 222 1853 222 1908"/></Shape>
-	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx, comme il appert. distine. ꝯo. Cõ-"
+	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx/ comme il appert. distinc.96.Cõ-"
                     HPOS="222"
                     VPOS="1853"
                     WIDTH="1722"
@@ -433,7 +433,7 @@
                     WIDTH="1722"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1888 1911 1859 1911 1830 1911 1800 1911 1771 1911 1742 1911 1713 1911 1683 1911 1654 1911 1625 1911 1596 1911 1566 1911 1537 1911 1508 1911 1479 1911 1449 1911 1420 1911 1391 1911 1362 1911 1333 1911 1303 1911 1274 1911 1242 1911 1216 1911 1186 1911 1157 1911 1128 1911 1099 1911 1069 1911 1040 1911 1011 1911 982 1911 953 1911 923 1911 894 1911 865 1911 836 1911 806 1911 777 1911 748 1911 719 1911 689 1911 660 1911 631 1911 602 1911 572 1911 543 1911 514 1911 485 1911 456 1911 426 1911 397 1911 368 1911 339 1911 309 1911 280 1911 251 1911 222 1911 222 1967 222 1990 1944 1979 1944 1967 1917 1911 1888 1911"/></Shape>
-	    <String CONTENT="stantinus. Non obstant que lamais Empereur n eust t elle coronne, ne telz abillemẽs que"
+	    <String CONTENT="stantinus. Non obstant que iamais Empereur neust telle coronne/ ne telz abillemẽs que"
                     HPOS="222"
                     VPOS="1911"
                     WIDTH="1722"
@@ -450,7 +450,7 @@
                     WIDTH="1722"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1914 1970 1885 1970 1856 1970 1827 1970 1797 1970 1768 1970 1739 1970 1710 1970 1680 1970 1651 1970 1622 1970 1593 1970 1563 1970 1534 1970 1505 1970 1476 1970 1447 1970 1417 1970 1388 1970 1359 1970 1330 1970 1300 1970 1271 1970 1242 1970 1213 1970 1183 1970 1154 1970 1125 1970 1096 1970 1067 1970 1037 1970 1008 1970 979 1970 950 1970 920 1970 891 1970 862 1970 833 1970 803 1970 774 1970 745 1970 716 1970 686 1970 657 1970 628 1970 599 1970 570 1970 540 1970 511 1970 482 1970 453 1970 423 1970 394 1970 365 1970 336 1970 306 1970 277 1970 248 1970 219 1967 222 2025 222 2052 1938 2034 1941 2020 1935 1970 1914 1970"/></Shape>
-	    <String CONTENT="le pape porte, en se mocquant de Iesus ⁊ de S. Pierre, pour estre adore des hommes; com-"
+	    <String CONTENT="le pape porte/ en se mocquant de Iesus ⁊ de S. Pierre/ pour estre adore des hommes: com-"
                     HPOS="219"
                     VPOS="1967"
                     WIDTH="1722"
@@ -467,7 +467,7 @@
                     WIDTH="1716"
                     HEIGHT="73">
             <Shape><Polygon POINTS="222 2084 222 2104 1935 2107 1938 2084 1938 2034 222 2034 222 2084"/></Shape>
-	    <String CONTENT="me sainct pere ⁊ Dieu en terre. Comment ne regarde l on ce qul est dit de tenir le lieu des"
+	    <String CONTENT="me sainct pere ⁊ Dieu en terre. Comment ne regarde lon ce qui est dit de tenir le lieu des"
                     HPOS="222"
                     VPOS="2034"
                     WIDTH="1716"
@@ -484,7 +484,7 @@
                     WIDTH="1707"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1069 2087 1040 2087 1011 2087 982 2087 953 2087 923 2087 894 2087 865 2087 836 2087 806 2087 777 2087 748 2087 719 2087 689 2087 660 2087 631 2087 602 2087 572 2087 543 2087 514 2087 485 2087 456 2087 426 2087 397 2087 368 2087 339 2087 309 2087 280 2087 251 2087 222 2087 222 2142 222 2166 1929 2160 1929 2142 1929 2090 1075 2087 1069 2087"/></Shape>
-	    <String CONTENT="sainctz, ce n est pas estre en leur place, mais suyure leur foy; comme il est contenu au de-"
+	    <String CONTENT="sainctz? ce nest pas estre en leur place/ mais suyure leur foy: comme il est contenu au de-"
                     HPOS="222"
                     VPOS="2087"
                     WIDTH="1707"
@@ -501,7 +501,7 @@
                     WIDTH="1719"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1914 2145 1885 2145 1856 2145 1827 2145 1797 2145 1768 2145 1739 2145 1710 2145 1680 2145 1651 2145 1622 2145 1593 2145 1563 2145 1534 2145 1505 2145 1476 2145 1447 2145 1417 2145 1388 2145 1359 2145 1330 2145 1300 2145 1271 2145 1242 2145 1213 2145 1183 2145 1154 2145 1125 2145 1096 2145 1072 2145 219 2148 222 2201 222 2215 1935 2210 1938 2195 1929 2139 1914 2139 1914 2145"/></Shape>
-	    <String CONTENT="cret. distinc. ⁊o. Non est facile. Il fault faire comme S. Pierre qui ueult estre son succes-"
+	    <String CONTENT="cret. distinc.40.Non est facile. Il fault faire comme S. Pierre qui ueult estre son succes-"
                     HPOS="219"
                     VPOS="2139"
                     WIDTH="1719"
@@ -518,7 +518,7 @@
                     WIDTH="1719"
                     HEIGHT="79">
             <Shape><Polygon POINTS="222 2259 222 2283 1935 2274 1938 2253 1929 2204 219 2204 222 2259"/></Shape>
-	    <String CONTENT="seur, aultrement qui saict comme Iudas, Anne, ⁊ Caiphe, ⁊ Simon magus; il est leur"
+	    <String CONTENT="seur/ aultrement qui faict comme Iudas/ Anne/ ⁊ Caiphe/ ⁊ Simon magus: il est leur"
                     HPOS="219"
                     VPOS="2204"
                     WIDTH="1719"
@@ -535,7 +535,7 @@
                     WIDTH="1719"
                     HEIGHT="79">
             <Shape><Polygon POINTS="225 2321 225 2338 1938 2324 1941 2312 1932 2259 222 2265 225 2321"/></Shape>
-	    <String CONTENT="successeur, la dignite ne faict point Leuesque, mais la uie. ⁊. qõ,. Non omnes. Tous qui"
+	    <String CONTENT="successeur/ la dignite ne faict point Leuesque/ mais la uie. 2.qõ.7.Non omnes. Tous qui"
                     HPOS="222"
                     VPOS="2259"
                     WIDTH="1719"
@@ -552,7 +552,7 @@
                     WIDTH="1722"
                     HEIGHT="84">
             <Shape><Polygon POINTS="774 2321 745 2321 716 2321 686 2321 657 2321 628 2321 599 2321 570 2321 540 2321 511 2321 482 2321 453 2321 423 2321 394 2321 365 2321 336 2321 306 2321 277 2321 248 2321 245 2318 219 2318 222 2379 222 2402 1938 2394 1941 2373 1932 2318 783 2318 774 2321"/></Shape>
-	    <String CONTENT="ayment mensonge son filz du diable, non seulement en parolles; mais aussi en saictz, c est"
+	    <String CONTENT="ayment mensonge son filz du diable/ non seulement en parolles: mais aussi en faictz/ cest"
                     HPOS="219"
                     VPOS="2318"
                     WIDTH="1722"
@@ -569,7 +569,7 @@
                     WIDTH="1716"
                     HEIGHT="73">
             <Shape><Polygon POINTS="225 2402 225 2438 225 2452 1938 2446 1941 2432 1932 2379 248 2379 225 2402"/></Shape>
-	    <String CONTENT="mensonge soy dire Chrestien, ⁊ ne faire les oeuures d uns chresti en, soy dire euesque ⁊ fat"
+	    <String CONTENT="mensonge soy dire Chrestien/ ⁊ ne faire les oeuures dung chrestien/ soy dire euesque ⁊ fai"
                     HPOS="225"
                     VPOS="2379"
                     WIDTH="1716"
@@ -586,7 +586,7 @@
                     WIDTH="1716"
                     HEIGHT="84">
             <Shape><Polygon POINTS="225 2496 225 2519 1935 2502 1938 2490 1929 2435 222 2440 225 2496"/></Shape>
-	    <String CONTENT="re le contralre. ⁊⁊. q.i. Cauete fratres. Ne uoit on pas que tout condemne l estat du Pa"
+	    <String CONTENT="re le contraire. 22.q.5.Cauete fratres. Ne uoit on pas que tout condemne lestat du Pa"
                     HPOS="222"
                     VPOS="2435"
                     WIDTH="1716"
@@ -603,7 +603,7 @@
                     WIDTH="1719"
                     HEIGHT="79">
             <Shape><Polygon POINTS="222 2502 222 2554 222 2578 1941 2578 1941 2554 1941 2499 236 2499 222 2502"/></Shape>
-	    <String CONTENT="pe, puis qu il ce dit successeur de Iesus ⁊ de Pierre, ⁊ ne tient rien de eulx; mais leur est"
+	    <String CONTENT="pe/ puis quil ce dit successeur de Iesus ⁊ de Pierre/ ⁊ ne tient rien de eulx: mais leur est"
                     HPOS="222"
                     VPOS="2499"
                     WIDTH="1719"
@@ -620,7 +620,7 @@
                     WIDTH="1722"
                     HEIGHT="112">
             <Shape><Polygon POINTS="222 2613 222 2639 532 2631 549 2645 564 2657 567 2657 570 2657 572 2657 575 2657 578 2657 593 2645 616 2631 710 2631 727 2645 730 2648 730 2651 733 2651 736 2651 739 2651 818 2648 821 2648 824 2648 844 2631 1020 2645 1023 2645 1151 2631 1178 2648 1181 2648 1183 2648 1186 2648 1236 2639 1254 2651 1274 2669 1277 2669 1280 2669 1283 2669 1941 2657 1941 2607 1932 2557 219 2560 222 2613"/></Shape>
-	    <String CONTENT="en tout contraire, qua ill consorme a la coronne despines ne auer la predication de sainct"
+	    <String CONTENT="en tout contraire/ qua il conforme a la coronne despines ne auec la predication de sainct"
                     HPOS="219"
                     VPOS="2557"
                     WIDTH="1722"
@@ -637,7 +637,7 @@
                     WIDTH="289"
                     HEIGHT="129">
             <Shape><Polygon POINTS="230 2677 230 2712 368 2742 371 2742 517 2707 517 2671 508 2613 228 2613 230 2677"/></Shape>
-	    <String CONTENT="Piencr Lien."
+	    <String CONTENT="Pierre? Rien."
                     HPOS="228"
                     VPOS="2613"
                     WIDTH="289"
@@ -664,7 +664,7 @@
                     WIDTH="67"
                     HEIGHT="155">
             <Shape><Polygon POINTS="1733 2727 1727 2809 1786 2812 1794 2730 1792 2657 1733 2657 1733 2727"/></Shape>
-	    <String CONTENT="8"
+	    <String CONTENT="B"
                     HPOS="1727"
                     VPOS="2657"
                     WIDTH="67"

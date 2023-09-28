@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_bcfcfb5c"
-                    TAGREFS="LT394"
+                    TAGREFS="LT393"
                     BASELINE="1026 306 2174 315" 
                     HPOS="1023"
                     VPOS="228"
@@ -53,17 +53,17 @@
           
           <TextLine ID="eSc_line_fe03ff19"
                     TAGREFS="LT394"
-                    BASELINE="607 518 976 520" 
-                    HPOS="605"
-                    VPOS="444"
-                    WIDTH="368"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="605 540 970 543 973 517 973 450 605 444 605 517"/></Shape>
+                    BASELINE="607 518 976 516" 
+                    HPOS="602"
+                    VPOS="438"
+                    WIDTH="371"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="605 517 605 537 970 540 973 514 967 447 602 438 605 517"/></Shape>
 	    <String CONTENT="Regna fugit Christus."
-                    HPOS="605"
-                    VPOS="444"
-                    WIDTH="368"
-                    HEIGHT="99"></String>
+                    HPOS="602"
+                    VPOS="438"
+                    WIDTH="371"
+                    HEIGHT="102"></String>
           </TextLine>
 
           
@@ -110,7 +110,7 @@
                     WIDTH="550"
                     HEIGHT="73">
             <Shape><Polygon POINTS="514 1224 514 1239 1061 1248 1064 1224 1064 1175 537 1175 514 1224"/></Shape>
-	    <String CONTENT="uenir pour le prendre, et le"
+	    <String CONTENT="uenir pour le prendre/ et le"
                     HPOS="514"
                     VPOS="1175"
                     WIDTH="550"
@@ -178,7 +178,7 @@
                     WIDTH="550"
                     HEIGHT="91">
             <Shape><Polygon POINTS="628 1397 599 1400 570 1400 561 1400 534 1409 514 1461 514 1482 1061 1482 1064 1455 1058 1411 803 1391 800 1391 798 1391 795 1391 777 1406 631 1397 628 1397"/></Shape>
-	    <String CONTENT="¶Mõ Royaulme nest pas"
+	    <String CONTENT="¶ Mõ Royaulme nest pas"
                     HPOS="514"
                     VPOS="1391"
                     WIDTH="550"
@@ -212,7 +212,7 @@
                     WIDTH="547"
                     HEIGHT="85">
             <Shape><Polygon POINTS="950 1523 920 1523 891 1523 862 1523 833 1520 803 1520 774 1520 745 1520 716 1517 686 1517 657 1517 628 1517 599 1514 570 1514 549 1514 546 1514 543 1514 540 1514 514 1578 514 1593 1055 1599 1061 1572 1055 1514 953 1514 950 1523"/></Shape>
-	    <String CONTENT="¶Les Roys des gens ont"
+	    <String CONTENT="¶ Les Roys des gens ont"
                     HPOS="514"
                     VPOS="1514"
                     WIDTH="547"
@@ -382,7 +382,7 @@
                     WIDTH="1725"
                     HEIGHT="76">
             <Shape><Polygon POINTS="514 2163 511 2186 2230 2189 2236 2174 2233 2116 537 2113 514 2163"/></Shape>
-	    <String CONTENT="mes du monde ⁊ la gloire diceulx, ⁊ luy dist. Ie te donneray toutes ces choses, si en toy"
+	    <String CONTENT="mes du monde ⁊ la gloire diceulx/ ⁊ luy dist. Ie te donneray toutes ces choses/ si en toy"
                     HPOS="511"
                     VPOS="2113"
                     WIDTH="1725"
@@ -467,7 +467,7 @@
                     WIDTH="1722"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1803 2408 1774 2408 1745 2408 1724 2411 1689 2408 1686 2408 1657 2408 1628 2408 1599 2408 1569 2408 1563 2408 1552 2414 1549 2414 1482 2405 1482 2405 1452 2405 1423 2405 1400 2405 1365 2411 1356 2405 1335 2405 1306 2405 1300 2405 1283 2414 1227 2414 1216 2414 1216 2411 1207 2405 1189 2405 1160 2405 1145 2402 1119 2411 1116 2414 967 2414 967 2411 955 2402 955 2402 926 2402 897 2402 894 2402 847 2408 839 2402 839 2402 809 2400 798 2400 777 2408 663 2400 634 2400 605 2400 575 2400 546 2400 526 2400 517 2402 517 2458 514 2481 2230 2487 2236 2470 2233 2420 2128 2394 1882 2394 1879 2394 1876 2394 1873 2394 1856 2408 1844 2400 1844 2397 1841 2397 1838 2397 1835 2397 1806 2400 1803 2408"/></Shape>
-	    <String CONTENT="¶Clerement lon uoit comme Iesus ne ueult seigneurie/ ne puissance/ ne office terrien:"
+	    <String CONTENT="¶ Clerement lon uoit comme Iesus ne ueult seigneurie/ ne puissance/ ne office terrien:"
                     HPOS="514"
                     VPOS="2394"
                     WIDTH="1722"
@@ -518,7 +518,7 @@
                     WIDTH="1707"
                     HEIGHT="105">
             <Shape><Polygon POINTS="2218 2592 2189 2592 2160 2592 2131 2592 2101 2592 2072 2592 2043 2592 2014 2592 1984 2592 1955 2590 1941 2590 1926 2590 1897 2590 1868 2590 1838 2590 1809 2590 1780 2590 1751 2590 1727 2587 1657 2587 1634 2587 1604 2587 1575 2587 1546 2587 1517 2587 1499 2584 1373 2584 1371 2584 1341 2584 1312 2584 1283 2584 1254 2584 1239 2581 1090 2581 1078 2581 1049 2581 1020 2581 1011 2578 806 2578 786 2578 783 2575 523 2575 523 2636 520 2663 613 2651 631 2666 631 2669 634 2669 637 2669 640 2669 651 2669 742 2654 979 2669 982 2669 985 2669 988 2669 988 2666 999 2657 1023 2671 1026 2671 1029 2671 1031 2671 1037 2671 1134 2654 2221 2680 2227 2651 2224 2592 2218 2592"/></Shape>
-	    <String CONTENT="La ou le Pape ne tache que faire sa uolunte, repugner a Dieu ⁊ aux princes ausquelz"
+	    <String CONTENT="La ou le Pape ne tache que faire sa uolunte/ repugner a Dieu ⁊ aux princes ausquelz"
                     HPOS="520"
                     VPOS="2575"
                     WIDTH="1707"
@@ -535,7 +535,7 @@
                     WIDTH="1453"
                     HEIGHT="108">
             <Shape><Polygon POINTS="1949 2651 1920 2651 1891 2651 1882 2648 1601 2648 1599 2648 1569 2648 1566 2645 1239 2645 1219 2645 1216 2642 877 2642 868 2642 865 2639 517 2639 517 2701 514 2727 1961 2747 1967 2707 1964 2651 1949 2651"/></Shape>
-	    <String CONTENT="par ses droictz il doibt estre subiect. distin.8. quo iure. distin.9. imperatores."
+	    <String CONTENT="par ses droictz il doibt estre subiect. distin.8.quo iure. distin.9.imperatores."
                     HPOS="514"
                     VPOS="2639"
                     WIDTH="1453"

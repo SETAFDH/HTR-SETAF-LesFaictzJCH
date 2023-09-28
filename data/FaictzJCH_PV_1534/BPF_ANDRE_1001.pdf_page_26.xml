@@ -42,7 +42,7 @@
                     WIDTH="1122"
                     HEIGHT="88">
             <Shape><Polygon POINTS="2174 236 2145 233 2116 233 2087 233 2058 233 2028 233 1999 233 1970 233 1941 233 1911 233 1882 233 1853 233 1824 233 1794 233 1765 233 1736 233 1707 233 1678 233 1648 233 1619 233 1590 233 1561 233 1531 233 1502 233 1473 233 1444 233 1414 233 1385 233 1356 233 1327 233 1297 233 1268 233 1239 233 1210 233 1181 233 1151 233 1122 233 1096 242 1096 298 1093 321 2212 321 2215 306 2210 251 2204 242"/></Shape>
-	    <String CONTENT="Sur lasne vient Iesus doulx ⁊ bening."
+	    <String CONTENT="Sur lasne uient Iesus doulx ⁊ bening."
                     HPOS="1093"
                     VPOS="233"
                     WIDTH="1122"
@@ -59,7 +59,7 @@
                     WIDTH="453"
                     HEIGHT="111">
             <Shape><Polygon POINTS="555 625 631 599 768 596 783 608 786 610 789 610 792 610 795 610 999 587 1002 575 993 514 549 514 552 584"/></Shape>
-	    <String CONTENT="Chistus mansuetus venit."
+	    <String CONTENT="Chistus mansuetus uenit."
                     HPOS="549"
                     VPOS="514"
                     WIDTH="453"
@@ -195,7 +195,7 @@
                     WIDTH="532"
                     HEIGHT="79">
             <Shape><Polygon POINTS="549 1335 549 1353 1078 1362 1081 1335 1081 1283 549 1283 549 1335"/></Shape>
-	    <String CONTENT="geline assemble ses petis : ⁊"
+	    <String CONTENT="geline assemble ses petis: ⁊"
                     HPOS="549"
                     VPOS="1283"
                     WIDTH="532"
@@ -365,7 +365,7 @@
                     WIDTH="1687"
                     HEIGHT="70">
             <Shape><Polygon POINTS="546 1923 546 1938 2227 1932 2230 1917 2221 1868 543 1870 546 1923"/></Shape>
-	    <String CONTENT="cle/ Samaritain/ faisant les uertus en la puissance de Beelzebub. Ioan.8. Matth. 12."
+	    <String CONTENT="cle/ Samaritain/ faisant les uertus en la puissance de Beelzebub. Ioan.8. Matth.12."
                     HPOS="543"
                     VPOS="1868"
                     WIDTH="1687"
@@ -450,7 +450,7 @@
                     WIDTH="1716"
                     HEIGHT="76">
             <Shape><Polygon POINTS="549 2215 549 2233 2256 2236 2262 2210 2253 2160 546 2163 549 2215"/></Shape>
-	    <String CONTENT="les paoures gens/ ⁊ petis/ touchez du S. Esperit/ chantent, louans Dieu/ iectãs leurs"
+	    <String CONTENT="les paoures gens/ ⁊ petis/ touchez du S. Esperit/ chantent/ louans Dieu/ iectãs leurs"
                     HPOS="546"
                     VPOS="2160"
                     WIDTH="1716"
@@ -501,7 +501,7 @@
                     WIDTH="1713"
                     HEIGHT="85">
             <Shape><Polygon POINTS="549 2391 549 2420 2256 2405 2259 2385 2242 2335 546 2338 549 2391"/></Shape>
-	    <String CONTENT="toute la uille ne uiennent au deuant/ mais sont marrys de l hõneur quon faict a Iesus/"
+	    <String CONTENT="toute la uille ne uiennent au deuant/ mais sont marrys de lhõneur quon faict a Iesus/"
                     HPOS="546"
                     VPOS="2335"
                     WIDTH="1713"
