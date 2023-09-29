@@ -25,13 +25,13 @@
                   WIDTH="2479"
                   HEIGHT="3508">
         
-        <TextBlock HPOS="211"
-                   VPOS="206"
-                   WIDTH="1633"
-                   HEIGHT="2865"
+        <TextBlock HPOS="169"
+                   VPOS="203"
+                   WIDTH="1738"
+                   HEIGHT="2895"
                    ID="eSc_textblock_42d5dc92"
                    TAGREFS="BT1050">
-          <Shape><Polygon POINTS="215 206 211 3071 1826 3059 1815 3007 1811 2948 1827 2864 1811 2796 1827 2701 1820 2311 1812 2259 1828 2168 1836 1813 1816 1754 1828 1642 1843 1476 1820 1429 1809 1365 1841 1309 1837 1153 1821 1069 1833 974 1820 862 1844 746 1838 532 1824 440 1842 206"/></Shape>
+          <Shape><Polygon POINTS="202 203 169 3098 1848 3074 1815 3007 1811 2948 1855 2864 1839 2801 1846 2701 1849 2314 1840 2264 1865 2173 1864 1818 1844 1759 1856 1642 1862 1476 1852 1429 1857 1370 1855 1309 1860 1162 1872 1069 1852 974 1854 869 1855 862 1863 751 1870 532 1877 437 1907 206"/></Shape>
           
           
           <TextLine ID="eSc_line_e3f172e6"
@@ -862,12 +862,12 @@
         </TextBlock>
         
         <TextBlock HPOS="1821"
-                   VPOS="397"
+                   VPOS="391"
                    WIDTH="181"
-                   HEIGHT="103"
+                   HEIGHT="109"
                    ID="eSc_textblock_f19eaacb"
                    TAGREFS="BT1051">
-          <Shape><Polygon POINTS="1846 397 1821 452 1838 500 2002 496 2002 397"/></Shape>
+          <Shape><Polygon POINTS="1830 391 1821 452 1838 500 2002 496 2002 397"/></Shape>
           
           
           <TextLine ID="eSc_line_83016bd0"
@@ -888,13 +888,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1826"
+        <TextBlock HPOS="1807"
                    VPOS="775"
-                   WIDTH="172"
+                   WIDTH="191"
                    HEIGHT="127"
                    ID="eSc_textblock_f969e2f2"
                    TAGREFS="BT1051">
-          <Shape><Polygon POINTS="1842 775 1830 830 1826 902 1998 898 1994 779"/></Shape>
+          <Shape><Polygon POINTS="1829 775 1820 830 1807 902 1998 898 1994 779"/></Shape>
           
           
           <TextLine ID="eSc_line_3466773f"

@@ -25,13 +25,13 @@
                   WIDTH="2479"
                   HEIGHT="3508">
         
-        <TextBlock HPOS="215"
+        <TextBlock HPOS="190"
                    VPOS="194"
-                   WIDTH="1798"
-                   HEIGHT="2821"
+                   WIDTH="1823"
+                   HEIGHT="2837"
                    ID="eSc_textblock_2b831c7f"
                    TAGREFS="BT1050">
-          <Shape><Polygon POINTS="215 194 215 3015 1027 3015 1030 2951 2001 2971 2013 194"/></Shape>
+          <Shape><Polygon POINTS="215 194 190 3031 1037 3021 1027 2970 2001 2971 2013 194"/></Shape>
           
           
           <TextLine ID="eSc_line_9807fcc7"

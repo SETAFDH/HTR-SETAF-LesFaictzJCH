@@ -664,13 +664,13 @@
           
           
           <TextLine ID="eSc_line_8026b114"
-                    
+                    TAGREFS="LT393"
                     BASELINE="610 2861 1338 2856" 
                     HPOS="605"
                     VPOS="2800"
                     WIDTH="730"
                     HEIGHT="114">
-            <Shape><Polygon POINTS="608 2859 608 2914 1105 2899 1131 2899 1297 2911 1300 2911 1303 2911 1335 2894 1335 2853 1327 2800 605 2803 608 2859"/></Shape>
+            <Shape><Polygon POINTS="608 2914 1105 2899 1131 2899 1297 2911 1300 2911 1303 2911 1335 2894 1335 2853 1327 2800 605 2803 608 2859"/></Shape>
 	    <String CONTENT="ne incorruptible de gloire. 1.Pet.5."
                     HPOS="605"
                     VPOS="2800"
