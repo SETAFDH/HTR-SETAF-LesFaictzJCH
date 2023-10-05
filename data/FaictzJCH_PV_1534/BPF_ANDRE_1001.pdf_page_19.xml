@@ -35,18 +35,18 @@
           
           
           <TextLine ID="eSc_line_2fdbcf72"
-                    
-                    BASELINE="201 332 1342 336" 
-                    HPOS="195"
-                    VPOS="228"
-                    WIDTH="1146"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="195 339 1335 350 1341 333 1338 248 1116 230 1113 230 1110 230 1107 230 1084 245 1081 248 915 248 912 245 839 228 836 228 833 228 748 245 742 245 739 245 648 228 646 228 570 245 561 245 555 245 456 228 453 228 450 228 447 228 423 245 412 245 292 228 289 228 198 242 198 330"/></Shape>
+                    TAGREFS="LT394"
+                    BASELINE="205 332 1342 336" 
+                    HPOS="201"
+                    VPOS="248"
+                    WIDTH="1140"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="204 330 201 339 1335 350 1341 333 1338 251 204 248 204 330"/></Shape>
 	    <String CONTENT="Lorgueil du pape sesiouyt en occision."
-                    HPOS="195"
-                    VPOS="228"
-                    WIDTH="1146"
-                    HEIGHT="122"></String>
+                    HPOS="201"
+                    VPOS="248"
+                    WIDTH="1140"
+                    HEIGHT="102"></String>
           </TextLine>
 
           

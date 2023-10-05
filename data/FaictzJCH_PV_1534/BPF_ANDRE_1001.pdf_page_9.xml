@@ -25,17 +25,17 @@
                   WIDTH="2479"
                   HEIGHT="3508">
         
-        <TextBlock HPOS="203"
+        <TextBlock HPOS="195"
                    VPOS="206"
-                   WIDTH="1802"
-                   HEIGHT="2861"
+                   WIDTH="1810"
+                   HEIGHT="2873"
                    ID="eSc_textblock_37da476c"
                    TAGREFS="BT1050">
-          <Shape><Polygon POINTS="251 206 203 3067 744 3063 749 2981 1958 2983 1972 2406 2005 210"/></Shape>
+          <Shape><Polygon POINTS="218 206 195 3079 744 3063 757 3009 1978 3008 1972 2406 2005 210"/></Shape>
           
           
           <TextLine ID="eSc_line_bfdc7602"
-                    TAGREFS="LT393"
+                    TAGREFS="LT394"
                     BASELINE="365 312 1510 325" 
                     HPOS="359"
                     VPOS="216"
@@ -580,34 +580,17 @@
           
           <TextLine ID="eSc_line_acb23297"
                     TAGREFS="LT393"
-                    BASELINE="653 2445 1949 2440" 
-                    HPOS="648"
+                    BASELINE="316 2445 1949 2440" 
+                    HPOS="312"
                     VPOS="2391"
-                    WIDTH="1298"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="651 2443 651 2458 1944 2461 1946 2438 1941 2391 648 2391 651 2443"/></Shape>
-	    <String CONTENT="¶ Nous auos la seigneurie de toute la terre/ car a nous appartiẽt"
-                    HPOS="648"
+                    WIDTH="1634"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="315 2443 315 2473 494 2458 1941 2464 1946 2438 1938 2391 312 2394 315 2443"/></Shape>
+	    <String CONTENT="¶ Le Pape. ¶ Nous auos la seigneurie de toute la terre/ car a nous appartiẽt"
+                    HPOS="312"
                     VPOS="2391"
-                    WIDTH="1298"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_794502a0"
-                    TAGREFS="LT393"
-                    BASELINE="322 2446 597 2450" 
-                    HPOS="318"
-                    VPOS="2388"
-                    WIDTH="278"
-                    HEIGHT="85">
-            <Shape><Polygon POINTS="318 2467 590 2473 596 2449 593 2394 321 2388 321 2443"/></Shape>
-	    <String CONTENT="¶ Le Pape."
-                    HPOS="318"
-                    VPOS="2388"
-                    WIDTH="278"
-                    HEIGHT="85"></String>
+                    WIDTH="1634"
+                    HEIGHT="82"></String>
           </TextLine>
 
           
@@ -821,27 +804,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_a89e2221"
-                    
-                    BASELINE="2460 2923 2479 2925 2479 2954 2479 2923 2479 2873" 
-                    HPOS="2460"
-                    VPOS="2873"
-                    WIDTH="19"
-                    HEIGHT="81">
-            
-	    <String CONTENT=""
-                    HPOS="2460"
-                    VPOS="2873"
-                    WIDTH="19"
-                    HEIGHT="81"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

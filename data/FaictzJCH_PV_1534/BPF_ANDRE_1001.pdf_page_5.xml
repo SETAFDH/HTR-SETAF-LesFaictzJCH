@@ -52,13 +52,13 @@
           
           
           <TextLine ID="eSc_line_5af739d2"
-                    TAGREFS="LT393"
+                    TAGREFS="LT394"
                     BASELINE="362 412 1938 394" 
                     HPOS="362"
                     VPOS="344"
                     WIDTH="1576"
                     HEIGHT="88">
-            <Shape><Polygon POINTS="476 359 447 359 418 359 388 359 362 397 362 412 362 432 1935 412 1938 394 1929 344 485 356 476 359"/></Shape>
+            <Shape><Polygon POINTS="447 359 418 359 388 359 362 397 362 412 362 432 1935 412 1938 394 1929 344 485 356 476 359"/></Shape>
 	    <String CONTENT="chascun pourra facilement congnoistre la grãde difference de entre eulx: nouuel-"
                     HPOS="362"
                     VPOS="344"
@@ -69,13 +69,13 @@
           
           
           <TextLine ID="eSc_line_480d6251"
-                    TAGREFS="LT393"
+                    TAGREFS="LT394"
                     BASELINE="362 473 1938 456" 
                     HPOS="359"
                     VPOS="397"
                     WIDTH="1579"
                     HEIGHT="94">
-            <Shape><Polygon POINTS="1908 397 1879 397 1850 397 1821 397 1792 397 1762 397 1733 397 1704 397 1675 397 1645 400 1616 400 1587 400 1558 400 1528 400 1499 400 1470 400 1441 400 1411 400 1382 403 1353 403 1324 403 1295 403 1265 403 1236 403 1207 403 1178 403 1148 403 1119 406 1090 406 1061 406 1031 406 1002 406 973 406 944 406 874 406 856 409 827 409 798 409 768 409 748 409 634 409 622 412 593 412 564 412 552 412 380 412 359 420 362 473 362 491 1938 476 1938 456 1929 397 1908 397"/></Shape>
+            <Shape><Polygon POINTS="1879 397 1850 397 1821 397 1792 397 1762 397 1733 397 1704 397 1675 397 1645 400 1616 400 1587 400 1558 400 1528 400 1499 400 1470 400 1441 400 1411 400 1382 403 1353 403 1324 403 1295 403 1265 403 1236 403 1207 403 1178 403 1148 403 1119 406 1090 406 1061 406 1031 406 1002 406 973 406 944 406 874 406 856 409 827 409 798 409 768 409 748 409 634 409 622 412 593 412 564 412 552 412 380 412 359 420 362 473 362 491 1938 476 1938 456 1929 397 1908 397"/></Shape>
 	    <String CONTENT="lemẽt reueuz/ corrigez/ ⁊ augmentez/ selon la uerite de la saincte Escripture/ ⁊ des"
                     HPOS="359"
                     VPOS="397"
@@ -86,13 +86,13 @@
           
           
           <TextLine ID="eSc_line_95a3d084"
-                    TAGREFS="LT393"
+                    TAGREFS="LT394"
                     BASELINE="362 538 1292 517" 
                     HPOS="356"
                     VPOS="461"
                     WIDTH="933"
                     HEIGHT="85">
-            <Shape><Polygon POINTS="359 537 359 546 1289 534 1289 514 1280 461 356 479 359 537"/></Shape>
+            <Shape><Polygon POINTS="359 546 1289 534 1289 514 1280 461 356 479 359 537"/></Shape>
 	    <String CONTENT="droictz canons/ par le lecteur du sainct Palais."
                     HPOS="356"
                     VPOS="461"
