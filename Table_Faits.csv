@@ -1,3 +1,4 @@
-Identifiant,Imprimeur,Titre bref,Auteur,Date,Lieu,Lien fac-similé numérique
-CRRPV19,Pierre de Vingle,Faictz de Jesus Christ et du Pape ,[Anonyme],[±1534],[Neuchâtel],
-CRRJM31,Jean Michel,Faitz de Jesus Christ et du Pape,[Anonyme],[1538/1544],[Genève],http://dx.doi.org/10.3931/e-rara-12688 
+Identifiant,Segmentation,Transcription OCR,Imprimeur,Titre bref,Auteur,Date,Lieu,Lien fac-similé numérique,Lieu de conservation
+CRRPV19,manuelle,automatique + correction manuelle,Pierre de Vingle,Faictz de Jesus Christ et du Pape ,[Anonyme],[±1534],[Neuchâtel],,
+CRRJM31,manuelle,automatique + correction manuelle,Jean Michel,Faitz de Jesus Christ et du Pape,[Anonyme],[1538/1544],[Genève],http://dx.doi.org/10.3931/e-rara-12688 ,
+,en cours,en cours,,,,,,,
