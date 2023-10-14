@@ -246,7 +246,7 @@
                     WIDTH="1137"
                     HEIGHT="90">
             <Shape><Polygon POINTS="1142 1056 1122 1056 1106 1056 1067 1060 1051 1062 1044 1060 1028 1054 1020 1054 1000 1052 963 1058 946 1060 926 1058 871 1050 857 1050 836 1050 834 1048 783 1054 755 1056 748 1054 732 1046 714 1046 693 1046 685 1046 610 1050 567 1052 557 1050 536 1042 530 1042 514 1042 473 1048 444 1050 342 1050 338 1044 330 1037 326 1037 306 1037 291 1035 122 1037 122 1088 120 1099 1253 1125 1257 1111 1255 1066 1171 1066 1167 1064 1157 1056 1142 1056"/></Shape>
-	    <String CONTENT="de nostre iugement. 9.q.3.Cuncta.Nemo aliorum facta."
+	    <String CONTENT="de nostre iugement. 9.q.3. Cuncta. Nemo aliorum facta."
                     HPOS="120"
                     VPOS="1035"
                     WIDTH="1137"
@@ -297,7 +297,7 @@
                     WIDTH="1157"
                     HEIGHT="83">
             <Shape><Polygon POINTS="118 1260 116 1270 1269 1298 1273 1282 1271 1235 118 1215 118 1260"/></Shape>
-	    <String CONTENT="lieutenans en terre.c.quanto de transla. Nous sommes assis"
+	    <String CONTENT="lieutenans en terre. c. quanto de transla. Nous sommes assis"
                     HPOS="116"
                     VPOS="1215"
                     WIDTH="1157"
@@ -314,7 +314,7 @@
                     WIDTH="1159"
                     HEIGHT="90">
             <Shape><Polygon POINTS="1089 1280 953 1288 930 1288 922 1286 881 1276 879 1276 877 1276 826 1286 822 1286 814 1276 812 1276 812 1274 810 1274 808 1274 806 1274 742 1284 736 1284 728 1284 657 1272 655 1272 653 1272 651 1272 634 1282 626 1282 524 1270 522 1270 344 1276 330 1266 328 1266 326 1266 324 1266 118 1272 118 1317 116 1329 695 1347 697 1347 785 1339 797 1339 812 1339 938 1351 940 1354 940 1351 1034 1343 1040 1343 1048 1343 1165 1356 1167 1356 1273 1345 1275 1337 1275 1294 1091 1280 1089 1280"/></Shape>
-	    <String CONTENT="sur la chaire de preminence. de sepultu.super ca: Tous prin-"
+	    <String CONTENT="sur la chaire de preminence. de sepultu. super ca: Tous prin-"
                     HPOS="116"
                     VPOS="1266"
                     WIDTH="1159"
@@ -348,7 +348,7 @@
                     WIDTH="292"
                     HEIGHT="67">
             <Shape><Polygon POINTS="118 1431 116 1439 404 1449 408 1439 408 1390 118 1382 118 1431"/></Shape>
-	    <String CONTENT="Roma.princi."
+	    <String CONTENT="Roma. princi."
                     HPOS="116"
                     VPOS="1382"
                     WIDTH="292"

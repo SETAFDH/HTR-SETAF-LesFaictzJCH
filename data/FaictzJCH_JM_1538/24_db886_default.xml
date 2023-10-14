@@ -365,7 +365,7 @@
                     WIDTH="1165"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1271 1215 1238 1229 1183 1217 1179 1217 1169 1217 1153 1231 920 1231 855 1221 814 1217 812 1217 791 1217 787 1217 775 1223 761 1229 720 1223 683 1219 669 1219 657 1219 642 1225 632 1229 608 1225 573 1221 571 1221 542 1227 520 1231 506 1227 479 1219 465 1219 459 1219 418 1229 416 1229 406 1219 404 1219 402 1219 383 1219 363 1219 342 1219 322 1219 302 1219 281 1219 275 1219 228 1229 210 1219 200 1219 179 1219 159 1219 138 1219 128 1219 118 1227 120 1278 120 1294 1281 1282 1283 1274 1275 1215 1271 1215"/></Shape>
-	    <String CONTENT="sessions de Leglise payent tribut a Lempereur. 11.q.1.Si tri-"
+	    <String CONTENT="sessions de Leglise payent tribut a Lempereur. 11.q.1. Si tri-"
                     HPOS="118"
                     VPOS="1215"
                     WIDTH="1165"
@@ -382,7 +382,7 @@
                     WIDTH="1169"
                     HEIGHT="61">
             <Shape><Polygon POINTS="118 1329 116 1343 1283 1343 1285 1333 1283 1286 118 1282 118 1329"/></Shape>
-	    <String CONTENT="butum. 23.q.8.Tributum. Un grand ⁊ special enseignement"
+	    <String CONTENT="butum. 23.q.8. Tributum. Un grand ⁊ special enseignement"
                     HPOS="116"
                     VPOS="1282"
                     WIDTH="1169"
@@ -467,7 +467,7 @@
                     WIDTH="1163"
                     HEIGHT="69">
             <Shape><Polygon POINTS="653 1566 632 1566 612 1566 591 1566 571 1566 551 1566 530 1566 510 1566 489 1566 475 1566 346 1574 344 1574 328 1566 326 1566 306 1566 255 1574 197 1566 183 1566 171 1566 122 1574 122 1621 122 1631 1283 1635 1285 1621 1285 1574 665 1566 653 1566"/></Shape>
-	    <String CONTENT="doibue payer? 11.q.1.Magnum. Le seruiteur obeisse au Sei-"
+	    <String CONTENT="doibue payer? 11.q.1. Magnum. Le seruiteur obeisse au Sei-"
                     HPOS="122"
                     VPOS="1566"
                     WIDTH="1163"
@@ -501,7 +501,7 @@
                     WIDTH="631"
                     HEIGHT="83">
             <Shape><Polygon POINTS="632 1680 614 1680 593 1686 567 1680 551 1680 530 1680 516 1680 489 1688 453 1680 448 1680 428 1680 418 1680 395 1688 208 1680 204 1680 183 1680 163 1680 151 1680 122 1690 124 1737 124 1761 748 1763 753 1731 748 1688 667 1688 651 1680 632 1680"/></Shape>
-	    <String CONTENT="Escripture. 11. qõ.3.Si dominus."
+	    <String CONTENT="Escripture. 11.qõ.3. Si dominus."
                     HPOS="122"
                     VPOS="1680"
                     WIDTH="631"

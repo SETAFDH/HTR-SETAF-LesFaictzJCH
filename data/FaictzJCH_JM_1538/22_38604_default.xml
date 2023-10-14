@@ -314,7 +314,7 @@
                     WIDTH="1167"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1081 1050 1061 1050 1046 1050 993 1058 991 1058 987 1058 928 1048 926 1048 924 1048 887 1058 883 1058 879 1058 857 1048 857 1048 838 1048 814 1056 812 1056 802 1056 644 1046 642 1046 600 1054 597 1054 581 1046 571 1046 559 1044 446 1052 442 1052 422 1044 408 1044 387 1044 367 1044 346 1044 342 1042 102 1048 102 1099 100 1109 1263 1125 1267 1111 1265 1062 1091 1050 1081 1050"/></Shape>
-	    <String CONTENT="en ses canons. De priuile.cleri. cum olim. ⁊ in. Clementi.de"
+	    <String CONTENT="en ses canons. De priuile. cleri. cum olim. ⁊ in. Clementi. de"
                     HPOS="100"
                     VPOS="1042"
                     WIDTH="1167"
@@ -331,7 +331,7 @@
                     WIDTH="722"
                     HEIGHT="67">
             <Shape><Polygon POINTS="818 1107 797 1107 777 1107 757 1107 736 1107 716 1107 695 1107 104 1107 104 1160 104 1174 826 1166 826 1160 826 1107 818 1107"/></Shape>
-	    <String CONTENT="senten.excommu. Si summus ponti."
+	    <String CONTENT="senten. excommu. Si summus ponti."
                     HPOS="104"
                     VPOS="1107"
                     WIDTH="722"
