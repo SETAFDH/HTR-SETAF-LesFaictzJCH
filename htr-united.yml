@@ -33,12 +33,13 @@ characters:
   - h
   - z
   - b
-  - '-'
   - x
   - I
   - ':'
+  - '-'
   - C
   - E
+  - ¬
   - P
   - '1'
   - ¶
@@ -73,15 +74,15 @@ characters:
   - )
   - (
   - ꝑ
-  - J
   - v
+  - J
   - ꝓ
+  - ꝫ
   - ł
   - ꝯ
   - Z
   - k
   - K
-  - ꝫ
   - ᗅ
   - ð
   - ꝗ
@@ -91,7 +92,6 @@ characters:
   - V
   - ᑕ
   - j
-  - X
   mode: NFD
 description: Data for SETAF project
 format: Alto-XML
@@ -118,7 +118,7 @@ url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
 - count: 205521
   metric: characters
-- count: 144
+- count: 145
   metric: files
 - count: 4766
   metric: lines
