@@ -212,7 +212,7 @@
                     WIDTH="963"
                     HEIGHT="86">
             <Shape><Polygon POINTS="875 725 865 723 765 734 744 734 742 732 726 723 712 723 691 723 687 723 600 730 571 732 540 730 463 721 461 721 418 727 402 730 393 727 369 719 365 719 351 719 328 725 320 730 261 730 255 725 244 717 242 717 228 717 218 725 216 725 206 717 202 717 181 717 167 717 79 721 79 772 77 793 857 793 859 793 879 803 881 803 883 803 1038 793 1040 785 1038 738 922 738 918 736 887 725 875 725"/></Shape>
-	    <String CONTENT="ses choses/ tu le tue. de penitẽ. distin.1.Noli putare."
+	    <String CONTENT="ses choses/ tu le tue. de penitẽ. distin.1. Noli putare."
                     HPOS="77"
                     VPOS="717"
                     WIDTH="963"
@@ -297,7 +297,7 @@
                     WIDTH="1163"
                     HEIGHT="83">
             <Shape><Polygon POINTS="838 1013 836 1013 834 1013 800 1021 789 1023 700 1023 697 1019 689 1013 689 1011 687 1011 685 1011 683 1011 608 1019 575 1021 561 1017 532 1009 526 1009 524 1009 500 1017 489 1019 475 1017 442 1009 440 1009 77 1009 77 1058 75 1078 738 1078 793 1082 912 1090 914 1090 1044 1082 1063 1082 1067 1082 1095 1092 1097 1092 1100 1092 1236 1082 1238 1072 1236 1029 1148 1017 1146 1017 1089 1025 1077 1027 1046 1025 924 1015 922 1015 871 1023 863 1023 861 1023 840 1013 838 1013"/></Shape>
-	    <String CONTENT="quilz ayent receu tous leurs biens temporelz. 15.q.6.c.Auto-"
+	    <String CONTENT="quilz ayent receu tous leurs biens temporelz. 15.q.6. c. Auto-"
                     HPOS="75"
                     VPOS="1009"
                     WIDTH="1163"
@@ -331,7 +331,7 @@
                     WIDTH="1165"
                     HEIGHT="76">
             <Shape><Polygon POINTS="75 1174 73 1186 1234 1201 1238 1192 1238 1143 75 1125 75 1174"/></Shape>
-	    <String CONTENT="qui mourront en ceste bataille. 23.q.5.c.Omnium. ⁊ 23.q.8."
+	    <String CONTENT="qui mourront en ceste bataille. 23.q.5. c. Omnium. ⁊ 23.q.8."
                     HPOS="73"
                     VPOS="1125"
                     WIDTH="1165"
@@ -433,7 +433,7 @@
                     WIDTH="1167"
                     HEIGHT="75">
             <Shape><Polygon POINTS="79 1523 77 1531 1240 1551 1244 1535 1244 1486 79 1476 79 1523"/></Shape>
-	    <String CONTENT="mes quãd il seroit tire en cause.12.q.1.Episcopus. Toute guer"
+	    <String CONTENT="mes quãd il seroit tire en cause.12.q.1. Episcopus. Toute guer"
                     HPOS="77"
                     VPOS="1476"
                     WIDTH="1167"
@@ -484,7 +484,7 @@
                     WIDTH="1067"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1140 1653 1120 1653 1100 1653 1079 1651 1059 1651 1038 1651 1018 1651 997 1649 977 1649 957 1649 936 1649 922 1647 97 1643 79 1655 79 1696 77 1708 1140 1719 1144 1704 1142 1653 1140 1653"/></Shape>
-	    <String CONTENT="8.Cum a Iudeis. Non pila. Clerici qui reprehensibile."
+	    <String CONTENT="8. Cum a Iudeis. Non pila. Clerici qui reprehensibile."
                     HPOS="77"
                     VPOS="1643"
                     WIDTH="1067"

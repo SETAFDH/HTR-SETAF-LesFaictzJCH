@@ -297,7 +297,7 @@
                     WIDTH="1170"
                     HEIGHT="63">
             <Shape><Polygon POINTS="91 1058 91 1068 1259 1072 1261 1058 1261 1009 91 1009 91 1058"/></Shape>
-	    <String CONTENT="c.Nõ est.Ex transmissa.A nobis.Pastoralis: ⁊ in aliis capit."
+	    <String CONTENT="c. Nõ est. Ex transmissa. A nobis. Pastoralis: ⁊ in aliis capit."
                     HPOS="91"
                     VPOS="1009"
                     WIDTH="1170"
@@ -484,7 +484,7 @@
                     WIDTH="1036"
                     HEIGHT="77">
             <Shape><Polygon POINTS="353 1635 351 1635 348 1635 348 1637 338 1647 204 1647 191 1635 189 1635 187 1635 171 1635 151 1635 130 1635 110 1635 110 1694 110 1712 1146 1712 1146 1694 1146 1645 355 1635 353 1635"/></Shape>
-	    <String CONTENT="de la terre/ ⁊ sa uie est innocente. 2.quest.7.Non omnis."
+	    <String CONTENT="de la terre/ ⁊ sa uie est innocente. 2.quest.7. Non omnis."
                     HPOS="110"
                     VPOS="1635"
                     WIDTH="1036"
