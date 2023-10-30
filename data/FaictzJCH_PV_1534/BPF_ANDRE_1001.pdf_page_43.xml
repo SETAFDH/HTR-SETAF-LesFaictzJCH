@@ -120,7 +120,7 @@
                     WIDTH="468"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1309 625 1774 619 1774 602 1765 546 1306 555 1309 610"/></Shape>
-	    <String CONTENT="au lieu de la cene de no-"
+	    <String CONTENT="au lieu de la cene de no¬"
                     HPOS="1306"
                     VPOS="546"
                     WIDTH="468"
@@ -154,7 +154,7 @@
                     WIDTH="625"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1727 669 1698 669 1669 669 1639 669 1610 669 1581 669 1552 669 1523 669 1493 669 1464 669 1449 669 1143 672 1145 727 1145 742 1765 736 1768 722 1759 669 1756 669"/></Shape>
-	    <String CONTENT="appert en ce quilz appellent con-"
+	    <String CONTENT="appert en ce quilz appellent con¬"
                     HPOS="1143"
                     VPOS="669"
                     WIDTH="625"
@@ -171,7 +171,7 @@
                     WIDTH="628"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1143 803 1765 792 1768 777 1759 727 1140 727 1143 786"/></Shape>
-	    <String CONTENT="secration/ ou sont dictes secrete-"
+	    <String CONTENT="secration/ ou sont dictes secrete¬"
                     HPOS="1140"
                     VPOS="727"
                     WIDTH="628"
@@ -205,7 +205,7 @@
                     WIDTH="623"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1145 920 1768 915 1768 900 1768 847 1145 847 1145 900"/></Shape>
-	    <String CONTENT="Seigneur dit faisant la cene: cõ-"
+	    <String CONTENT="Seigneur dit faisant la cene: cõ¬"
                     HPOS="1145"
                     VPOS="847"
                     WIDTH="623"
@@ -256,7 +256,7 @@
                     WIDTH="613"
                     HEIGHT="128">
             <Shape><Polygon POINTS="1698 1031 1669 1031 1639 1031 1610 1031 1581 1031 1552 1031 1523 1031 1493 1031 1464 1031 1435 1029 1406 1029 1376 1029 1347 1029 1318 1029 1289 1029 1259 1029 1230 1029 1201 1029 1172 1029 1143 1026 1145 1096 1145 1154 1756 1143 1756 1090 1748 1031 1727 1031"/></Shape>
-	    <String CONTENT="temple desdie/ quõ appelle Egli-"
+	    <String CONTENT="temple desdie/ quõ appelle Egli¬"
                     HPOS="1143"
                     VPOS="1026"
                     WIDTH="613"
@@ -426,7 +426,7 @@
                     WIDTH="1547"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1724 1607 1695 1607 1666 1607 1637 1607 1607 1607 1578 1607 1549 1607 1520 1607 1490 1607 1461 1607 1432 1607 1403 1607 1373 1607 1344 1607 1315 1607 1286 1607 1257 1607 1227 1607 1198 1607 1169 1607 1140 1607 1110 1607 1081 1607 1052 1607 1023 1607 993 1607 970 1607 204 1610 207 1663 207 1677 1748 1672 1751 1657 1742 1607 1724 1607"/></Shape>
-	    <String CONTENT="qui par les maisons ont rõpu le pain sans autelz ne tẽples cõsacrez. Il est deffen-"
+	    <String CONTENT="qui par les maisons ont rõpu le pain sans autelz ne tẽples cõsacrez. Il est deffen¬"
                     HPOS="204"
                     VPOS="1607"
                     WIDTH="1547"
@@ -494,7 +494,7 @@
                     WIDTH="1547"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1724 1835 1695 1835 1666 1835 1637 1835 1607 1835 1578 1835 1549 1835 1520 1835 1490 1835 1461 1835 1432 1835 1403 1835 1373 1835 1344 1838 1315 1838 1286 1838 1257 1838 1227 1838 1198 1838 1169 1838 1140 1838 1110 1838 1081 1838 979 1838 964 1841 935 1841 906 1841 877 1841 859 1841 204 1847 207 1908 207 1923 1748 1906 1751 1891 1742 1835 1724 1835"/></Shape>
-	    <String CONTENT="estre separez des laiz. Et ce au cõtraires de Iesus qui est assis au milieu de ses di-"
+	    <String CONTENT="estre separez des laiz. Et ce au cõtraires de Iesus qui est assis au milieu de ses di¬"
                     HPOS="204"
                     VPOS="1835"
                     WIDTH="1547"
@@ -562,7 +562,7 @@
                     WIDTH="1555"
                     HEIGHT="82">
             <Shape><Polygon POINTS="646 2072 616 2072 587 2072 558 2072 529 2072 499 2072 470 2072 441 2072 412 2072 382 2072 353 2072 324 2072 295 2072 266 2072 236 2072 207 2072 210 2131 210 2154 1759 2139 1762 2122 1756 2072 704 2072 675 2072"/></Shape>
-	    <String CONTENT="les resueries cõtenues au liure nomme Rationale diuinorum officiorum: ⁊ en ce-"
+	    <String CONTENT="les resueries cõtenues au liure nomme Rationale diuinorum officiorum: ⁊ en ce¬"
                     HPOS="207"
                     VPOS="2072"
                     WIDTH="1555"
@@ -613,7 +613,7 @@
                     WIDTH="1552"
                     HEIGHT="81">
             <Shape><Polygon POINTS="207 2324 207 2329 1756 2318 1756 2309 1748 2248 204 2256 207 2324"/></Shape>
-	    <String CONTENT="uestemens/ nappes/ seruiettes/ mouchoirs corporaulx/ uaisseaux de boys/ de pier-"
+	    <String CONTENT="uestemens/ nappes/ seruiettes/ mouchoirs corporaulx/ uaisseaux de boys/ de pier¬"
                     HPOS="204"
                     VPOS="2248"
                     WIDTH="1552"
@@ -630,7 +630,7 @@
                     WIDTH="1538"
                     HEIGHT="85">
             <Shape><Polygon POINTS="210 2385 1748 2382 1748 2373 1745 2300 210 2309 210 2373"/></Shape>
-	    <String CONTENT="res/ couuertures/ lesquelles choses le Pape commande/ quand sont presque con-"
+	    <String CONTENT="res/ couuertures/ lesquelles choses le Pape commande/ quand sont presque con¬"
                     HPOS="210"
                     VPOS="2300"
                     WIDTH="1538"
@@ -664,7 +664,7 @@
                     WIDTH="1555"
                     HEIGHT="91">
             <Shape><Polygon POINTS="1698 2426 1669 2426 1639 2426 1610 2426 1581 2426 1552 2426 1523 2426 1493 2426 1464 2426 1435 2426 1406 2426 1376 2426 1347 2426 1318 2426 1289 2426 1259 2426 1230 2426 1201 2426 1172 2426 1143 2426 1113 2426 1084 2426 1055 2426 1026 2426 996 2426 967 2429 938 2429 909 2429 879 2429 850 2429 821 2429 792 2429 762 2429 733 2429 704 2429 675 2429 646 2429 616 2429 587 2429 558 2429 529 2429 499 2429 470 2429 441 2429 412 2429 382 2429 353 2429 324 2429 295 2429 266 2429 236 2429 233 2426 207 2426 210 2487 210 2505 1762 2502 1762 2484 1754 2414 1727 2414 1727 2426"/></Shape>
-	    <String CONTENT="aymant mieulx quon les destruise sans proffit/ que si lon les faisoit seruir a quel-"
+	    <String CONTENT="aymant mieulx quon les destruise sans proffit/ que si lon les faisoit seruir a quel¬"
                     HPOS="207"
                     VPOS="2414"
                     WIDTH="1555"
@@ -963,7 +963,7 @@
                     WIDTH="73"
                     HEIGHT="47">
             <Shape><Polygon POINTS="1827 1210 1797 1210 1768 1210 1774 1251 1774 1257 1838 1254 1841 1245 1835 1210 1827 1210"/></Shape>
-	    <String CONTENT="uni-"
+	    <String CONTENT="uni¬"
                     HPOS="1768"
                     VPOS="1210"
                     WIDTH="73"
@@ -980,7 +980,7 @@
                     WIDTH="91"
                     HEIGHT="103">
             <Shape><Polygon POINTS="1821 1248 1792 1251 1786 1230 1762 1230 1765 1295 1765 1306 1847 1333 1853 1292 1844 1230 1832 1230 1821 1248"/></Shape>
-	    <String CONTENT="cuiqz."
+	    <String CONTENT="cuiqꝫ."
                     HPOS="1762"
                     VPOS="1230"
                     WIDTH="91"
@@ -1197,7 +1197,7 @@
                     WIDTH="141"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1873 2408 1844 2408 1815 2405 1786 2405 1756 2405 1756 2446 1756 2470 1897 2461 1897 2446 1897 2408 1873 2408"/></Shape>
-	    <String CONTENT="gna.Al-"
+	    <String CONTENT="gna.Al¬"
                     HPOS="1756"
                     VPOS="2405"
                     WIDTH="141"

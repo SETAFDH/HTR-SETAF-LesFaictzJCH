@@ -93,7 +93,7 @@
                     WIDTH="404"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1765 675 1736 675 1707 675 1678 672 1648 672 1619 672 1590 672 1561 669 1531 669 1502 669 1473 666 1444 666 1414 666 1385 660 1388 716 1388 730 1786 724 1789 710 1783 675 1765 675"/></Shape>
-	    <String CONTENT="¶ Le Pape excom-"
+	    <String CONTENT="¶ Le Pape excom¬"
                     HPOS="1385"
                     VPOS="660"
                     WIDTH="404"
@@ -127,7 +127,7 @@
                     WIDTH="412"
                     HEIGHT="67">
             <Shape><Polygon POINTS="1382 833 1382 847 1794 844 1794 833 1794 780 1382 780 1382 833"/></Shape>
-	    <String CONTENT="⁊ tenãs aucune cho-"
+	    <String CONTENT="⁊ tenãs aucune cho¬"
                     HPOS="1382"
                     VPOS="780"
                     WIDTH="412"
@@ -229,7 +229,7 @@
                     WIDTH="404"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1385 1189 1385 1210 1789 1207 1789 1189 1789 1137 1385 1137 1385 1189"/></Shape>
-	    <String CONTENT="faictz du peuple a i-"
+	    <String CONTENT="faictz du peuple a i¬"
                     HPOS="1385"
                     VPOS="1137"
                     WIDTH="404"
@@ -263,7 +263,7 @@
                     WIDTH="407"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1385 1303 1385 1333 1792 1327 1792 1303 1792 1254 1385 1254 1385 1303"/></Shape>
-	    <String CONTENT="plus a plein quon re-"
+	    <String CONTENT="plus a plein quon re¬"
                     HPOS="1385"
                     VPOS="1254"
                     WIDTH="407"
@@ -331,7 +331,7 @@
                     WIDTH="410"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1382 1543 1382 1572 1792 1558 1792 1543 1792 1490 1382 1487 1382 1543"/></Shape>
-	    <String CONTENT="sede uac. aliquid in-"
+	    <String CONTENT="sede uac. aliquid in¬"
                     HPOS="1382"
                     VPOS="1487"
                     WIDTH="410"
@@ -382,7 +382,7 @@
                     WIDTH="412"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1385 1713 1382 1730 1403 1742 1406 1742 1409 1742 1411 1742 1792 1730 1794 1718 1792 1672 1385 1666 1385 1713"/></Shape>
-	    <String CONTENT="cores cõme il se ma-"
+	    <String CONTENT="cores cõme il se ma¬"
                     HPOS="1382"
                     VPOS="1666"
                     WIDTH="412"
@@ -416,7 +416,7 @@
                     WIDTH="412"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1473 1780 1444 1780 1414 1780 1411 1777 1385 1777 1385 1835 1385 1865 1797 1853 1797 1835 1797 1789 1487 1780 1473 1780"/></Shape>
-	    <String CONTENT="puissance de Lempe-"
+	    <String CONTENT="puissance de Lempe¬"
                     HPOS="1385"
                     VPOS="1777"
                     WIDTH="412"
@@ -467,7 +467,7 @@
                     WIDTH="1567"
                     HEIGHT="82">
             <Shape><Polygon POINTS="222 2014 222 2037 1786 2043 1789 2014 1786 1961 245 1961 222 2014"/></Shape>
-	    <String CONTENT="Seigneur des Seigneurs nous a donnee/ le Roy aussi de Cecile nous est sub-"
+	    <String CONTENT="Seigneur des Seigneurs nous a donnee/ le Roy aussi de Cecile nous est sub¬"
                     HPOS="222"
                     VPOS="1961"
                     WIDTH="1567"
@@ -501,7 +501,7 @@
                     WIDTH="1564"
                     HEIGHT="82">
             <Shape><Polygon POINTS="219 2128 219 2148 581 2148 593 2148 657 2163 660 2163 663 2163 710 2148 716 2148 722 2148 751 2163 754 2163 757 2163 760 2163 809 2148 821 2148 841 2148 947 2163 950 2163 1777 2148 1780 2122 1774 2081 216 2081 219 2128"/></Shape>
-	    <String CONTENT="ti.de senten. ⁊ re iudica.Pastoralis. Lempereur Cõstantin nous a donne Lem-"
+	    <String CONTENT="ti.de senten. ⁊ re iudica.Pastoralis. Lempereur Cõstantin nous a donne Lem¬"
                     HPOS="216"
                     VPOS="2081"
                     WIDTH="1564"
@@ -518,7 +518,7 @@
                     WIDTH="1552"
                     HEIGHT="84">
             <Shape><Polygon POINTS="225 2189 222 2218 1771 2218 1774 2192 1771 2139 225 2134 225 2189"/></Shape>
-	    <String CONTENT="pire doccidẽt/ la courõne/ ⁊ le mãteau de pourpre/ ⁊ tout ce que appartiẽt a la digni-"
+	    <String CONTENT="pire doccidẽt/ la courõne/ ⁊ le mãteau de pourpre/ ⁊ tout ce que appartiẽt a la digni¬"
                     HPOS="222"
                     VPOS="2134"
                     WIDTH="1552"
@@ -569,7 +569,7 @@
                     WIDTH="1564"
                     HEIGHT="82">
             <Shape><Polygon POINTS="219 2359 216 2385 1774 2391 1780 2373 1777 2324 219 2309 219 2359"/></Shape>
-	    <String CONTENT="p̃stres sõt maistres ⁊ peres des princes. dist.96.Quis dubitet. ¶ Regardez chre-"
+	    <String CONTENT="p̃stres sõt maistres ⁊ peres des princes. dist.96.Quis dubitet. ¶ Regardez chre¬"
                     HPOS="216"
                     VPOS="2309"
                     WIDTH="1564"
@@ -620,7 +620,7 @@
                     WIDTH="1573"
                     HEIGHT="73">
             <Shape><Polygon POINTS="222 2537 219 2560 1786 2563 1792 2546 1789 2496 245 2490 222 2537"/></Shape>
-	    <String CONTENT="Rõmains.13. pour accomplir ce que dit S. Pierre/ que se sont auteurs de sectes/ cõ-"
+	    <String CONTENT="Rõmains.13. pour accomplir ce que dit S. Pierre/ que se sont auteurs de sectes/ cõ¬"
                     HPOS="219"
                     VPOS="2490"
                     WIDTH="1573"
@@ -637,7 +637,7 @@
                     WIDTH="1573"
                     HEIGHT="73">
             <Shape><Polygon POINTS="219 2598 216 2610 1783 2619 1789 2607 1786 2554 219 2546 219 2598"/></Shape>
-	    <String CONTENT="me est le Pape ⁊ les religieux/ qui contẽnẽt la domination. 2.Pet.2. ¶ Quõ re-"
+	    <String CONTENT="me est le Pape ⁊ les religieux/ qui contẽnẽt la domination. 2.Pet.2. ¶ Quõ re¬"
                     HPOS="216"
                     VPOS="2546"
                     WIDTH="1573"

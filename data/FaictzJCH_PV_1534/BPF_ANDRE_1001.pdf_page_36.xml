@@ -110,7 +110,7 @@
                     WIDTH="477"
                     HEIGHT="102">
             <Shape><Polygon POINTS="1087 865 1058 865 1029 865 999 865 970 865 941 865 912 865 882 865 853 865 824 865 795 865 765 865 736 865 707 865 678 865 648 865 619 862 619 923 625 955 648 938 751 950 792 953 795 953 847 944 888 938 897 944 920 961 923 961 926 961 929 964 1067 964 1067 961 1069 961 1072 961 1072 958 1096 935 1096 923 1096 865 1087 865"/></Shape>
-	    <String CONTENT="sur ses espaules sesiouys-"
+	    <String CONTENT="sur ses espaules sesiouys¬"
                     HPOS="619"
                     VPOS="862"
                     WIDTH="477"
@@ -144,7 +144,7 @@
                     WIDTH="483"
                     HEIGHT="94">
             <Shape><Polygon POINTS="909 979 897 979 894 982 616 985 619 1040 619 1055 1096 1046 1099 1031 1093 979 935 961 932 961 929 961 926 961 912 967 909 979"/></Shape>
-	    <String CONTENT="¶ Il uit grande multi-"
+	    <String CONTENT="¶ Il uit grande multi¬"
                     HPOS="616"
                     VPOS="961"
                     WIDTH="483"
@@ -229,7 +229,7 @@
                     WIDTH="486"
                     HEIGHT="76">
             <Shape><Polygon POINTS="616 1330 616 1341 1093 1347 1099 1321 1090 1271 613 1277 616 1330"/></Shape>
-	    <String CONTENT="mẽcea leͬ enseigner plu-"
+	    <String CONTENT="mẽcea leͬ enseigner plu¬"
                     HPOS="613"
                     VPOS="1271"
                     WIDTH="486"
@@ -416,7 +416,7 @@
                     WIDTH="1657"
                     HEIGHT="76">
             <Shape><Polygon POINTS="608 1970 605 1996 2259 1996 2262 1979 2259 1926 619 1920 608 1970"/></Shape>
-	    <String CONTENT="mon ame pour elles/ ⁊ si le loup uient ie ne men fuys pas/ car ie ne suis pas merce-"
+	    <String CONTENT="mon ame pour elles/ ⁊ si le loup uient ie ne men fuys pas/ car ie ne suis pas merce¬"
                     HPOS="605"
                     VPOS="1920"
                     WIDTH="1657"
@@ -484,7 +484,7 @@
                     WIDTH="1590"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1727 2157 1724 2154 1201 2154 1201 2154 1172 2154 1169 2151 675 2151 675 2207 672 2218 2256 2224 2262 2212 2259 2160 1730 2157 1727 2157"/></Shape>
-	    <String CONTENT="¶ Le bon sauueur a ce inuite tous chargez ⁊ trauaillez pour uenir a luy ⁊ estre sou-"
+	    <String CONTENT="¶ Le bon sauueur a ce inuite tous chargez ⁊ trauaillez pour uenir a luy ⁊ estre sou¬"
                     HPOS="672"
                     VPOS="2151"
                     WIDTH="1590"
@@ -586,7 +586,7 @@
                     WIDTH="1649"
                     HEIGHT="85">
             <Shape><Polygon POINTS="2218 2508 2189 2508 2160 2508 2131 2508 2101 2508 2072 2508 2043 2508 2014 2508 1984 2508 1955 2508 1926 2508 1897 2508 1868 2508 1838 2508 1809 2508 1780 2508 1751 2508 1721 2508 1692 2505 1663 2505 1634 2505 1604 2505 1575 2505 1546 2505 1517 2505 1487 2505 1458 2505 1429 2505 1400 2505 1371 2505 1341 2505 1312 2505 1283 2505 1254 2505 1224 2505 1195 2505 1166 2505 1137 2502 1107 2502 1078 2502 1049 2502 1020 2502 991 2502 961 2502 932 2502 903 2502 874 2502 844 2502 815 2502 786 2502 757 2502 727 2502 698 2502 669 2502 640 2502 610 2502 610 2563 610 2587 2259 2578 2259 2563 2248 2508 2218 2508"/></Shape>
-	    <String CONTENT="la parolle de Dieu/ a quoy faire aussi exhorte les aultres: disant/ Nourrissez le trou-"
+	    <String CONTENT="la parolle de Dieu/ a quoy faire aussi exhorte les aultres: disant/ Nourrissez le trou¬"
                     HPOS="610"
                     VPOS="2502"
                     WIDTH="1649"
@@ -603,7 +603,7 @@
                     WIDTH="1654"
                     HEIGHT="67">
             <Shape><Polygon POINTS="608 2616 605 2631 2253 2633 2259 2622 2245 2566 634 2566 608 2616"/></Shape>
-	    <String CONTENT="peau de Dieu qui est entre uous: pouruoyans non point par contraincte: mais uo-"
+	    <String CONTENT="peau de Dieu qui est entre uous: pouruoyans non point par contraincte: mais uo¬"
                     HPOS="605"
                     VPOS="2566"
                     WIDTH="1654"
@@ -637,7 +637,7 @@
                     WIDTH="1648"
                     HEIGHT="79">
             <Shape><Polygon POINTS="608 2739 608 2762 2253 2747 2256 2733 2248 2683 631 2683 608 2739"/></Shape>
-	    <String CONTENT="non point comme ayant seigneurie sur le clerge/ mais en sorte que uous soyez lexem-"
+	    <String CONTENT="non point comme ayant seigneurie sur le clerge/ mais en sorte que uous soyez lexem¬"
                     HPOS="608"
                     VPOS="2683"
                     WIDTH="1648"
@@ -654,7 +654,7 @@
                     WIDTH="1651"
                     HEIGHT="108">
             <Shape><Polygon POINTS="608 2800 608 2829 1280 2818 1312 2835 1341 2850 1344 2850 1347 2850 2259 2838 2259 2794 2242 2742 631 2742 608 2800"/></Shape>
-	    <String CONTENT="plaire du troupeau. Et quãd le prince des pasteurs apparoistra uoꝰ receurez la coron-"
+	    <String CONTENT="plaire du troupeau. Et quãd le prince des pasteurs apparoistra uoꝰ receurez la coron¬"
                     HPOS="608"
                     VPOS="2742"
                     WIDTH="1651"

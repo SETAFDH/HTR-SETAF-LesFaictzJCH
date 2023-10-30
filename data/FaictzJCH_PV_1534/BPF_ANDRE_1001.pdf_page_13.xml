@@ -76,7 +76,7 @@
                     WIDTH="555"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1917 686 1888 686 1859 686 1830 686 1800 684 1771 684 1742 684 1713 684 1683 681 1654 681 1625 681 1596 681 1566 678 1537 678 1508 678 1479 678 1449 678 1420 681 1391 684 1394 733 1394 748 1944 742 1946 727 1941 681 1917 686"/></Shape>
-	    <String CONTENT="¶ Quel orgueil/ quelle põ-"
+	    <String CONTENT="¶ Quel orgueil/ quelle põ¬"
                     HPOS="1391"
                     VPOS="678"
                     WIDTH="555"
@@ -93,7 +93,7 @@
                     WIDTH="556"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1391 786 1388 803 1941 803 1944 792 1920 736 1391 733 1391 786"/></Shape>
-	    <String CONTENT="pe/ quelle boubance peult e-"
+	    <String CONTENT="pe/ quelle boubance peult e¬"
                     HPOS="1388"
                     VPOS="733"
                     WIDTH="556"
@@ -127,7 +127,7 @@
                     WIDTH="550"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1391 906 1391 923 1938 926 1941 906 1941 856 1391 856 1391 906"/></Shape>
-	    <String CONTENT="a son uestement ⁊ son coron-"
+	    <String CONTENT="a son uestement ⁊ son coron¬"
                     HPOS="1391"
                     VPOS="856"
                     WIDTH="550"
@@ -229,7 +229,7 @@
                     WIDTH="553"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1917 1204 1888 1204 1859 1204 1830 1204 1800 1204 1771 1204 1742 1201 1713 1201 1683 1201 1654 1201 1625 1201 1596 1201 1566 1198 1537 1198 1508 1198 1479 1198 1449 1198 1420 1198 1391 1198 1391 1257 1388 1271 1935 1277 1941 1262 1938 1204 1917 1204"/></Shape>
-	    <String CONTENT="enuirõnee de pourpre ⁊ des-"
+	    <String CONTENT="enuirõnee de pourpre ⁊ des¬"
                     HPOS="1388"
                     VPOS="1198"
                     WIDTH="553"
@@ -246,7 +246,7 @@
                     WIDTH="553"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1391 1318 1391 1341 1944 1335 1944 1318 1917 1265 1391 1259 1391 1318"/></Shape>
-	    <String CONTENT="carlate/ ⁊ doree dor ⁊ de pier-"
+	    <String CONTENT="carlate/ ⁊ doree dor ⁊ de pier¬"
                     HPOS="1391"
                     VPOS="1259"
                     WIDTH="553"
@@ -263,7 +263,7 @@
                     WIDTH="555"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1745 1321 1716 1321 1686 1321 1657 1321 1628 1321 1599 1321 1569 1321 1540 1321 1511 1321 1482 1321 1452 1321 1423 1321 1394 1321 1394 1371 1391 1382 1941 1391 1946 1379 1946 1324 1762 1321 1745 1321"/></Shape>
-	    <String CONTENT="res precieuses/ ⁊ de margue-"
+	    <String CONTENT="res precieuses/ ⁊ de margue¬"
                     HPOS="1391"
                     VPOS="1321"
                     WIDTH="555"
@@ -297,7 +297,7 @@
                     WIDTH="556"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1710 1438 1680 1438 1666 1435 1604 1435 1593 1435 1563 1435 1534 1435 1505 1435 1476 1435 1447 1435 1417 1435 1414 1429 1388 1429 1388 1493 1388 1514 1944 1514 1944 1493 1914 1441 1713 1438 1710 1438"/></Shape>
-	    <String CONTENT="calice dor plain dabomina-"
+	    <String CONTENT="calice dor plain dabomina¬"
                     HPOS="1388"
                     VPOS="1429"
                     WIDTH="556"
@@ -314,7 +314,7 @@
                     WIDTH="555"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1800 1496 1771 1496 1742 1496 1713 1496 1683 1496 1654 1496 1625 1496 1596 1496 1566 1496 1537 1496 1508 1496 1479 1496 1449 1496 1420 1496 1391 1496 1391 1552 1391 1575 1946 1569 1946 1552 1946 1499 1806 1496 1800 1496"/></Shape>
-	    <String CONTENT="tion ⁊ dimmundice de sa for-"
+	    <String CONTENT="tion ⁊ dimmundice de sa for¬"
                     HPOS="1391"
                     VPOS="1496"
                     WIDTH="555"
@@ -416,7 +416,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="222 1908 222 1929 1944 1920 1944 1908 1917 1853 222 1853 222 1908"/></Shape>
-	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx/ comme il appert. distinc.96.Cõ-"
+	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx/ comme il appert. distinc.96.Cõ¬"
                     HPOS="222"
                     VPOS="1853"
                     WIDTH="1722"
@@ -450,7 +450,7 @@
                     WIDTH="1722"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1914 1970 1885 1970 1856 1970 1827 1970 1797 1970 1768 1970 1739 1970 1710 1970 1680 1970 1651 1970 1622 1970 1593 1970 1563 1970 1534 1970 1505 1970 1476 1970 1447 1970 1417 1970 1388 1970 1359 1970 1330 1970 1300 1970 1271 1970 1242 1970 1213 1970 1183 1970 1154 1970 1125 1970 1096 1970 1067 1970 1037 1970 1008 1970 979 1970 950 1970 920 1970 891 1970 862 1970 833 1970 803 1970 774 1970 745 1970 716 1970 686 1970 657 1970 628 1970 599 1970 570 1970 540 1970 511 1970 482 1970 453 1970 423 1970 394 1970 365 1970 336 1970 306 1970 277 1970 248 1970 219 1967 222 2025 222 2052 1938 2034 1941 2020 1935 1970 1914 1970"/></Shape>
-	    <String CONTENT="le pape porte/ en se mocquant de Iesus ⁊ de S. Pierre/ pour estre adore des hommes: com-"
+	    <String CONTENT="le pape porte/ en se mocquant de Iesus ⁊ de S. Pierre/ pour estre adore des hommes: com¬"
                     HPOS="219"
                     VPOS="1967"
                     WIDTH="1722"
@@ -484,7 +484,7 @@
                     WIDTH="1707"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1069 2087 1040 2087 1011 2087 982 2087 953 2087 923 2087 894 2087 865 2087 836 2087 806 2087 777 2087 748 2087 719 2087 689 2087 660 2087 631 2087 602 2087 572 2087 543 2087 514 2087 485 2087 456 2087 426 2087 397 2087 368 2087 339 2087 309 2087 280 2087 251 2087 222 2087 222 2142 222 2166 1929 2160 1929 2142 1929 2090 1075 2087 1069 2087"/></Shape>
-	    <String CONTENT="sainctz? ce nest pas estre en leur place/ mais suyure leur foy: comme il est contenu au de-"
+	    <String CONTENT="sainctz? ce nest pas estre en leur place/ mais suyure leur foy: comme il est contenu au de¬"
                     HPOS="222"
                     VPOS="2087"
                     WIDTH="1707"

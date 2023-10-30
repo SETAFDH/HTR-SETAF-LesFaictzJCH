@@ -42,7 +42,7 @@
                     WIDTH="1710"
                     HEIGHT="91">
             <Shape><Polygon POINTS="2204 359 2174 359 2145 359 2116 359 2087 359 2058 359 2028 359 1999 359 1970 359 1941 359 1911 359 1882 359 1853 359 1824 359 1794 356 1765 356 1736 356 1707 356 1678 356 1648 356 1619 356 1590 356 1561 356 1531 356 1502 356 1473 356 1444 356 1414 356 1385 353 1356 353 1327 353 1297 353 1268 353 1239 353 1210 353 1181 353 1151 353 1122 353 1093 353 1064 353 1034 353 1005 353 976 350 947 350 917 350 888 350 859 350 830 350 800 350 771 350 742 350 713 350 684 350 654 350 625 350 596 350 567 356 537 371 511 406 511 435 2218 418 2221 400 2215 347 2204 344 2204 359"/></Shape>
-	    <String CONTENT="la saincte eglise quil a faict ⁊ commande. Et de lautre le Pape chief de leglise Rom-"
+	    <String CONTENT="la saincte eglise quil a faict ⁊ commande. Et de lautre le Pape chief de leglise Rom¬"
                     HPOS="511"
                     VPOS="344"
                     WIDTH="1710"
@@ -59,7 +59,7 @@
                     WIDTH="1707"
                     HEIGHT="70">
             <Shape><Polygon POINTS="511 467 511 482 2212 476 2215 461 2207 412 508 412 511 467"/></Shape>
-	    <String CONTENT="maine ⁊ ses decretz ⁊ ordonnances: affin que les consciences craintiues/ qui ont pen-"
+	    <String CONTENT="maine ⁊ ses decretz ⁊ ordonnances: affin que les consciences craintiues/ qui ont pen¬"
                     HPOS="508"
                     VPOS="412"
                     WIDTH="1707"
@@ -195,7 +195,7 @@
                     WIDTH="1704"
                     HEIGHT="68">
             <Shape><Polygon POINTS="514 900 511 935 511 950 2215 950 2215 935 2215 882 534 882 514 900"/></Shape>
-	    <String CONTENT="espanchant le sang innocent/ persecutant Iesus en ses membres/ par feu/ glaiue/ ⁊ aul-"
+	    <String CONTENT="espanchant le sang innocent/ persecutant Iesus en ses membres/ par feu/ glaiue/ ⁊ aul¬"
                     HPOS="511"
                     VPOS="882"
                     WIDTH="1704"
@@ -297,7 +297,7 @@
                     WIDTH="1710"
                     HEIGHT="73">
             <Shape><Polygon POINTS="2207 1230 2177 1230 2148 1230 2119 1230 2090 1230 2060 1230 2031 1230 2002 1230 1973 1230 1944 1230 1914 1230 1885 1230 1856 1230 1827 1230 1797 1230 1768 1230 1739 1230 1710 1230 1680 1230 1651 1230 1622 1230 1593 1230 1563 1230 1534 1230 1505 1230 1476 1230 1447 1230 1417 1230 1388 1230 1359 1230 1330 1230 1300 1230 1271 1230 1242 1230 1213 1230 1183 1230 1154 1230 1125 1230 1096 1230 1067 1230 1037 1230 1008 1230 979 1230 950 1230 920 1230 891 1230 862 1230 833 1230 803 1230 774 1230 745 1230 716 1230 686 1230 657 1230 628 1230 599 1230 570 1230 540 1230 511 1245 511 1286 511 1300 2221 1300 2221 1286 2221 1230 2207 1227 2207 1230"/></Shape>
-	    <String CONTENT="de Dieu/ ⁊ edification lung de laultre/ tellement quen Leglise ny aye aultre chief que Ie-"
+	    <String CONTENT="de Dieu/ ⁊ edification lung de laultre/ tellement quen Leglise ny aye aultre chief que Ie¬"
                     HPOS="511"
                     VPOS="1227"
                     WIDTH="1710"
@@ -348,7 +348,7 @@
                     WIDTH="1643"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1163 1403 1134 1403 1105 1403 1075 1403 1046 1403 1017 1403 988 1403 958 1403 929 1403 900 1403 871 1403 841 1406 812 1406 783 1406 754 1406 724 1406 695 1406 666 1406 637 1406 608 1406 578 1406 578 1458 578 1476 2221 1473 2221 1458 2218 1400 1172 1400 1163 1403"/></Shape>
-	    <String CONTENT="Le bon plaisir du Seigneur de tous/ qui tout a faict/ soit par sa bõte enuoyer par tou-"
+	    <String CONTENT="Le bon plaisir du Seigneur de tous/ qui tout a faict/ soit par sa bõte enuoyer par tou¬"
                     HPOS="578"
                     VPOS="1400"
                     WIDTH="1643"
@@ -399,7 +399,7 @@
                     WIDTH="1707"
                     HEIGHT="82">
             <Shape><Polygon POINTS="514 1637 514 1660 2215 1642 2218 1628 2210 1578 511 1584 514 1637"/></Shape>
-	    <String CONTENT="prennent la uerite/ ⁊ que tous soyõs amenez au troupeau de Iesus faictz tous ung trou-"
+	    <String CONTENT="prennent la uerite/ ⁊ que tous soyõs amenez au troupeau de Iesus faictz tous ung trou¬"
                     HPOS="511"
                     VPOS="1578"
                     WIDTH="1707"

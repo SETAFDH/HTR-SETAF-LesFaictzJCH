@@ -76,7 +76,7 @@
                     WIDTH="786"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1289 616 1259 616 1230 616 1201 613 1172 613 1143 613 1113 610 1084 610 1055 610 1026 608 996 608 967 608 938 608 909 605 879 605 850 605 821 602 792 602 762 602 733 599 704 599 675 599 646 599 616 596 587 596 558 596 555 587 529 587 529 651 529 669 1315 669 1315 651 1312 616 1289 616"/></Shape>
-	    <String CONTENT="¶ Lange dit/ ne craignez point/ car uoi-"
+	    <String CONTENT="¶ Lange dit/ ne craignez point/ car uoi¬"
                     HPOS="529"
                     VPOS="587"
                     WIDTH="786"
@@ -144,7 +144,7 @@
                     WIDTH="789"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1113 830 1084 830 1055 830 1026 830 996 830 967 830 938 830 909 827 879 827 850 827 821 827 792 827 762 827 733 827 704 827 675 827 646 827 616 827 587 827 558 827 529 827 529 885 529 909 1318 906 1318 885 1318 833 1119 830 1113 830"/></Shape>
-	    <String CONTENT="de Dauid: ⁊ ce uoꝰ sera signe/ uous trou-"
+	    <String CONTENT="de Dauid: ⁊ ce uoꝰ sera signe/ uous trou¬"
                     HPOS="529"
                     VPOS="827"
                     WIDTH="789"
@@ -348,7 +348,7 @@
                     WIDTH="1704"
                     HEIGHT="76">
             <Shape><Polygon POINTS="2201 1563 2172 1563 2142 1563 2113 1561 2084 1561 2055 1561 2025 1561 1996 1558 1967 1558 1938 1558 1908 1558 1879 1555 1850 1555 1821 1555 1792 1552 1762 1552 1733 1552 1704 1552 1675 1549 1645 1549 1616 1549 1587 1549 1558 1546 1528 1546 1499 1546 1470 1546 1441 1543 1411 1543 1382 1543 1353 1543 1350 1534 929 1531 915 1534 885 1534 856 1534 827 1534 798 1534 768 1534 739 1534 710 1534 681 1534 651 1534 622 1534 593 1534 564 1534 534 1534 534 1590 532 1604 2230 1607 2236 1596 2230 1563 2201 1563"/></Shape>
-	    <String CONTENT="fin/ il sera assis au throsne de Dauid/ lequel il confermera par equite ⁊ iustice eternelle-"
+	    <String CONTENT="fin/ il sera assis au throsne de Dauid/ lequel il confermera par equite ⁊ iustice eternelle¬"
                     HPOS="532"
                     VPOS="1531"
                     WIDTH="1704"
@@ -416,7 +416,7 @@
                     WIDTH="1704"
                     HEIGHT="73">
             <Shape><Polygon POINTS="532 1821 529 1838 2227 1841 2233 1830 2230 1777 532 1768 532 1821"/></Shape>
-	    <String CONTENT="les Anges/ mais a prins la semence de Abraham. Parquoy il a fallu quil ayt este sem-"
+	    <String CONTENT="les Anges/ mais a prins la semence de Abraham. Parquoy il a fallu quil ayt este sem¬"
                     HPOS="529"
                     VPOS="1768"
                     WIDTH="1704"
@@ -484,7 +484,7 @@
                     WIDTH="1699"
                     HEIGHT="73">
             <Shape><Polygon POINTS="2204 2008 2174 2008 2145 2008 2116 2008 2087 2008 2058 2008 2028 2008 1999 2008 1970 2008 1941 2008 1911 2008 1882 2008 1853 2008 1824 2008 1794 2008 1765 2008 1736 2008 1707 2008 1678 2008 1648 2005 1619 2005 1590 2005 1561 2005 1531 2005 1502 2005 1473 2005 1444 2005 1414 2005 1385 2005 1356 2005 1327 2005 1297 2005 1268 2005 1239 2005 1210 2005 1181 2005 1151 2005 1122 2005 1093 2002 1064 2002 1034 2002 1005 2002 976 2002 947 2002 917 2002 888 2002 859 2002 830 2002 800 2002 771 2002 742 2002 713 2002 684 2002 654 2002 625 2002 596 2002 567 2002 537 2002 537 2058 534 2069 2227 2075 2233 2063 2230 2008 2204 2008"/></Shape>
-	    <String CONTENT="cresche/ a cause quil ny auoit point de lieu pour eulx en lhostellerie. Luce.2. ¶ Les re-"
+	    <String CONTENT="cresche/ a cause quil ny auoit point de lieu pour eulx en lhostellerie. Luce.2. ¶ Les re¬"
                     HPOS="534"
                     VPOS="2002"
                     WIDTH="1699"
@@ -569,7 +569,7 @@
                     WIDTH="1693"
                     HEIGHT="76">
             <Shape><Polygon POINTS="2204 2294 2174 2294 2145 2294 2116 2294 2087 2294 2058 2294 2028 2294 1999 2294 1970 2294 1941 2294 1911 2294 1882 2294 1853 2294 1824 2294 1797 2294 1385 2294 1385 2297 1376 2297 537 2300 540 2356 540 2370 2227 2364 2230 2350 2221 2294 2204 2294"/></Shape>
-	    <String CONTENT="⁊ le Seigneurs des Seigneurs est ne: ouurez pour Dieu les yeulx de uoz espertiz ⁊ con-"
+	    <String CONTENT="⁊ le Seigneurs des Seigneurs est ne: ouurez pour Dieu les yeulx de uoz espertiz ⁊ con¬"
                     HPOS="537"
                     VPOS="2294"
                     WIDTH="1693"
@@ -637,7 +637,7 @@
                     WIDTH="1690"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1365 2534 1335 2534 1306 2534 1277 2534 1248 2534 1219 2534 1189 2534 1160 2534 1131 2534 1102 2534 1072 2534 1043 2534 1014 2534 985 2534 955 2534 926 2534 897 2534 868 2534 839 2534 809 2534 780 2534 751 2534 722 2534 692 2534 663 2534 634 2534 605 2534 575 2534 572 2528 546 2528 546 2590 546 2607 2236 2607 2236 2590 2212 2537 1385 2534 1365 2534"/></Shape>
-	    <String CONTENT="dargent/ cõme nous uoyons auiourdhuy que a le Pape ⁊ les siens/ ⁊ les paoures de Ie-"
+	    <String CONTENT="dargent/ cõme nous uoyons auiourdhuy que a le Pape ⁊ les siens/ ⁊ les paoures de Ie¬"
                     HPOS="546"
                     VPOS="2528"
                     WIDTH="1690"
@@ -654,7 +654,7 @@
                     WIDTH="1690"
                     HEIGHT="103">
             <Shape><Polygon POINTS="546 2648 546 2666 724 2666 736 2671 751 2680 754 2680 757 2680 760 2680 806 2671 839 2666 1151 2677 1207 2677 1210 2677 1224 2677 1473 2663 1546 2683 1590 2695 1593 2695 1596 2695 2233 2692 2233 2642 2227 2595 543 2592 546 2648"/></Shape>
-	    <String CONTENT="sus Christ sont tous nudz. Il est ne au tẽps de paix/ ⁊ a sa natiuite la paix a este annon-"
+	    <String CONTENT="sus Christ sont tous nudz. Il est ne au tẽps de paix/ ⁊ a sa natiuite la paix a este annon¬"
                     HPOS="543"
                     VPOS="2592"
                     WIDTH="1690"

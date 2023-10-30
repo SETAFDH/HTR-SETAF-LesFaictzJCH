@@ -110,7 +110,7 @@
                     WIDTH="544"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1388 1201 1388 1216 1926 1213 1929 1195 1920 1140 1385 1145 1388 1201"/></Shape>
-	    <String CONTENT="gnent/ que les laiz sont en-"
+	    <String CONTENT="gnent/ que les laiz sont en¬"
                     HPOS="1385"
                     VPOS="1140"
                     WIDTH="544"
@@ -195,7 +195,7 @@
                     WIDTH="547"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1911 1432 1882 1432 1853 1432 1824 1432 1794 1432 1786 1432 1385 1438 1388 1493 1388 1511 1929 1502 1932 1485 1923 1432 1911 1432"/></Shape>
-	    <String CONTENT="Roys/ ou Barõs/ ou de q̃l-"
+	    <String CONTENT="Roys/ ou Barõs/ ou de q̃l¬"
                     HPOS="1385"
                     VPOS="1432"
                     WIDTH="547"
@@ -399,7 +399,7 @@
                     WIDTH="1701"
                     HEIGHT="84">
             <Shape><Polygon POINTS="230 2186 228 2210 1923 2218 1929 2195 1926 2139 230 2134 230 2186"/></Shape>
-	    <String CONTENT="canons ⁊ decretz: uoyre aussi destruisant ses decretz mesmes. Dont luy uient ceste auda-"
+	    <String CONTENT="canons ⁊ decretz: uoyre aussi destruisant ses decretz mesmes. Dont luy uient ceste auda¬"
                     HPOS="228"
                     VPOS="2134"
                     WIDTH="1701"
@@ -416,7 +416,7 @@
                     WIDTH="1701"
                     HEIGHT="76">
             <Shape><Polygon POINTS="230 2245 228 2262 1923 2268 1929 2253 1926 2201 230 2192 230 2245"/></Shape>
-	    <String CONTENT="ce de uouloir exempter les siens/ ⁊ soy faire iuge/ uoire de tous? ueu quil ne doibt estre iu-"
+	    <String CONTENT="ce de uouloir exempter les siens/ ⁊ soy faire iuge/ uoire de tous? ueu quil ne doibt estre iu¬"
                     HPOS="228"
                     VPOS="2192"
                     WIDTH="1701"
@@ -501,7 +501,7 @@
                     WIDTH="1704"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1920 2490 1891 2490 1862 2490 1832 2490 1803 2490 1774 2490 1745 2490 1716 2490 1686 2490 1657 2490 1628 2490 1599 2490 1569 2490 1540 2490 1511 2490 1482 2490 1452 2490 1423 2490 1394 2490 1365 2490 1335 2487 1306 2487 1277 2487 1248 2487 1219 2487 1189 2487 1160 2487 1131 2487 1102 2487 1072 2487 1043 2487 1014 2487 985 2487 955 2487 926 2487 897 2487 868 2487 839 2487 809 2487 780 2484 751 2484 722 2484 692 2484 663 2484 634 2484 605 2484 575 2484 546 2484 517 2484 488 2484 458 2484 429 2484 400 2484 371 2484 342 2484 312 2484 283 2484 254 2484 251 2478 225 2478 225 2540 222 2560 1920 2566 1926 2549 1926 2490 1920 2490"/></Shape>
-	    <String CONTENT="les larrecins/ punir les adulteres ⁊ les meschans exterminer de la terre. 23.q.5.Rex de-"
+	    <String CONTENT="les larrecins/ punir les adulteres ⁊ les meschans exterminer de la terre. 23.q.5.Rex de¬"
                     HPOS="222"
                     VPOS="2478"
                     WIDTH="1704"

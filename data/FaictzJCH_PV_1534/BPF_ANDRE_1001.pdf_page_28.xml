@@ -110,7 +110,7 @@
                     WIDTH="529"
                     HEIGHT="81">
             <Shape><Polygon POINTS="1037 686 1008 686 979 686 950 686 920 686 891 686 862 689 833 689 803 689 774 689 745 689 716 689 686 692 657 692 628 692 599 692 570 692 540 692 543 748 543 765 1067 757 1069 742 1061 684 1037 686"/></Shape>
-	    <String CONTENT="ont este loing de toute am-"
+	    <String CONTENT="ont este loing de toute am¬"
                     HPOS="540"
                     VPOS="684"
                     WIDTH="529"
@@ -127,7 +127,7 @@
                     WIDTH="527"
                     HEIGHT="79">
             <Shape><Polygon POINTS="803 748 798 748 540 748 543 806 543 824 1064 821 1067 800 1058 745 803 745 803 748"/></Shape>
-	    <String CONTENT="bition ⁊ auarice/ cõme mon-"
+	    <String CONTENT="bition ⁊ auarice/ cõme mon¬"
                     HPOS="540"
                     VPOS="745"
                     WIDTH="527"
@@ -144,7 +144,7 @@
                     WIDTH="529"
                     HEIGHT="79">
             <Shape><Polygon POINTS="543 862 543 882 1067 877 1069 856 1061 803 540 809 543 862"/></Shape>
-	    <String CONTENT="stre bien Moyse quand las-"
+	    <String CONTENT="stre bien Moyse quand las¬"
                     HPOS="540"
                     VPOS="803"
                     WIDTH="529"
@@ -314,7 +314,7 @@
                     WIDTH="535"
                     HEIGHT="76">
             <Shape><Polygon POINTS="552 1441 552 1455 1081 1449 1084 1435 1075 1379 549 1388 552 1441"/></Shape>
-	    <String CONTENT="le bon Samuel/ disant: par-"
+	    <String CONTENT="le bon Samuel/ disant: par¬"
                     HPOS="549"
                     VPOS="1379"
                     WIDTH="535"
@@ -416,7 +416,7 @@
                     WIDTH="526"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1061 1730 1031 1730 1002 1730 973 1730 944 1730 915 1730 885 1730 856 1730 827 1730 798 1733 768 1733 739 1733 710 1733 686 1733 564 1733 567 1792 567 1809 1087 1806 1090 1780 1081 1727 1061 1730"/></Shape>
-	    <String CONTENT="¶ Quõ lise ⁊ regarde si au-"
+	    <String CONTENT="¶ Quõ lise ⁊ regarde si au¬"
                     HPOS="564"
                     VPOS="1727"
                     WIDTH="526"
@@ -620,7 +620,7 @@
                     WIDTH="1675"
                     HEIGHT="88">
             <Shape><Polygon POINTS="2242 2411 2212 2411 2183 2411 2154 2411 2125 2411 2096 2411 2066 2411 2037 2411 2008 2411 2002 2411 1973 2411 1949 2414 1920 2414 1891 2414 1862 2414 1832 2414 1803 2414 1774 2414 1762 2414 1707 2414 1686 2417 1657 2417 1628 2417 1599 2417 1569 2417 1540 2417 1525 2417 1409 2417 1394 2420 1365 2420 1335 2420 1306 2420 1286 2420 1140 2420 1131 2423 1102 2423 1072 2423 1049 2423 841 2423 839 2426 809 2426 575 2426 578 2481 578 2499 2248 2481 2250 2464 2242 2411 2242 2411"/></Shape>
-	    <String CONTENT="due auarice/ qui est droicte idolatrie/ sur tout aux ministres de la parolle/ puis que riẽ na-"
+	    <String CONTENT="due auarice/ qui est droicte idolatrie/ sur tout aux ministres de la parolle/ puis que riẽ na¬"
                     HPOS="575"
                     VPOS="2411"
                     WIDTH="1675"

@@ -93,7 +93,7 @@
                     WIDTH="556"
                     HEIGHT="67">
             <Shape><Polygon POINTS="1379 716 1379 733 1935 733 1935 716 1935 666 1379 666 1379 716"/></Shape>
-	    <String CONTENT="maieste faict ioustes/ ⁊ aul-"
+	    <String CONTENT="maieste faict ioustes/ ⁊ aul¬"
                     HPOS="1379"
                     VPOS="666"
                     WIDTH="556"
@@ -110,7 +110,7 @@
                     WIDTH="553"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1906 719 1876 719 1847 719 1818 719 1789 719 1759 719 1730 719 1701 719 1672 719 1642 719 1613 719 1584 719 1555 719 1525 719 1496 719 1467 719 1438 719 1409 719 1379 719 1379 774 1379 789 1929 795 1932 774 1932 719 1906 719"/></Shape>
-	    <String CONTENT="tres ieux ou plusieurs pao-"
+	    <String CONTENT="tres ieux ou plusieurs pao¬"
                     HPOS="1379"
                     VPOS="719"
                     WIDTH="553"
@@ -127,7 +127,7 @@
                     WIDTH="556"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1379 836 1379 859 1929 847 1932 827 1923 777 1376 783 1379 836"/></Shape>
-	    <String CONTENT="urement meurent/ car sil e-"
+	    <String CONTENT="urement meurent/ car sil e¬"
                     HPOS="1376"
                     VPOS="777"
                     WIDTH="556"
@@ -161,7 +161,7 @@
                     WIDTH="553"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1379 953 1379 979 1926 964 1929 944 1920 891 1376 900 1379 953"/></Shape>
-	    <String CONTENT="paoures ⁊ familier aux bre-"
+	    <String CONTENT="paoures ⁊ familier aux bre¬"
                     HPOS="1376"
                     VPOS="891"
                     WIDTH="553"
@@ -178,7 +178,7 @@
                     WIDTH="553"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1379 1011 1379 1026 1926 1020 1929 1002 1920 953 1376 958 1379 1011"/></Shape>
-	    <String CONTENT="bis/ il en seroit mesprise/ cõ-"
+	    <String CONTENT="bis/ il en seroit mesprise/ cõ¬"
                     HPOS="1376"
                     VPOS="953"
                     WIDTH="553"
@@ -280,7 +280,7 @@
                     WIDTH="558"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1926 1306 1897 1306 1868 1306 1838 1306 1809 1306 1780 1306 1751 1306 1721 1306 1692 1306 1663 1306 1634 1306 1604 1306 1575 1306 1546 1306 1517 1306 1487 1306 1458 1306 1429 1306 1400 1306 1397 1300 1371 1300 1371 1362 1371 1382 1929 1376 1929 1362 1929 1303 1926 1306"/></Shape>
-	    <String CONTENT="lesquelz donnent grand ar-"
+	    <String CONTENT="lesquelz donnent grand ar¬"
                     HPOS="1371"
                     VPOS="1300"
                     WIDTH="558"
@@ -314,7 +314,7 @@
                     WIDTH="553"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1376 1479 1376 1496 1929 1496 1929 1479 1926 1423 1376 1423 1376 1479"/></Shape>
-	    <String CONTENT="ou de perchemin/ que le Pa-"
+	    <String CONTENT="ou de perchemin/ que le Pa¬"
                     HPOS="1376"
                     VPOS="1423"
                     WIDTH="553"
@@ -569,7 +569,7 @@
                     WIDTH="1722"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1423 2306 1394 2306 1365 2306 1335 2306 1306 2306 1277 2306 1248 2306 1219 2306 1189 2306 1160 2306 1131 2306 1102 2306 1072 2306 1043 2306 1029 2303 219 2303 198 2335 198 2362 198 2376 1917 2370 1920 2356 1911 2303 1423 2303 1423 2306"/></Shape>
-	    <String CONTENT="¶ Ses decretz ne deffendent ilz que les ioustes ne soyent faictes? de torneamẽtis.c.feli-"
+	    <String CONTENT="¶ Ses decretz ne deffendent ilz que les ioustes ne soyent faictes? de torneamẽtis.c.feli¬"
                     HPOS="198"
                     VPOS="2303"
                     WIDTH="1722"

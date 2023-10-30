@@ -331,7 +331,7 @@
                     WIDTH="179"
                     HEIGHT="111">
             <Shape><Polygon POINTS="1847 1309 1847 1318 2020 1312 2020 1297 2014 1224 1914 1207 1911 1207 1908 1207 1841 1233 1847 1309"/></Shape>
-	    <String CONTENT="Apo-"
+	    <String CONTENT="Apo¬"
                     HPOS="1841"
                     VPOS="1207"
                     WIDTH="179"
@@ -348,7 +348,7 @@
                     WIDTH="170"
                     HEIGHT="105">
             <Shape><Polygon POINTS="1838 1382 1838 1403 1999 1414 2005 1376 1996 1309 1835 1312 1838 1382"/></Shape>
-	    <String CONTENT="stoli-"
+	    <String CONTENT="stoli¬"
                     HPOS="1835"
                     VPOS="1309"
                     WIDTH="170"

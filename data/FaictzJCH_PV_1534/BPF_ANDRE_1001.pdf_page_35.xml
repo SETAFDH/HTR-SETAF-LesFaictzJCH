@@ -144,7 +144,7 @@
                     WIDTH="486"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1850 727 1821 727 1792 727 1762 727 1733 727 1704 727 1675 727 1645 727 1616 727 1587 727 1558 727 1528 727 1499 727 1470 727 1441 727 1411 727 1382 724 1382 783 1382 800 1868 800 1868 783 1868 727 1850 724 1850 727"/></Shape>
-	    <String CONTENT="duict a Leglise pour pil-"
+	    <String CONTENT="duict a Leglise pour pil¬"
                     HPOS="1382"
                     VPOS="724"
                     WIDTH="486"
@@ -178,7 +178,7 @@
                     WIDTH="489"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1844 844 1815 844 1786 844 1756 844 1727 844 1701 844 1403 847 1379 900 1379 929 1865 912 1868 894 1859 844 1844 844"/></Shape>
-	    <String CONTENT="pilleurs qͥl enuoye. Dõ-"
+	    <String CONTENT="pilleurs qͥl enuoye. Dõ¬"
                     HPOS="1379"
                     VPOS="844"
                     WIDTH="489"
@@ -229,7 +229,7 @@
                     WIDTH="491"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1382 1078 1382 1099 1868 1087 1870 1069 1862 1020 1379 1026 1382 1078"/></Shape>
-	    <String CONTENT="cimitieres/ sons de clo-"
+	    <String CONTENT="cimitieres/ sons de clo¬"
                     HPOS="1379"
                     VPOS="1020"
                     WIDTH="491"
@@ -433,7 +433,7 @@
                     WIDTH="488"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1391 1780 1388 1803 1873 1800 1876 1786 1873 1739 1391 1730 1391 1780"/></Shape>
-	    <String CONTENT="te/ neãtmoins contrai-"
+	    <String CONTENT="te/ neãtmoins contrai¬"
                     HPOS="1388"
                     VPOS="1730"
                     WIDTH="488"
@@ -603,7 +603,7 @@
                     WIDTH="1660"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1040 2315 1011 2315 982 2315 953 2315 923 2315 894 2315 865 2315 836 2315 806 2315 777 2315 748 2315 719 2315 689 2315 660 2315 631 2315 602 2315 572 2315 543 2315 514 2315 485 2315 456 2315 426 2315 397 2315 368 2315 339 2315 309 2315 280 2315 251 2315 222 2315 225 2376 225 2394 1879 2385 1882 2367 1876 2318 1040 2312 1040 2315"/></Shape>
-	    <String CONTENT="q̃ les mettre sur toꝰ sõt cõtrainctz les blasmer. Quon regarde la glose extrauag. de se-"
+	    <String CONTENT="q̃ les mettre sur toꝰ sõt cõtrainctz les blasmer. Quon regarde la glose extrauag. de se¬"
                     HPOS="222"
                     VPOS="2312"
                     WIDTH="1660"
@@ -637,7 +637,7 @@
                     WIDTH="1663"
                     HEIGHT="79">
             <Shape><Polygon POINTS="222 2467 222 2490 222 2514 1882 2499 1885 2484 1876 2435 242 2435 222 2467"/></Shape>
-	    <String CONTENT="poͬ tousiours augmẽter le gain auec la superstitiõ/ portãs chasses ⁊ aultres reliq̃s a li-"
+	    <String CONTENT="poͬ tousiours augmẽter le gain auec la superstitiõ/ portãs chasses ⁊ aultres reliq̃s a li¬"
                     HPOS="222"
                     VPOS="2435"
                     WIDTH="1663"
@@ -705,7 +705,7 @@
                     WIDTH="1660"
                     HEIGHT="74">
             <Shape><Polygon POINTS="225 2724 225 2745 1885 2736 1885 2724 1885 2674 225 2671 225 2724"/></Shape>
-	    <String CONTENT="tesmoignẽt. ¶ Des eaues lustrales q̃ noꝰ appellõs eaues benistes/ ⁊ tãt daultres ce-"
+	    <String CONTENT="tesmoignẽt. ¶ Des eaues lustrales q̃ noꝰ appellõs eaues benistes/ ⁊ tãt daultres ce¬"
                     HPOS="225"
                     VPOS="2671"
                     WIDTH="1660"
@@ -773,7 +773,7 @@
                     WIDTH="1661"
                     HEIGHT="70">
             <Shape><Polygon POINTS="233 2923 230 2958 230 2975 1891 2973 1891 2958 1891 2905 254 2905 233 2923"/></Shape>
-	    <String CONTENT="dispẽse le sacremẽt de la cõmuniõ ne demãde aucune chose. Car la grace nest pas uen-"
+	    <String CONTENT="dispẽse le sacremẽt de la cõmuniõ ne demãde aucune chose. Car la grace nest pas uen¬"
                     HPOS="230"
                     VPOS="2905"
                     WIDTH="1661"

@@ -93,7 +93,7 @@
                     WIDTH="518"
                     HEIGHT="88">
             <Shape><Polygon POINTS="575 716 575 733 1090 745 1093 716 1090 657 575 666 575 716"/></Shape>
-	    <String CONTENT="qui uendoyent beufz ⁊ bre-"
+	    <String CONTENT="qui uendoyent beufz ⁊ bre¬"
                     HPOS="575"
                     VPOS="657"
                     WIDTH="518"
@@ -110,7 +110,7 @@
                     WIDTH="518"
                     HEIGHT="84">
             <Shape><Polygon POINTS="806 719 777 719 748 719 719 719 689 719 660 719 631 719 602 719 572 716 572 774 572 800 1090 789 1090 774 1090 724 830 719 806 719"/></Shape>
-	    <String CONTENT="bis/ ⁊ colombes/ ⁊ les chã-"
+	    <String CONTENT="bis/ ⁊ colombes/ ⁊ les chã¬"
                     HPOS="572"
                     VPOS="716"
                     WIDTH="518"
@@ -144,7 +144,7 @@
                     WIDTH="512"
                     HEIGHT="74">
             <Shape><Polygon POINTS="572 891 572 906 1081 915 1084 891 1084 841 572 841 572 891"/></Shape>
-	    <String CONTENT="Et apres quil eut faict cõ-"
+	    <String CONTENT="Et apres quil eut faict cõ¬"
                     HPOS="572"
                     VPOS="841"
                     WIDTH="512"
@@ -263,7 +263,7 @@
                     WIDTH="517"
                     HEIGHT="76">
             <Shape><Polygon POINTS="713 1236 684 1236 654 1236 625 1236 605 1236 567 1248 570 1295 570 1312 1081 1312 1084 1289 1078 1245 736 1236 713 1236"/></Shape>
-	    <String CONTENT="qui uendoyent les colom-"
+	    <String CONTENT="qui uendoyent les colom¬"
                     HPOS="567"
                     VPOS="1236"
                     WIDTH="517"
@@ -382,7 +382,7 @@
                     WIDTH="514"
                     HEIGHT="85">
             <Shape><Polygon POINTS="885 1645 856 1645 827 1645 798 1645 768 1645 739 1645 710 1645 681 1645 651 1645 622 1645 593 1645 564 1642 567 1701 567 1727 1075 1715 1078 1695 1072 1648 903 1645 885 1645"/></Shape>
-	    <String CONTENT="hors les uendans ⁊ ache-"
+	    <String CONTENT="hors les uendans ⁊ ache¬"
                     HPOS="564"
                     VPOS="1642"
                     WIDTH="514"
@@ -416,7 +416,7 @@
                     WIDTH="520"
                     HEIGHT="73">
             <Shape><Polygon POINTS="567 1809 564 1832 1081 1832 1084 1815 1081 1765 567 1759 567 1809"/></Shape>
-	    <String CONTENT="Ma maison est maison do-"
+	    <String CONTENT="Ma maison est maison do¬"
                     HPOS="564"
                     VPOS="1759"
                     WIDTH="520"
@@ -467,7 +467,7 @@
                     WIDTH="1698"
                     HEIGHT="76">
             <Shape><Polygon POINTS="561 1984 558 2014 2253 2014 2256 1996 2253 1946 561 1938 561 1984"/></Shape>
-	    <String CONTENT="ne fault point penser que Dieu aye sa demeure/ car le treshault ne demeure point es tem-"
+	    <String CONTENT="ne fault point penser que Dieu aye sa demeure/ car le treshault ne demeure point es tem¬"
                     HPOS="558"
                     VPOS="1938"
                     WIDTH="1698"
@@ -484,7 +484,7 @@
                     WIDTH="1698"
                     HEIGHT="76">
             <Shape><Polygon POINTS="561 2046 558 2072 2253 2072 2256 2055 2253 2005 561 1996 561 2046"/></Shape>
-	    <String CONTENT="ples faictz de la main. Act.7. ⁊. 17. Combien plus ueult il que ceulx qui font mar-"
+	    <String CONTENT="ples faictz de la main. Act.7. ⁊. 17. Combien plus ueult il que ceulx qui font mar¬"
                     HPOS="558"
                     VPOS="1996"
                     WIDTH="1698"
@@ -569,7 +569,7 @@
                     WIDTH="1687"
                     HEIGHT="87">
             <Shape><Polygon POINTS="564 2335 561 2350 2242 2364 2248 2341 2245 2294 564 2277 564 2335"/></Shape>
-	    <String CONTENT="¶ Quiconque donc donne quelque chose pour auoir don ou grace/ tout luy uient en per-"
+	    <String CONTENT="¶ Quiconque donc donne quelque chose pour auoir don ou grace/ tout luy uient en per¬"
                     HPOS="561"
                     VPOS="2277"
                     WIDTH="1687"
@@ -586,7 +586,7 @@
                     WIDTH="1692"
                     HEIGHT="73">
             <Shape><Polygon POINTS="561 2391 558 2417 2248 2417 2250 2400 2248 2353 561 2344 561 2391"/></Shape>
-	    <String CONTENT="dition. Il est predict de telz marchans en S. Pierre/ disant: Aussi ya eu des faulx pro-"
+	    <String CONTENT="dition. Il est predict de telz marchans en S. Pierre/ disant: Aussi ya eu des faulx pro¬"
                     HPOS="558"
                     VPOS="2344"
                     WIDTH="1692"
@@ -603,7 +603,7 @@
                     WIDTH="1690"
                     HEIGHT="76">
             <Shape><Polygon POINTS="561 2452 558 2476 2242 2478 2248 2461 2245 2411 561 2402 561 2452"/></Shape>
-	    <String CONTENT="phetes entre le peuple: comme il y aura entre uous des maistres mensongiers qui in-"
+	    <String CONTENT="phetes entre le peuple: comme il y aura entre uous des maistres mensongiers qui in¬"
                     HPOS="558"
                     VPOS="2402"
                     WIDTH="1690"
@@ -654,7 +654,7 @@
                     WIDTH="1690"
                     HEIGHT="79">
             <Shape><Polygon POINTS="2227 2578 2198 2578 2169 2578 2139 2578 2110 2578 2081 2578 2052 2578 2022 2578 1993 2578 1964 2578 1935 2578 1906 2578 1876 2578 1847 2578 1832 2575 561 2572 561 2625 558 2639 2242 2651 2248 2631 2245 2578 2227 2578"/></Shape>
-	    <String CONTENT="uoye de uerite sera blasphemee/ ⁊ en auarice marchanderont de uous par parolles fein-"
+	    <String CONTENT="uoye de uerite sera blasphemee/ ⁊ en auarice marchanderont de uous par parolles fein¬"
                     HPOS="558"
                     VPOS="2572"
                     WIDTH="1690"
@@ -671,7 +671,7 @@
                     WIDTH="1687"
                     HEIGHT="85">
             <Shape><Polygon POINTS="561 2683 558 2698 2239 2718 2245 2692 2242 2642 561 2633 561 2683"/></Shape>
-	    <String CONTENT="ctes: ausquelz la condemnation des long temps ne cesse point: ⁊ leur perdition ne som-"
+	    <String CONTENT="ctes: ausquelz la condemnation des long temps ne cesse point: ⁊ leur perdition ne som¬"
                     HPOS="558"
                     VPOS="2633"
                     WIDTH="1687"
@@ -688,7 +688,7 @@
                     WIDTH="1690"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1672 2689 1642 2689 1613 2689 1584 2689 1558 2689 1444 2692 1172 2698 1145 2689 1145 2689 1116 2686 1087 2686 1058 2686 1029 2686 999 2686 996 2686 610 2695 581 2686 561 2686 561 2742 558 2756 2242 2765 2248 2750 2245 2704 1698 2704 1689 2695 1683 2689 1672 2689"/></Shape>
-	    <String CONTENT="meille point. 2.Pet.2. ¶ Le paoure monde si nestoit bien aueugle pourroit bien con-"
+	    <String CONTENT="meille point. 2.Pet.2. ¶ Le paoure monde si nestoit bien aueugle pourroit bien con¬"
                     HPOS="558"
                     VPOS="2686"
                     WIDTH="1690"
@@ -705,7 +705,7 @@
                     WIDTH="1681"
                     HEIGHT="78">
             <Shape><Polygon POINTS="2227 2750 2198 2750 2169 2750 2139 2750 2110 2750 2081 2750 2052 2750 2022 2750 1993 2750 1964 2750 1935 2750 1906 2750 1876 2750 1847 2750 1818 2750 1789 2750 1759 2750 1730 2750 1701 2750 1672 2747 1642 2747 1613 2747 1584 2747 1555 2747 1525 2747 1496 2747 1467 2747 1438 2747 1409 2747 1379 2747 1350 2747 1321 2747 1292 2747 1262 2747 1233 2747 1204 2747 1175 2747 1145 2747 1116 2745 1087 2745 1058 2745 1029 2745 999 2745 970 2745 941 2745 912 2745 882 2745 853 2745 824 2745 795 2745 765 2745 736 2745 707 2745 678 2745 648 2745 619 2745 590 2745 561 2745 561 2803 558 2823 2236 2821 2239 2809 2236 2750 2227 2750"/></Shape>
-	    <String CONTENT="gnoistre ces marchans qui par tout ont faict des cauernes/ lesquelles ilz appellent egli-"
+	    <String CONTENT="gnoistre ces marchans qui par tout ont faict des cauernes/ lesquelles ilz appellent egli¬"
                     HPOS="558"
                     VPOS="2745"
                     WIDTH="1681"

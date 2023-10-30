@@ -314,7 +314,7 @@
                     WIDTH="477"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1087 1268 1058 1268 1029 1268 999 1268 970 1268 941 1268 912 1268 882 1268 853 1268 824 1268 795 1268 765 1268 736 1268 707 1268 678 1268 648 1268 646 1259 619 1259 619 1324 619 1338 1093 1347 1096 1324 1096 1268 1087 1268"/></Shape>
-	    <String CONTENT="lombre des choses qui e-"
+	    <String CONTENT="lombre des choses qui e¬"
                     HPOS="619"
                     VPOS="1259"
                     WIDTH="477"
@@ -348,7 +348,7 @@
                     WIDTH="480"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1084 1385 1055 1385 1026 1385 996 1385 967 1385 938 1385 909 1385 879 1385 850 1382 821 1382 792 1382 762 1382 733 1382 704 1382 675 1382 646 1382 643 1376 616 1376 616 1441 616 1458 1096 1458 1096 1441 1096 1385 1084 1385"/></Shape>
-	    <String CONTENT="de christ. Col.2. ¶ Mã-"
+	    <String CONTENT="de christ. Col.2. ¶ Mã¬"
                     HPOS="616"
                     VPOS="1376"
                     WIDTH="480"
@@ -620,7 +620,7 @@
                     WIDTH="1634"
                     HEIGHT="87">
             <Shape><Polygon POINTS="1189 2324 1160 2324 1148 2321 1011 2321 985 2321 955 2321 926 2321 897 2321 877 2318 806 2318 780 2318 751 2318 722 2318 692 2318 663 2318 634 2318 631 2315 605 2315 605 2367 602 2388 2230 2402 2236 2391 2233 2338 1213 2324 1189 2324"/></Shape>
-	    <String CONTENT="uain gardãt les cõmãdemẽs des hões. Mat.15. ¶ Ceulx sõt hors de la foy qͥ deffen-"
+	    <String CONTENT="uain gardãt les cõmãdemẽs des hões. Mat.15. ¶ Ceulx sõt hors de la foy qͥ deffen¬"
                     HPOS="602"
                     VPOS="2315"
                     WIDTH="1634"
@@ -773,7 +773,7 @@
                     WIDTH="1637"
                     HEIGHT="82">
             <Shape><Polygon POINTS="2204 2850 596 2841 596 2899 593 2911 2224 2923 2230 2911 2221 2873 2204 2850"/></Shape>
-	    <String CONTENT="q̃ nr̃e Seigñr ueult q̃ noꝰ ayõs toꝰ une mesme rigle/ foy/ loy/ ⁊ baptesme. Deuãt q̃ Ie-"
+	    <String CONTENT="q̃ nr̃e Seigñr ueult q̃ noꝰ ayõs toꝰ une mesme rigle/ foy/ loy/ ⁊ baptesme. Deuãt q̃ Ie¬"
                     HPOS="593"
                     VPOS="2841"
                     WIDTH="1637"
@@ -824,7 +824,7 @@
                     WIDTH="1643"
                     HEIGHT="79">
             <Shape><Polygon POINTS="593 3072 590 3087 2227 3098 2233 3084 2233 3031 593 3019 593 3072"/></Shape>
-	    <String CONTENT="rẽt iamais: tellemẽt q̃ lon ne scauroit nõmer les rigles ⁊ religiõs esq̃lles satã plaine-"
+	    <String CONTENT="rẽt iamais: tellemẽt q̃ lon ne scauroit nõmer les rigles ⁊ religiõs esq̃lles satã plaine¬"
                     HPOS="590"
                     VPOS="3019"
                     WIDTH="1643"

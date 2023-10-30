@@ -59,7 +59,7 @@
                     WIDTH="1561"
                     HEIGHT="120">
             <Shape><Polygon POINTS="254 406 251 426 1333 456 1335 456 1809 447 1812 432 1809 347 1391 342 1388 342 1371 344 1297 362 1265 344 1259 342 1257 342 1254 342 1239 344 1166 362 1099 344 1069 336 1067 336 1064 336 1061 336 1037 344 991 359 941 342 917 336 915 336 912 336 909 336 906 336 897 342 874 356 786 342 760 339 757 339 754 339 739 342 692 353 254 342 254 406"/></Shape>
-	    <String CONTENT="sons leaue aspersee du sel aux peuples / affin que tous aspersez dicelle soyent san-"
+	    <String CONTENT="sons leaue aspersee du sel aux peuples / affin que tous aspersez dicelle soyent san¬"
                     HPOS="251"
                     VPOS="336"
                     WIDTH="1561"
@@ -93,7 +93,7 @@
                     WIDTH="1555"
                     HEIGHT="94">
             <Shape><Polygon POINTS="257 537 254 546 1803 567 1809 555 1806 494 257 473 257 537"/></Shape>
-	    <String CONTENT="la genisse espaise sanctifioit ⁊ nettoyoit le peuple/ par plꝰ forte raison leaue asper-"
+	    <String CONTENT="la genisse espaise sanctifioit ⁊ nettoyoit le peuple/ par plꝰ forte raison leaue asper¬"
                     HPOS="254"
                     VPOS="473"
                     WIDTH="1555"
@@ -110,7 +110,7 @@
                     WIDTH="1567"
                     HEIGHT="79">
             <Shape><Polygon POINTS="251 610 1812 619 1818 605 1815 555 254 540 254 590"/></Shape>
-	    <String CONTENT="see du sel ⁊ sacree par prieres diuines/ sanctifie ⁊ netoye le peuple. Et si le sel asper-"
+	    <String CONTENT="see du sel ⁊ sacree par prieres diuines/ sanctifie ⁊ netoye le peuple. Et si le sel asper¬"
                     HPOS="251"
                     VPOS="540"
                     WIDTH="1567"
@@ -127,7 +127,7 @@
                     WIDTH="1564"
                     HEIGHT="85">
             <Shape><Polygon POINTS="254 648 251 672 1809 681 1815 663 1812 608 254 596 254 648"/></Shape>
-	    <String CONTENT="se par Helisee le prophete a guery la sterilite de leaue/ par plus forte raison le sel sa-"
+	    <String CONTENT="se par Helisee le prophete a guery la sterilite de leaue/ par plus forte raison le sel sa¬"
                     HPOS="251"
                     VPOS="596"
                     WIDTH="1564"
@@ -178,7 +178,7 @@
                     WIDTH="1564"
                     HEIGHT="85">
             <Shape><Polygon POINTS="926 771 897 771 885 768 771 768 751 768 722 768 692 768 663 768 634 768 605 768 575 768 546 765 517 765 488 765 458 765 429 765 400 765 371 765 342 765 312 765 283 765 254 765 254 821 251 836 1809 850 1815 836 1812 786 944 771 926 771"/></Shape>
-	    <String CONTENT="hommes des phãtasmes ⁊ des tromperies. Uoyla les parolles de la beste/ qui ain-"
+	    <String CONTENT="hommes des phãtasmes ⁊ des tromperies. Uoyla les parolles de la beste/ qui ain¬"
                     HPOS="251"
                     VPOS="765"
                     WIDTH="1564"
@@ -297,7 +297,7 @@
                     WIDTH="1567"
                     HEIGHT="79">
             <Shape><Polygon POINTS="248 1227 245 1251 1806 1257 1812 1239 1809 1189 248 1178 248 1227"/></Shape>
-	    <String CONTENT="a dõne. Car ilz disent/ offrir pour Leglise saincte catholicque/ en la premiere par-"
+	    <String CONTENT="a dõne. Car ilz disent/ offrir pour Leglise saincte catholicque/ en la premiere par¬"
                     HPOS="245"
                     VPOS="1178"
                     WIDTH="1567"
@@ -314,7 +314,7 @@
                     WIDTH="1573"
                     HEIGHT="85">
             <Shape><Polygon POINTS="248 1286 245 1312 1812 1318 1818 1300 1815 1251 248 1233 248 1286"/></Shape>
-	    <String CONTENT="tie du canon/ ⁊ pour la redemption des uiuans/ lesquelz ilz nomment en leur pre-"
+	    <String CONTENT="tie du canon/ ⁊ pour la redemption des uiuans/ lesquelz ilz nomment en leur pre¬"
                     HPOS="245"
                     VPOS="1233"
                     WIDTH="1573"
@@ -365,7 +365,7 @@
                     WIDTH="1573"
                     HEIGHT="81">
             <Shape><Polygon POINTS="245 1461 242 1476 1809 1490 1815 1476 1812 1423 245 1409 245 1461"/></Shape>
-	    <String CONTENT="en leur communicantes ilz font commemoration daultres que de Iesus/ au con-"
+	    <String CONTENT="en leur communicantes ilz font commemoration daultres que de Iesus/ au con¬"
                     HPOS="242"
                     VPOS="1409"
                     WIDTH="1573"
@@ -433,7 +433,7 @@
                     WIDTH="1573"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1794 1651 1765 1651 1736 1651 1707 1651 1678 1651 1648 1651 1619 1651 1590 1651 1561 1651 1531 1651 1502 1651 1473 1648 1444 1648 1414 1648 1385 1648 1356 1648 1327 1648 1297 1648 1268 1648 1239 1648 1210 1648 1181 1645 1151 1645 1122 1645 1093 1645 1064 1645 1034 1645 1005 1645 976 1645 947 1645 917 1645 888 1645 245 1645 245 1695 242 1715 1809 1721 1815 1707 1812 1651 1794 1651"/></Shape>
-	    <String CONTENT="par semblable raison le pape ⁊ les siens se peuuẽt excuser/ pourquoy ilz nont pres-"
+	    <String CONTENT="par semblable raison le pape ⁊ les siens se peuuẽt excuser/ pourquoy ilz nont pres¬"
                     HPOS="242"
                     VPOS="1645"
                     WIDTH="1573"
@@ -450,7 +450,7 @@
                     WIDTH="1588"
                     HEIGHT="85">
             <Shape><Polygon POINTS="239 1748 236 1768 1818 1780 1824 1759 1821 1715 239 1695 239 1748"/></Shape>
-	    <String CONTENT="che Leuangile/ cest affin que Leuangile ⁊ eulx aussi ne fussent mesprisez/ en ce e-"
+	    <String CONTENT="che Leuangile/ cest affin que Leuangile ⁊ eulx aussi ne fussent mesprisez/ en ce e¬"
                     HPOS="236"
                     VPOS="1695"
                     WIDTH="1588"
@@ -467,7 +467,7 @@
                     WIDTH="1601"
                     HEIGHT="100">
             <Shape><Polygon POINTS="233 1824 1286 1853 1289 1853 1834 1836 1821 1790 1794 1768 236 1753 236 1812"/></Shape>
-	    <String CONTENT="stans plꝰ sages que Dieu/ qui ueult quon crie sans cesser/ ⁊ que on annõce au peu-"
+	    <String CONTENT="stans plꝰ sages que Dieu/ qui ueult quon crie sans cesser/ ⁊ que on annõce au peu¬"
                     HPOS="233"
                     VPOS="1753"
                     WIDTH="1601"
@@ -518,7 +518,7 @@
                     WIDTH="1573"
                     HEIGHT="85">
             <Shape><Polygon POINTS="242 1984 239 1999 1806 2017 1812 1999 1809 1946 242 1932 242 1984"/></Shape>
-	    <String CONTENT="⁊ contemnemẽt/ qui soit aduenu/ non delaisse/ ne parauant nostre Seigneur Ie-"
+	    <String CONTENT="⁊ contemnemẽt/ qui soit aduenu/ non delaisse/ ne parauant nostre Seigneur Ie¬"
                     HPOS="239"
                     VPOS="1932"
                     WIDTH="1573"
@@ -569,7 +569,7 @@
                     WIDTH="1567"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1794 2116 1765 2116 1736 2116 1707 2116 1678 2116 1648 2116 1619 2116 1590 2116 1561 2116 1531 2116 1502 2116 1482 2113 1286 2113 1268 2113 1239 2113 1210 2113 1204 2110 245 2107 245 2163 242 2180 1803 2189 1809 2174 1806 2116 1794 2116"/></Shape>
-	    <String CONTENT="proferees deuement ⁊ auec lintention de consacrer/ ⁊ sur matiere deue/ le peuple se-"
+	    <String CONTENT="proferees deuement ⁊ auec lintention de consacrer/ ⁊ sur matiere deue/ le peuple se¬"
                     HPOS="242"
                     VPOS="2107"
                     WIDTH="1567"
@@ -586,7 +586,7 @@
                     WIDTH="1573"
                     HEIGHT="79">
             <Shape><Polygon POINTS="245 2218 242 2230 1809 2245 1815 2233 1812 2180 245 2166 245 2218"/></Shape>
-	    <String CONTENT="roit idolatre/ adorant pour Dieu/ ce qui nest point Dieu: car toutes les choses des-"
+	    <String CONTENT="roit idolatre/ adorant pour Dieu/ ce qui nest point Dieu: car toutes les choses des¬"
                     HPOS="242"
                     VPOS="2166"
                     WIDTH="1573"
@@ -637,7 +637,7 @@
                     WIDTH="1567"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1794 2347 1765 2347 1736 2347 1707 2347 1678 2347 1648 2347 1619 2347 1590 2347 1561 2347 1531 2347 1502 2347 1473 2347 1444 2347 1414 2344 1385 2344 1356 2344 1327 2344 1297 2344 1268 2344 1239 2344 1210 2344 1181 2344 1151 2344 1122 2344 1093 2344 1064 2344 1034 2344 1005 2341 976 2341 947 2341 917 2341 888 2341 859 2341 830 2341 800 2341 771 2341 742 2341 713 2341 684 2341 654 2341 625 2338 596 2338 567 2338 537 2338 508 2338 479 2338 450 2338 420 2338 391 2338 362 2338 333 2338 304 2338 274 2338 271 2335 245 2335 245 2394 242 2414 1803 2420 1809 2405 1806 2347 1794 2347"/></Shape>
-	    <String CONTENT="Dieu: en quoy bien monstrent leur cas estre fonde sur neige ⁊ sur la sable: car se-"
+	    <String CONTENT="Dieu: en quoy bien monstrent leur cas estre fonde sur neige ⁊ sur la sable: car se¬"
                     HPOS="242"
                     VPOS="2335"
                     WIDTH="1567"
@@ -688,7 +688,7 @@
                     WIDTH="1567"
                     HEIGHT="76">
             <Shape><Polygon POINTS="245 2569 242 2584 1803 2595 1809 2581 1809 2531 245 2519 245 2569"/></Shape>
-	    <String CONTENT="rolle de Dieu. Car ilz ne scauent si celuy qui chante est prestre/ ne quelle inten-"
+	    <String CONTENT="rolle de Dieu. Car ilz ne scauent si celuy qui chante est prestre/ ne quelle inten¬"
                     HPOS="242"
                     VPOS="2519"
                     WIDTH="1567"
@@ -756,7 +756,7 @@
                     WIDTH="1564"
                     HEIGHT="93">
             <Shape><Polygon POINTS="915 2750 885 2750 856 2750 827 2750 798 2750 768 2750 739 2747 710 2747 681 2747 651 2747 622 2747 593 2747 564 2747 534 2747 505 2747 476 2747 447 2747 418 2747 388 2747 359 2747 330 2747 301 2747 271 2747 268 2739 242 2739 242 2800 239 2818 1797 2832 1803 2815 1800 2765 932 2750 915 2750"/></Shape>
-	    <String CONTENT="doibt dire en soy/ Seigneur si tu es la/ ⁊ q̃ le prestre aye faict son debuoir/ ie te ado-"
+	    <String CONTENT="doibt dire en soy/ Seigneur si tu es la/ ⁊ q̃ le prestre aye faict son debuoir/ ie te ado¬"
                     HPOS="239"
                     VPOS="2739"
                     WIDTH="1564"
@@ -790,38 +790,11 @@
                     WIDTH="1567"
                     HEIGHT="120">
             <Shape><Polygon POINTS="242 2923 239 2975 482 2981 485 2981 488 2981 502 2975 532 2958 561 2973 567 2975 570 2975 572 2975 575 2975 578 2975 578 2973 602 2958 634 2973 646 2978 648 2978 651 2978 686 2973 733 2964 745 2973 757 2981 757 2984 760 2984 762 2984 765 2984 768 2984 800 2973 815 2967 877 2970 1037 2984 1040 2984 1043 2984 1075 2970 1096 2961 1110 2970 1145 2984 1148 2984 1151 2984 1221 2967 1251 2961 1268 2967 1309 2984 1312 2984 1315 2984 1318 2984 1353 2967 1359 2964 1537 2964 1552 2964 1692 2987 1695 2987 1698 2987 1701 2987 1701 2984 1727 2964 1803 2964 1806 2932 1803 2876 242 2867 242 2923"/></Shape>
-	    <String CONTENT="en plaine foy ⁊ certitude que ce que nous adorõs est le uray ⁊ seul Dieu/ ou aultre-"
+	    <String CONTENT="en plaine foy ⁊ certitude que ce que nous adorõs est le uray ⁊ seul Dieu/ ou aultre¬"
                     HPOS="239"
                     VPOS="2867"
                     WIDTH="1567"
                     HEIGHT="120"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1436"
-                   VPOS="2935"
-                   WIDTH="279"
-                   HEIGHT="94"
-                   ID="eSc_textblock_9d07d629"
-                   TAGREFS="BT1134">
-          <Shape><Polygon POINTS="1436 2939 1436 3015 1715 3029 1715 2935"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_09ffd35d"
-                    TAGREFS="LT393"
-                    BASELINE="1463 2996 1679 3000" 
-                    HPOS="1458"
-                    VPOS="2929"
-                    WIDTH="220"
-                    HEIGHT="93">
-            <Shape><Polygon POINTS="1490 2929 1473 2929 1461 2937 1461 2993 1458 3022 1675 3019 1678 2999 1672 2937 1528 2949 1514 2940 1496 2929 1490 2929"/></Shape>
-	    <String CONTENT="F .ii."
-                    HPOS="1458"
-                    VPOS="2929"
-                    WIDTH="220"
-                    HEIGHT="93"></String>
           </TextLine>
 
           
@@ -1032,6 +1005,33 @@
                     VPOS="1856"
                     WIDTH="146"
                     HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1436"
+                   VPOS="2935"
+                   WIDTH="279"
+                   HEIGHT="94"
+                   ID="eSc_textblock_9d07d629"
+                   TAGREFS="BT1134">
+          <Shape><Polygon POINTS="1436 2939 1436 3015 1715 3029 1715 2935"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_09ffd35d"
+                    TAGREFS="LT393"
+                    BASELINE="1463 2996 1679 3000" 
+                    HPOS="1458"
+                    VPOS="2929"
+                    WIDTH="220"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1490 2929 1473 2929 1461 2937 1461 2993 1458 3022 1675 3019 1678 2999 1672 2937 1528 2949 1514 2940 1496 2929 1490 2929"/></Shape>
+	    <String CONTENT="F .ii."
+                    HPOS="1458"
+                    VPOS="2929"
+                    WIDTH="220"
+                    HEIGHT="93"></String>
           </TextLine>
 
           

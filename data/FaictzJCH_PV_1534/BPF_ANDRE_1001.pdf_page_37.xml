@@ -110,7 +110,7 @@
                     WIDTH="410"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1414 754 1411 783 1411 800 1818 792 1821 777 1812 727 1432 727 1414 754"/></Shape>
-	    <String CONTENT="questeurs quilz no-"
+	    <String CONTENT="questeurs quilz no¬"
                     HPOS="1411"
                     VPOS="727"
                     WIDTH="410"
@@ -212,7 +212,7 @@
                     WIDTH="418"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1812 1072 1783 1072 1754 1072 1724 1072 1695 1072 1666 1072 1637 1072 1607 1075 1578 1075 1549 1075 1520 1075 1490 1075 1461 1075 1432 1075 1429 1072 1403 1072 1406 1134 1406 1157 1818 1148 1821 1128 1812 1069 1812 1072"/></Shape>
-	    <String CONTENT="pechez/ et aucunes-"
+	    <String CONTENT="pechez/ et aucunes¬"
                     HPOS="1403"
                     VPOS="1069"
                     WIDTH="418"
@@ -263,7 +263,7 @@
                     WIDTH="409"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1672 1251 1642 1251 1613 1251 1584 1251 1555 1251 1525 1254 1496 1254 1467 1254 1438 1254 1409 1254 1409 1306 1409 1324 1818 1321 1818 1306 1818 1254 1672 1248 1672 1251"/></Shape>
-	    <String CONTENT="Dieu seul peult fai-"
+	    <String CONTENT="Dieu seul peult fai¬"
                     HPOS="1409"
                     VPOS="1248"
                     WIDTH="409"
@@ -348,7 +348,7 @@
                     WIDTH="421"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1403 1601 1403 1613 1675 1625 1678 1625 1821 1604 1821 1593 1815 1549 1400 1543 1403 1601"/></Shape>
-	    <String CONTENT="tres ⁊ bulles ilz no-"
+	    <String CONTENT="tres ⁊ bulles ilz no¬"
                     HPOS="1400"
                     VPOS="1543"
                     WIDTH="421"
@@ -382,7 +382,7 @@
                     WIDTH="412"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1663 1657 1634 1657 1604 1657 1575 1657 1546 1657 1517 1660 1487 1660 1485 1660 1400 1666 1403 1715 1403 1730 1809 1736 1812 1710 1806 1663 1689 1654 1663 1657"/></Shape>
-	    <String CONTENT="estre admis: De pe-"
+	    <String CONTENT="estre admis: De pe¬"
                     HPOS="1400"
                     VPOS="1654"
                     WIDTH="412"
@@ -399,7 +399,7 @@
                     WIDTH="406"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1406 1774 1406 1797 1806 1786 1809 1768 1803 1718 1403 1715 1406 1774"/></Shape>
-	    <String CONTENT="niten. ⁊ remis. in cle-"
+	    <String CONTENT="niten. ⁊ remis. in cle¬"
                     HPOS="1403"
                     VPOS="1715"
                     WIDTH="406"
@@ -433,7 +433,7 @@
                     WIDTH="1596"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1482 1832 1452 1832 1423 1832 1394 1835 1365 1835 1362 1835 1289 1844 1274 1847 225 1847 228 1900 228 1917 1818 1906 1821 1891 1815 1844 1493 1832 1482 1832"/></Shape>
-	    <String CONTENT="est mauldict tout homme qui les empesche ou qui parle contre. Nous ordon-"
+	    <String CONTENT="est mauldict tout homme qui les empesche ou qui parle contre. Nous ordon¬"
                     HPOS="225"
                     VPOS="1832"
                     WIDTH="1596"
@@ -501,7 +501,7 @@
                     WIDTH="1590"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1803 2066 1774 2066 1745 2066 1716 2066 1686 2066 1657 2066 1628 2066 1599 2066 1578 2066 1400 2066 1394 2069 1365 2069 1353 2069 225 2081 228 2131 228 2148 1812 2139 1815 2122 1806 2066 1803 2066"/></Shape>
-	    <String CONTENT="ble/ grains/ foin/ fruictz/ laines/ pescheries/ molins ou a uent/ ou a eaue/ gaigna-"
+	    <String CONTENT="ble/ grains/ foin/ fruictz/ laines/ pescheries/ molins ou a uent/ ou a eaue/ gaigna¬"
                     HPOS="225"
                     VPOS="2066"
                     WIDTH="1590"
@@ -705,7 +705,7 @@
                     WIDTH="1590"
                     HEIGHT="88">
             <Shape><Polygon POINTS="1800 2768 1771 2768 1742 2768 1713 2768 1683 2768 1654 2768 1625 2768 1596 2768 1566 2768 1537 2768 1508 2768 1479 2768 1449 2768 1420 2768 1391 2768 1362 2768 1333 2768 1303 2771 1274 2771 1245 2771 1216 2771 1186 2771 1157 2771 1128 2771 1099 2771 1069 2771 1040 2771 1011 2771 982 2771 953 2771 923 2771 894 2771 865 2771 836 2771 806 2771 777 2774 748 2774 719 2774 689 2774 660 2774 631 2774 602 2774 572 2774 543 2774 514 2774 485 2774 456 2774 426 2774 397 2774 368 2774 339 2774 309 2774 306 2768 222 2768 225 2832 225 2856 1809 2838 1812 2823 1803 2768 1800 2768"/></Shape>
-	    <String CONTENT="festent qui disent: Tout hõme qui dit/ paix a uous/ ne doibt estre ouy comme co-"
+	    <String CONTENT="festent qui disent: Tout hõme qui dit/ paix a uous/ ne doibt estre ouy comme co¬"
                     HPOS="222"
                     VPOS="2768"
                     WIDTH="1590"
