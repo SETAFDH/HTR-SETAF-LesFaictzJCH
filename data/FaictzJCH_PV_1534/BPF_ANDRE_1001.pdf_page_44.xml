@@ -895,7 +895,7 @@
                     WIDTH="143"
                     HEIGHT="70">
             <Shape><Polygon POINTS="660 792 608 792 602 792 572 792 543 792 543 838 543 856 684 862 686 838 684 827 660 792"/></Shape>
-	    <String CONTENT="Deꝯsec."
+	    <String CONTENT="De ꝯsec."
                     HPOS="543"
                     VPOS="792"
                     WIDTH="143"
@@ -1289,7 +1289,7 @@
                     WIDTH="141"
                     HEIGHT="58">
             <Shape><Polygon POINTS="692 2929 663 2929 634 2929 605 2929 575 2929 575 2961 572 2978 710 2978 713 2964 713 2923 692 2920 692 2929"/></Shape>
-	    <String CONTENT="peñ.di.1."
+	    <String CONTENT="peñ. di.1."
                     HPOS="572"
                     VPOS="2920"
                     WIDTH="141"

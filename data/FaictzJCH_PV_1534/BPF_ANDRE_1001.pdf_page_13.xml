@@ -416,7 +416,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="222 1908 222 1929 1944 1920 1944 1908 1917 1853 222 1853 222 1908"/></Shape>
-	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx/ comme il appert. distinc.96.Cõ¬"
+	    <String CONTENT="manteau de pourpre ⁊ aultres abillemens imperiaulx/ comme il appert. distinc.96. Cõ¬"
                     HPOS="222"
                     VPOS="1853"
                     WIDTH="1722"
@@ -501,7 +501,7 @@
                     WIDTH="1719"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1914 2145 1885 2145 1856 2145 1827 2145 1797 2145 1768 2145 1739 2145 1710 2145 1680 2145 1651 2145 1622 2145 1593 2145 1563 2145 1534 2145 1505 2145 1476 2145 1447 2145 1417 2145 1388 2145 1359 2145 1330 2145 1300 2145 1271 2145 1242 2145 1213 2145 1183 2145 1154 2145 1125 2145 1096 2145 1072 2145 219 2148 222 2201 222 2215 1935 2210 1938 2195 1929 2139 1914 2139 1914 2145"/></Shape>
-	    <String CONTENT="cret. distinc.40.Non est facile. Il fault faire comme S. Pierre qui ueult estre son succes-"
+	    <String CONTENT="cret. distinc.40. Non est facile. Il fault faire comme S. Pierre qui ueult estre son succes¬"
                     HPOS="219"
                     VPOS="2139"
                     WIDTH="1719"
@@ -535,7 +535,7 @@
                     WIDTH="1719"
                     HEIGHT="79">
             <Shape><Polygon POINTS="225 2321 225 2338 1938 2324 1941 2312 1932 2259 222 2265 225 2321"/></Shape>
-	    <String CONTENT="successeur/ la dignite ne faict point Leuesque/ mais la uie. 2.qõ.7.Non omnes. Tous qui"
+	    <String CONTENT="successeur/ la dignite ne faict point Leuesque/ mais la uie. 2.qõ.7. Non omnes. Tous qui"
                     HPOS="222"
                     VPOS="2259"
                     WIDTH="1719"
@@ -586,7 +586,7 @@
                     WIDTH="1716"
                     HEIGHT="84">
             <Shape><Polygon POINTS="225 2496 225 2519 1935 2502 1938 2490 1929 2435 222 2440 225 2496"/></Shape>
-	    <String CONTENT="re le contraire. 22.q.5.Cauete fratres. Ne uoit on pas que tout condemne lestat du Pa"
+	    <String CONTENT="re le contraire. 22.q.5. Cauete fratres. Ne uoit on pas que tout condemne lestat du Pa"
                     HPOS="222"
                     VPOS="2435"
                     WIDTH="1716"

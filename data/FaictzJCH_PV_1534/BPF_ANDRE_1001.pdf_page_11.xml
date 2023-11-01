@@ -501,7 +501,7 @@
                     WIDTH="1564"
                     HEIGHT="82">
             <Shape><Polygon POINTS="219 2128 219 2148 581 2148 593 2148 657 2163 660 2163 663 2163 710 2148 716 2148 722 2148 751 2163 754 2163 757 2163 760 2163 809 2148 821 2148 841 2148 947 2163 950 2163 1777 2148 1780 2122 1774 2081 216 2081 219 2128"/></Shape>
-	    <String CONTENT="ti.de senten. ⁊ re iudica.Pastoralis. Lempereur Cõstantin nous a donne Lem¬"
+	    <String CONTENT="ti. de senten. ⁊ re iudica. Pastoralis. Lempereur Cõstantin nous a donne Lem¬"
                     HPOS="216"
                     VPOS="2081"
                     WIDTH="1564"
@@ -535,7 +535,7 @@
                     WIDTH="1564"
                     HEIGHT="85">
             <Shape><Polygon POINTS="716 2192 686 2192 657 2192 628 2192 599 2192 570 2192 540 2192 511 2192 482 2192 453 2192 423 2192 394 2192 365 2192 336 2192 306 2192 277 2192 248 2192 245 2189 219 2189 219 2242 216 2274 1777 2274 1780 2250 1777 2198 736 2192 716 2192"/></Shape>
-	    <String CONTENT="te Imperiale. 12.q.1.Futuram. ⁊ dist.96.Cõstãtinus. Les Empereurs doibuent"
+	    <String CONTENT="te Imperiale. 12.q.1. Futuram. ⁊ dist.96. Cõstãtinus. Les Empereurs doibuent"
                     HPOS="216"
                     VPOS="2189"
                     WIDTH="1564"
@@ -552,7 +552,7 @@
                     WIDTH="1555"
                     HEIGHT="79">
             <Shape><Polygon POINTS="225 2306 225 2335 1780 2335 1780 2306 1780 2259 225 2256 225 2306"/></Shape>
-	    <String CONTENT="estre subiectz aux Euesques non point auoir preminẽce. dist96.Si ĩperator. Les"
+	    <String CONTENT="estre subiectz aux Euesques non point auoir preminẽce. dist96. Si ĩperator. Les"
                     HPOS="225"
                     VPOS="2256"
                     WIDTH="1555"
@@ -569,7 +569,7 @@
                     WIDTH="1564"
                     HEIGHT="82">
             <Shape><Polygon POINTS="219 2359 216 2385 1774 2391 1780 2373 1777 2324 219 2309 219 2359"/></Shape>
-	    <String CONTENT="p̃stres sõt maistres ⁊ peres des princes. dist.96.Quis dubitet. ¶ Regardez chre¬"
+	    <String CONTENT="p̃stres sõt maistres ⁊ peres des princes. dist.96. Quis dubitet. ¶ Regardez chre¬"
                     HPOS="216"
                     VPOS="2309"
                     WIDTH="1564"

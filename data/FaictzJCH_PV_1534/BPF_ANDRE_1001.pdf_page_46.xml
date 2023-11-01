@@ -501,7 +501,7 @@
                     WIDTH="1587"
                     HEIGHT="79">
             <Shape><Polygon POINTS="675 1935 675 1946 2253 1949 2259 1926 2250 1870 672 1876 675 1935"/></Shape>
-	    <String CONTENT="appellent le sacrifice de desus/ soit quon regarde ceulx qui chantent la messe/ ⁊ la"
+	    <String CONTENT="appellent le sacrifice de Iesus/ soit quon regarde ceulx qui chantent la messe/ ⁊ la"
                     HPOS="672"
                     VPOS="1870"
                     WIDTH="1587"
@@ -722,7 +722,7 @@
                     WIDTH="1573"
                     HEIGHT="76">
             <Shape><Polygon POINTS="2239 2642 2210 2642 2180 2642 2151 2642 2122 2642 2093 2642 2063 2642 2034 2642 2005 2642 1976 2642 1946 2642 1917 2642 1888 2642 1859 2645 1830 2645 1800 2645 1771 2645 1742 2645 1713 2645 1683 2645 1654 2645 1625 2645 1596 2645 1566 2645 1537 2645 1508 2645 1479 2648 1449 2648 1420 2648 1391 2648 1362 2648 1333 2648 1303 2648 1274 2648 1245 2648 1216 2648 1186 2648 1157 2648 1128 2648 1099 2648 1069 2651 1040 2651 1011 2651 982 2651 953 2651 923 2651 894 2651 865 2651 836 2651 806 2651 777 2651 748 2651 719 2651 689 2651 689 2704 689 2718 2262 2712 2262 2704 2259 2642 2239 2642"/></Shape>
-	    <String CONTENT="Pierre ilz ueulent que tous les Papes soyent successeurs/ et ainst plusieurs sont"
+	    <String CONTENT="Pierre ilz ueulent que tous les Papes soyent successeurs/ et ainsi plusieurs sont"
                     HPOS="689"
                     VPOS="2642"
                     WIDTH="1573"
@@ -885,7 +885,7 @@
                     WIDTH="122"
                     HEIGHT="125">
             <Shape><Polygon POINTS="619 1037 590 1037 561 1037 532 1037 532 1075 529 1122 640 1154 651 1081 651 1031 622 1029 619 1037"/></Shape>
-	    <String CONTENT="bro. iiii."
+	    <String CONTENT="bro.iiii."
                     HPOS="529"
                     VPOS="1029"
                     WIDTH="122"

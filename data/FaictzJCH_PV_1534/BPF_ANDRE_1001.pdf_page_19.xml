@@ -229,7 +229,7 @@
                     WIDTH="556"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1900 1131 1870 1131 1841 1131 1812 1131 1783 1131 1754 1131 1724 1131 1695 1131 1666 1131 1637 1131 1607 1131 1578 1131 1549 1131 1520 1131 1490 1131 1461 1131 1432 1131 1403 1131 1400 1119 1373 1119 1376 1186 1376 1204 1926 1195 1929 1181 1923 1131 1900 1131"/></Shape>
-	    <String CONTENT="stinc.86.Quãdo. ⁊ la glosse"
+	    <String CONTENT="stinc.86. Quãdo. ⁊ la glosse"
                     HPOS="1373"
                     VPOS="1119"
                     WIDTH="556"
@@ -433,7 +433,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1198 1847 1169 1847 1140 1847 1110 1847 1081 1847 1052 1847 1023 1847 993 1847 964 1847 935 1847 906 1847 877 1847 847 1847 818 1847 789 1847 760 1847 730 1847 701 1847 672 1847 643 1847 613 1847 584 1847 555 1847 526 1847 496 1847 467 1847 438 1847 409 1847 380 1847 350 1847 321 1847 292 1847 263 1847 233 1847 204 1841 204 1891 204 1906 1923 1914 1926 1891 1923 1838 1219 1838 1198 1847"/></Shape>
-	    <String CONTENT="regime il nest point Euesque/ mais chien impudicque. 11.qõ.3.Qui nec.distinc.5.Non"
+	    <String CONTENT="regime il nest point Euesque/ mais chien impudicque. 11.qõ.3. Qui nec. distinc.5. Non"
                     HPOS="204"
                     VPOS="1838"
                     WIDTH="1722"
@@ -569,7 +569,7 @@
                     WIDTH="1722"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1423 2306 1394 2306 1365 2306 1335 2306 1306 2306 1277 2306 1248 2306 1219 2306 1189 2306 1160 2306 1131 2306 1102 2306 1072 2306 1043 2306 1029 2303 219 2303 198 2335 198 2362 198 2376 1917 2370 1920 2356 1911 2303 1423 2303 1423 2306"/></Shape>
-	    <String CONTENT="¶ Ses decretz ne deffendent ilz que les ioustes ne soyent faictes? de torneamẽtis.c.feli¬"
+	    <String CONTENT="¶ Ses decretz ne deffendent ilz que les ioustes ne soyent faictes? de torneamẽtis. c. feli¬"
                     HPOS="198"
                     VPOS="2303"
                     WIDTH="1722"
@@ -586,7 +586,7 @@
                     WIDTH="1719"
                     HEIGHT="87">
             <Shape><Polygon POINTS="1891 2359 1862 2359 1832 2359 1803 2359 1774 2359 1745 2359 1716 2359 1686 2359 1657 2359 1628 2359 1599 2359 1569 2359 1540 2359 1511 2359 1482 2359 1452 2359 1423 2359 1394 2359 1365 2359 1335 2359 1306 2359 1277 2359 1248 2359 1219 2359 1189 2359 1160 2359 1131 2359 1102 2359 1072 2359 1043 2362 1014 2362 985 2362 955 2362 926 2362 897 2362 868 2362 839 2362 809 2362 780 2362 751 2362 722 2362 692 2362 663 2362 634 2362 605 2362 575 2362 546 2362 517 2362 488 2362 458 2362 429 2362 400 2362 371 2362 342 2362 312 2362 283 2362 254 2362 225 2362 222 2356 195 2356 195 2417 195 2443 1914 2435 1914 2417 1914 2359 1891 2359"/></Shape>
-	    <String CONTENT="cis. Uoyre le combat qui se faict pour soy purger/ non seulemẽt pour plaisir. de purga.uul."
+	    <String CONTENT="cis. Uoyre le combat qui se faict pour soy purger/ non seulemẽt pour plaisir. de purga. uul."
                     HPOS="195"
                     VPOS="2356"
                     WIDTH="1719"
@@ -603,7 +603,7 @@
                     WIDTH="1722"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1894 2420 1865 2420 1835 2420 1806 2420 1777 2420 1748 2420 1718 2420 1689 2420 1660 2420 1631 2420 1601 2420 1572 2420 1543 2420 1514 2420 1485 2420 1455 2420 1426 2420 1397 2420 1368 2420 1338 2420 1309 2420 1280 2420 1251 2420 1221 2420 1192 2420 1163 2420 1134 2420 1105 2420 1075 2420 1046 2420 1017 2420 988 2420 958 2420 929 2420 900 2420 871 2420 841 2420 812 2420 783 2420 754 2420 724 2420 695 2420 666 2420 637 2420 608 2420 578 2420 549 2420 520 2420 491 2420 461 2420 432 2420 403 2420 374 2420 344 2420 315 2420 286 2420 257 2420 228 2420 225 2417 198 2417 198 2473 195 2484 1911 2490 1917 2478 1911 2414 1894 2414 1894 2420"/></Shape>
-	    <String CONTENT="cura.significatum. Et non seulemẽt ces ieux meurtriers: mais la chasse luy est deffendue."
+	    <String CONTENT="cura. significatum. Et non seulemẽt ces ieux meurtriers: mais la chasse luy est deffendue."
                     HPOS="195"
                     VPOS="2414"
                     WIDTH="1722"
@@ -620,7 +620,7 @@
                     WIDTH="1725"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1891 2478 1862 2478 1832 2478 1803 2478 1774 2478 1745 2478 1716 2478 1686 2478 1657 2478 1628 2478 1599 2478 1569 2478 1540 2478 1511 2478 1482 2478 1452 2478 1423 2478 1394 2478 1365 2478 1335 2478 1306 2478 1277 2478 1248 2478 1219 2478 1189 2478 1160 2478 1131 2478 1102 2478 1072 2478 1043 2476 1014 2476 985 2476 955 2476 926 2476 897 2476 868 2476 839 2476 809 2476 780 2476 751 2476 722 2476 692 2476 663 2476 634 2476 605 2476 575 2476 546 2476 517 2476 488 2476 458 2476 429 2476 400 2476 371 2476 342 2476 312 2476 283 2476 254 2476 225 2476 195 2473 195 2531 192 2546 1911 2552 1917 2537 1914 2478 1891 2478"/></Shape>
-	    <String CONTENT="distinc.34.Episcopũ. ⁊ aussi toutes ces fassons de faire/ tous ces spetacles/ ieux/ danses/"
+	    <String CONTENT="distinc.34. Episcopũ. ⁊ aussi toutes ces fassons de faire/ tous ces spetacles/ ieux/ danses/"
                     HPOS="192"
                     VPOS="2473"
                     WIDTH="1725"
@@ -671,7 +671,7 @@
                     WIDTH="1748"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1923 2651 1894 2654 1865 2654 1835 2654 1806 2654 1777 2654 1748 2654 1718 2654 1689 2654 1660 2654 1631 2654 1601 2654 1572 2654 1543 2654 1514 2654 1485 2654 1455 2654 1426 2654 1397 2654 1368 2654 1338 2654 1309 2654 1280 2654 1251 2654 1221 2654 1192 2654 1163 2654 1134 2654 1105 2654 1075 2654 1046 2654 1017 2654 988 2654 958 2654 929 2654 900 2654 871 2654 841 2654 812 2654 783 2654 777 2654 198 2654 198 2709 198 2727 1946 2727 1946 2709 1944 2648 1923 2648 1923 2651"/></Shape>
-	    <String CONTENT="mort/ il est irregulier/ ⁊ fault quil soit rehabilite. distĩ.23.his. ⁊ distĩ.34.p̃sbyteri. ⁊ de cõse◊"
+	    <String CONTENT="mort/ il est irregulier/ ⁊ fault quil soit rehabilite. distĩ.23. his. ⁊ distĩ.34. p̃sbyteri. ⁊ de cõse◊"
                     HPOS="198"
                     VPOS="2648"
                     WIDTH="1748"
@@ -688,7 +688,7 @@
                     WIDTH="1728"
                     HEIGHT="93">
             <Shape><Polygon POINTS="1160 2712 1131 2712 1102 2712 1072 2712 1043 2712 1014 2712 985 2712 955 2712 926 2712 897 2712 868 2712 839 2712 809 2712 780 2712 751 2712 722 2712 692 2712 663 2712 634 2712 605 2712 575 2712 546 2712 517 2712 488 2712 458 2712 429 2712 400 2712 371 2712 342 2712 312 2712 283 2712 254 2712 225 2712 222 2701 195 2701 195 2765 192 2777 1914 2794 1920 2774 1917 2721 1178 2712 1160 2712"/></Shape>
-	    <String CONTENT="cra.distĩ.5.Non oportet. Mais qui sont sur la terre plus põpeux/ plus adonne a ieux/ a"
+	    <String CONTENT="cra. distĩ.5. Non oportet. Mais qui sont sur la terre plus põpeux/ plus adonne a ieux/ a"
                     HPOS="192"
                     VPOS="2701"
                     WIDTH="1728"

@@ -42,7 +42,7 @@
                     WIDTH="1149"
                     HEIGHT="137">
             <Shape><Polygon POINTS="359 327 394 342 397 342 400 342 710 330 736 344 739 344 742 344 941 347 944 347 947 347 991 333 1046 350 1049 350 1052 350 1271 336 1292 353 1295 353 1297 353 1300 353 1505 336 1508 324 1505 245 1046 222 1043 222 973 236 970 239 836 239 830 236 786 219 783 219 780 219 777 219 774 219 757 233 757 236 613 236 610 233 593 216 590 216 587 216 584 216 581 216 578 216 561 230 534 216 532 216 529 216 362 228 362 309"/></Shape>
-	    <String CONTENT="Les faictz de Jesus Christ ⁊ du Pape."
+	    <String CONTENT="Les faictz de Iesus Christ ⁊ du Pape."
                     HPOS="359"
                     VPOS="216"
                     WIDTH="1149"
@@ -280,7 +280,7 @@
                     WIDTH="348"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1923 1315 1894 1315 1865 1315 1835 1318 1806 1318 1777 1321 1748 1321 1718 1321 1689 1324 1660 1324 1631 1324 1628 1312 1601 1312 1604 1379 1604 1394 1949 1385 1949 1371 1941 1315 1923 1315"/></Shape>
-	    <String CONTENT="neanty soymes-"
+	    <String CONTENT="neanty soymes¬"
                     HPOS="1601"
                     VPOS="1312"
                     WIDTH="348"
@@ -603,7 +603,7 @@
                     WIDTH="1716"
                     HEIGHT="84">
             <Shape><Polygon POINTS="1251 2446 1221 2446 1192 2446 1163 2446 1134 2446 1105 2446 1075 2446 1046 2446 1017 2446 988 2446 958 2446 929 2446 900 2446 871 2446 841 2449 812 2449 783 2449 754 2449 724 2449 695 2449 666 2449 637 2449 608 2449 578 2449 549 2449 520 2449 491 2449 461 2449 432 2449 403 2449 374 2449 344 2449 339 2438 228 2438 228 2505 228 2522 1944 2519 1944 2505 1944 2452 1257 2446 1251 2446"/></Shape>
-	    <String CONTENT="iuger de toutes causes: ⁊ a nul de iuger de nous/ ne de nostre iugement. 9.q.3.Cuncta."
+	    <String CONTENT="iuger de toutes causes: ⁊ a nul de iuger de nous/ ne de nostre iugement. 9.q.3. Cuncta."
                     HPOS="228"
                     VPOS="2438"
                     WIDTH="1716"
@@ -637,7 +637,7 @@
                     WIDTH="1710"
                     HEIGHT="85">
             <Shape><Polygon POINTS="230 2628 230 2648 1935 2628 1938 2616 1929 2563 228 2572 230 2628"/></Shape>
-	    <String CONTENT="Nõ pas de pur homme: mais du uray Dieu sommes lieutenãs en terre. c.quãto de trans¬"
+	    <String CONTENT="Nõ pas de pur homme: mais du uray Dieu sommes lieutenãs en terre. c. quãto de trans¬"
                     HPOS="228"
                     VPOS="2563"
                     WIDTH="1710"
@@ -654,7 +654,7 @@
                     WIDTH="1722"
                     HEIGHT="73">
             <Shape><Polygon POINTS="225 2683 225 2698 1941 2689 1944 2674 1935 2625 222 2631 225 2683"/></Shape>
-	    <String CONTENT="la. Nous sommes assis sur la chaire de p̃minẽce. de sepul.suꝑ ca. Tous princes romains"
+	    <String CONTENT="la. Nous sommes assis sur la chaire de p̃minẽce. de sepul. suꝑ ca. Tous princes romains"
                     HPOS="222"
                     VPOS="2625"
                     WIDTH="1722"
@@ -671,7 +671,7 @@
                     WIDTH="1719"
                     HEIGHT="85">
             <Shape><Polygon POINTS="225 2742 225 2762 1944 2753 1944 2742 1941 2677 225 2686 225 2742"/></Shape>
-	    <String CONTENT="ont adore nr̃e siege. de iureiur.in Clemẽ.Roma.prin. ¶ Le Pape se dit seruus seruorũ:"
+	    <String CONTENT="ont adore nr̃e siege. de iureiur. in Clemẽ. Roma. prin. ¶ Le Pape se dit seruus seruorũ:"
                     HPOS="225"
                     VPOS="2677"
                     WIDTH="1719"
@@ -756,7 +756,7 @@
                     WIDTH="511"
                     HEIGHT="97">
             <Shape><Polygon POINTS="222 3034 219 3063 724 3072 730 3046 727 2987 222 2975 222 3034"/></Shape>
-	    <String CONTENT="somno.Scipio.in princi."
+	    <String CONTENT="somno. Scipio. in princi."
                     HPOS="219"
                     VPOS="2975"
                     WIDTH="511"

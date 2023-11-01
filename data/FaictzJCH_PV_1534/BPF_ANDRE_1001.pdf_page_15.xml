@@ -263,7 +263,7 @@
                     WIDTH="547"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1903 1262 1873 1262 1844 1262 1815 1262 1786 1262 1756 1262 1727 1262 1698 1262 1669 1262 1639 1262 1610 1262 1581 1262 1552 1262 1523 1262 1493 1262 1464 1262 1435 1262 1406 1262 1376 1262 1379 1318 1379 1333 1920 1333 1923 1312 1914 1262 1903 1262"/></Shape>
-	    <String CONTENT="maioritate et obedi.unam"
+	    <String CONTENT="maioritate et obedi. unam"
                     HPOS="1376"
                     VPOS="1262"
                     WIDTH="547"
@@ -552,7 +552,7 @@
                     WIDTH="1701"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1330 2253 1300 2253 1271 2253 1242 2253 1213 2253 1183 2253 1154 2253 1125 2253 1096 2253 1081 2250 783 2250 774 2250 745 2250 716 2250 686 2250 657 2250 628 2250 599 2250 570 2250 540 2250 511 2250 482 2250 453 2250 423 2250 394 2250 365 2250 336 2250 306 2250 277 2250 248 2250 219 2250 219 2306 216 2324 1911 2332 1917 2315 1914 2256 1347 2253 1330 2253"/></Shape>
-	    <String CONTENT="de Lucien in Nigrino/ ⁊ faict mention de ce baisemens en ses canons. De priuile.cleri."
+	    <String CONTENT="de Lucien in Nigrino/ ⁊ faict mention de ce baisemens en ses canons. De priuile. cleri."
                     HPOS="216"
                     VPOS="2250"
                     WIDTH="1701"
@@ -569,7 +569,7 @@
                     WIDTH="1698"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1911 2315 1882 2315 1853 2315 1824 2315 1794 2315 1765 2315 1736 2315 1707 2315 1678 2315 1648 2315 1619 2315 1590 2315 1561 2315 1531 2315 1502 2315 1473 2315 1444 2315 1414 2315 1385 2315 1356 2315 230 2315 216 2321 216 2367 216 2391 1914 2388 1914 2367 1914 2326 1911 2315"/></Shape>
-	    <String CONTENT="cum olim. ⁊ in Clementi.de sentẽ.excõmu.Si summus ponti. ¶ Sainct Pierre uray"
+	    <String CONTENT="cum olim. ⁊ in Clementi. de sentẽ. excõmu. Si summus ponti. ¶ Sainct Pierre uray"
                     HPOS="216"
                     VPOS="2315"
                     WIDTH="1698"
@@ -654,7 +654,7 @@
                     WIDTH="1704"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1330 2607 1300 2607 1271 2607 1242 2607 1213 2607 1183 2607 1154 2607 1125 2607 1096 2607 1067 2607 1049 2604 783 2604 774 2604 745 2604 716 2604 686 2604 657 2604 628 2604 599 2604 570 2604 540 2604 511 2604 482 2604 453 2604 423 2604 394 2604 365 2604 336 2604 306 2604 277 2604 248 2604 242 2601 219 2601 219 2657 216 2677 1917 2677 1920 2666 1917 2610 1350 2607 1330 2607"/></Shape>
-	    <String CONTENT="nom de Dieu. Psal.81.O cecite/o horrible ydolatrie. Il y a sept baisiers du Pape: a la"
+	    <String CONTENT="nom de Dieu. Psal.81. O cecite/ o horrible ydolatrie. Il y a sept baisiers du Pape: a la"
                     HPOS="216"
                     VPOS="2601"
                     WIDTH="1704"
