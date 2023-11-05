@@ -76,7 +76,7 @@
                     WIDTH="1167"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1567 1694 1546 1694 1526 1694 1506 1694 1485 1694 1465 1694 1444 1694 1424 1694 1404 1694 1383 1694 1363 1694 1348 1692 1200 1692 1179 1692 1159 1692 1138 1692 1134 1690 424 1688 424 1741 422 1757 1585 1759 1589 1749 1587 1694 1567 1694"/></Shape>
-	    <String CONTENT="⁊ de necessite de salut: ⁊ que toute humaine creature/ soit sub-"
+	    <String CONTENT="⁊ de necessite de salut: ⁊ que toute humaine creature/ soit sub¬"
                     HPOS="422"
                     VPOS="1688"
                     WIDTH="1167"
@@ -266,7 +266,7 @@
                     WIDTH="109"
                     HEIGHT="55">
             <Shape><Polygon POINTS="402 913 381 913 361 913 340 913 320 913 316 905 300 905 300 940 297 956 402 960 406 942 406 913 402 913"/></Shape>
-	    <String CONTENT="la pre-"
+	    <String CONTENT="la pre¬"
                     HPOS="297"
                     VPOS="905"
                     WIDTH="109"

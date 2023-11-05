@@ -144,7 +144,7 @@
                     WIDTH="1168"
                     HEIGHT="71">
             <Shape><Polygon POINTS="1334 1943 1332 1943 1330 1943 1312 1953 1073 1945 1071 1945 1024 1945 1016 1947 995 1947 991 1947 444 1959 446 2004 446 2014 1610 2006 1612 1996 1608 1953 1336 1943 1334 1943"/></Shape>
-	    <String CONTENT="coeur: Ie monteray es cieulx/ ie esleueray mon siege sur les e-"
+	    <String CONTENT="coeur: Ie monteray es cieulx/ ie esleueray mon siege sur les e¬"
                     HPOS="444"
                     VPOS="1943"
                     WIDTH="1168"
@@ -188,7 +188,7 @@
                     WIDTH="145"
                     HEIGHT="61">
             <Shape><Polygon POINTS="418 827 397 825 377 823 357 821 351 819 310 829 297 868 297 880 442 872 442 864 438 829 418 827"/></Shape>
-	    <String CONTENT="Descen-"
+	    <String CONTENT="Descen¬"
                     HPOS="297"
                     VPOS="819"
                     WIDTH="145"
@@ -222,7 +222,7 @@
                     WIDTH="145"
                     HEIGHT="65">
             <Shape><Polygon POINTS="300 948 300 964 353 958 379 970 387 974 389 974 391 976 440 976 442 946 436 911 297 911 300 948"/></Shape>
-	    <String CONTENT="sera pre-"
+	    <String CONTENT="sera pre¬"
                     HPOS="297"
                     VPOS="911"
                     WIDTH="145"

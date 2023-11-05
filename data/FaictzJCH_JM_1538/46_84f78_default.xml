@@ -110,7 +110,7 @@
                     WIDTH="1169"
                     HEIGHT="69">
             <Shape><Polygon POINTS="75 436 75 450 1240 448 1242 430 1238 383 73 381 75 436"/></Shape>
-	    <String CONTENT="Dieu/ fors que poͬ tout perdre ⁊ gaster/ ueu qͥl est le filz de per-"
+	    <String CONTENT="Dieu/ fors que poͬ tout perdre ⁊ gaster/ ueu qͥl est le filz de per¬"
                     HPOS="73"
                     VPOS="381"
                     WIDTH="1169"
@@ -212,7 +212,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="338 723 318 723 297 723 277 723 267 723 73 734 75 781 75 795 1234 785 1236 770 1232 725 375 721 359 723"/></Shape>
-	    <String CONTENT="⁊ louenge de uertus/ desq̃lles il ne uit iamais lombre/ car au-"
+	    <String CONTENT="⁊ louenge de uertus/ desq̃lles il ne uit iamais lombre/ car au¬"
                     HPOS="73"
                     VPOS="721"
                     WIDTH="1163"
@@ -297,7 +297,7 @@
                     WIDTH="1169"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1083 1001 1081 1001 1079 1001 1079 1003 1071 1009 1063 1001 1061 1001 1059 1001 1057 1001 1055 1001 1034 1011 857 1003 842 1003 822 1015 569 1015 542 1007 534 1007 528 1007 526 1007 518 1017 185 1011 167 1011 146 1011 126 1011 106 1011 85 1011 69 1011 67 1011 65 1013 67 1068 67 1084 991 1084 991 1082 993 1082 995 1082 1012 1072 1018 1072 1148 1080 1151 1080 1232 1068 1234 1058 1230 1013 1085 1001 1083 1001"/></Shape>
-	    <String CONTENT="la uolunte du Pape par sang/ ⁊ par feu est faicte sur la uille/ a-"
+	    <String CONTENT="la uolunte du Pape par sang/ ⁊ par feu est faicte sur la uille/ a¬"
                     HPOS="65"
                     VPOS="1001"
                     WIDTH="1169"
@@ -348,7 +348,7 @@
                     WIDTH="1167"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1065 1174 1063 1174 1022 1184 1020 1184 881 1176 879 1176 802 1186 800 1186 795 1186 653 1178 636 1178 624 1188 614 1188 471 1180 453 1182 432 1182 412 1182 408 1182 65 1192 67 1241 67 1256 1230 1239 1232 1229 1228 1184 1067 1174 1065 1174"/></Shape>
-	    <String CONTENT="sont tous roys/ cõme signifie la teste pelee en iceulx/ ilz ont ce-"
+	    <String CONTENT="sont tous roys/ cõme signifie la teste pelee en iceulx/ ilz ont ce¬"
                     HPOS="65"
                     VPOS="1174"
                     WIDTH="1167"
@@ -382,7 +382,7 @@
                     WIDTH="1169"
                     HEIGHT="74">
             <Shape><Polygon POINTS="861 1292 846 1292 842 1296 836 1303 720 1303 704 1298 675 1294 657 1294 636 1294 628 1294 608 1300 597 1303 583 1300 538 1294 534 1294 514 1296 502 1296 473 1303 463 1296 453 1296 440 1296 426 1305 424 1305 410 1305 320 1296 310 1296 289 1298 269 1298 267 1298 210 1307 120 1298 106 1298 87 1298 65 1309 67 1356 67 1364 1232 1351 1234 1343 1228 1290 895 1298 883 1296 871 1292 861 1292"/></Shape>
-	    <String CONTENT="est dõne de cheuaucher cõme Lempereur/ lequel est nostre la-"
+	    <String CONTENT="est dõne de cheuaucher cõme Lempereur/ lequel est nostre la¬"
                     HPOS="65"
                     VPOS="1290"
                     WIDTH="1169"
@@ -433,7 +433,7 @@
                     WIDTH="1163"
                     HEIGHT="63">
             <Shape><Polygon POINTS="69 1525 69 1533 1228 1525 1230 1517 1224 1470 67 1470 69 1525"/></Shape>
-	    <String CONTENT="Lempereur: car toute gloire/ honneur/ ⁊ magnificence impe-"
+	    <String CONTENT="Lempereur: car toute gloire/ honneur/ ⁊ magnificence impe¬"
                     HPOS="67"
                     VPOS="1470"
                     WIDTH="1163"
@@ -467,7 +467,7 @@
                     WIDTH="1171"
                     HEIGHT="69">
             <Shape><Polygon POINTS="495 1580 169 1592 126 1584 124 1584 65 1594 67 1641 67 1649 1234 1637 1236 1629 1232 1582 497 1580 495 1580"/></Shape>
-	    <String CONTENT="noꝰ est dõnee auec toute Lẽpire de occident dist.96. Cõstan-"
+	    <String CONTENT="noꝰ est dõnee auec toute Lẽpire de occident dist.96. Cõstan¬"
                     HPOS="65"
                     VPOS="1580"
                     WIDTH="1171"
@@ -484,7 +484,7 @@
                     WIDTH="1171"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1169 1631 1148 1631 1128 1631 1108 1631 1087 1631 1067 1631 1046 1631 1026 1633 1006 1633 985 1633 965 1633 944 1633 924 1633 904 1633 885 1633 859 1633 842 1635 822 1635 802 1635 781 1635 761 1635 748 1635 642 1635 638 1637 618 1637 612 1637 67 1643 69 1696 69 1706 1236 1696 1238 1686 1234 1639 1175 1631 1169 1631"/></Shape>
-	    <String CONTENT="tinus. ¶ Le Pape est sur toutes gens ⁊ Royaumes. Extra-"
+	    <String CONTENT="tinus. ¶ Le Pape est sur toutes gens ⁊ Royaumes. Extra¬"
                     HPOS="67"
                     VPOS="1631"
                     WIDTH="1171"
@@ -501,7 +501,7 @@
                     WIDTH="1173"
                     HEIGHT="75">
             <Shape><Polygon POINTS="761 1692 740 1692 720 1692 700 1692 679 1692 659 1692 638 1692 618 1692 600 1692 353 1702 191 1696 189 1696 169 1696 148 1696 128 1696 124 1696 67 1704 69 1753 69 1765 1238 1765 1240 1745 1236 1698 765 1690 761 1692"/></Shape>
-	    <String CONTENT="uag. Super gen. ¶ Uoulez uoꝰ bouche plꝰ plaine de blasphe-"
+	    <String CONTENT="uag. Super gen. ¶ Uoulez uoꝰ bouche plꝰ plaine de blasphe¬"
                     HPOS="67"
                     VPOS="1690"
                     WIDTH="1173"
@@ -535,7 +535,7 @@
                     WIDTH="1179"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1191 1806 1171 1806 1151 1806 1130 1806 1122 1806 1008 1814 936 1808 926 1808 906 1808 885 1808 869 1808 848 1814 830 1808 824 1808 804 1808 797 1808 765 1816 418 1810 416 1810 395 1810 375 1810 355 1812 334 1812 314 1812 293 1812 273 1812 269 1812 206 1820 112 1812 110 1812 89 1812 79 1812 69 1818 71 1869 71 1886 1248 1867 1248 1859 1244 1814 1204 1806 1191 1806"/></Shape>
-	    <String CONTENT="la domination sur toute la terre/ ⁊ appeller Lempereur son la-"
+	    <String CONTENT="la domination sur toute la terre/ ⁊ appeller Lempereur son la¬"
                     HPOS="69"
                     VPOS="1806"
                     WIDTH="1179"
@@ -552,7 +552,7 @@
                     WIDTH="1175"
                     HEIGHT="80">
             <Shape><Polygon POINTS="883 1863 863 1863 842 1863 822 1863 818 1863 773 1869 746 1871 736 1869 722 1865 720 1865 700 1865 695 1865 687 1869 683 1871 681 1869 669 1865 659 1865 638 1865 628 1865 589 1871 573 1873 561 1871 528 1867 516 1867 495 1867 479 1867 461 1873 457 1876 453 1873 434 1867 434 1867 414 1867 412 1867 361 1876 357 1876 348 1876 163 1869 148 1869 128 1869 108 1869 91 1869 67 1878 69 1931 69 1941 1006 1939 1089 1929 1189 1937 1191 1937 1242 1924 1242 1918 1236 1861 932 1869 904 1865 885 1863 883 1863"/></Shape>
-	    <String CONTENT="quect. Ie croy que les princes sont si folz/ qͥlz luy seruiront en-"
+	    <String CONTENT="quect. Ie croy que les princes sont si folz/ qͥlz luy seruiront en¬"
                     HPOS="67"
                     VPOS="1861"
                     WIDTH="1175"

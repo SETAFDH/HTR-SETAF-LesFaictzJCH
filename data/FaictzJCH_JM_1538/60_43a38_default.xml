@@ -127,7 +127,7 @@
                     WIDTH="1163"
                     HEIGHT="80">
             <Shape><Polygon POINTS="106 503 104 515 802 519 808 522 881 532 883 532 1059 524 1069 524 1073 524 1146 534 1148 534 1265 524 1267 515 1265 466 106 454 106 503"/></Shape>
-	    <String CONTENT="maisons des uefues/ soubz umbre de longues oraisons/ pour-"
+	    <String CONTENT="maisons des uefues/ soubz umbre de longues oraisons/ pour¬"
                     HPOS="104"
                     VPOS="454"
                     WIDTH="1163"
@@ -161,7 +161,7 @@
                     WIDTH="1161"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1189 573 1171 573 1075 579 1051 579 1040 577 1010 570 1006 570 985 570 965 570 944 570 932 568 842 575 804 577 791 575 761 566 761 566 740 566 734 566 685 573 665 575 518 575 514 570 506 562 504 562 502 562 500 562 497 562 481 570 475 575 365 575 355 568 336 560 334 560 332 560 330 560 328 560 318 568 316 570 308 568 283 560 281 560 279 560 108 564 108 617 106 628 1263 636 1267 628 1267 581 1240 568 1238 568 1236 568 1189 570 1189 573"/></Shape>
-	    <String CONTENT="¶ Faictes uoz thresors au ciel/ la ou ne la rouilleure/ ne la ti-"
+	    <String CONTENT="¶ Faictes uoz thresors au ciel/ la ou ne la rouilleure/ ne la ti¬"
                     HPOS="106"
                     VPOS="560"
                     WIDTH="1161"
@@ -399,7 +399,7 @@
                     WIDTH="1158"
                     HEIGHT="63">
             <Shape><Polygon POINTS="100 1413 97 1421 1251 1429 1255 1421 1253 1368 100 1366 100 1413"/></Shape>
-	    <String CONTENT="que de prescher purement la parolle de Dieu/ sans y rien mes-"
+	    <String CONTENT="que de prescher purement la parolle de Dieu/ sans y rien mes¬"
                     HPOS="97"
                     VPOS="1366"
                     WIDTH="1158"
@@ -501,7 +501,7 @@
                     WIDTH="1158"
                     HEIGHT="76">
             <Shape><Polygon POINTS="95 1753 93 1767 1246 1776 1251 1761 1248 1708 95 1700 95 1753"/></Shape>
-	    <String CONTENT="boys/ qui pourroit nõbrer tout ce qui met au deuant/ pour ar-"
+	    <String CONTENT="boys/ qui pourroit nõbrer tout ce qui met au deuant/ pour ar¬"
                     HPOS="93"
                     VPOS="1700"
                     WIDTH="1158"

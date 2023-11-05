@@ -59,7 +59,7 @@
                     WIDTH="1156"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1587 1653 1567 1653 1546 1653 1526 1653 1506 1653 1485 1653 1465 1653 1444 1653 1424 1653 1404 1653 1383 1653 1363 1653 1342 1653 1322 1653 1302 1651 1281 1651 1261 1651 1240 1651 1220 1651 1200 1651 1179 1651 1159 1651 1138 1651 1118 1651 1097 1651 1077 1651 1057 1651 1036 1651 1016 1649 995 1649 975 1649 955 1649 934 1649 914 1649 893 1649 873 1649 853 1649 832 1649 812 1649 791 1649 771 1649 757 1649 751 1649 730 1647 710 1647 695 1647 687 1649 669 1647 669 1647 648 1647 628 1647 608 1647 587 1647 581 1647 577 1649 565 1647 546 1647 526 1647 506 1647 485 1647 473 1647 444 1651 446 1700 446 1708 1597 1704 1600 1694 1593 1647 1587 1647 1587 1653"/></Shape>
-	    <String CONTENT="¶ Il fault soustenir les foibles/ ⁊ auoir souuenãce des parol-"
+	    <String CONTENT="¶ Il fault soustenir les foibles/ ⁊ auoir souuenãce des parol¬"
                     HPOS="444"
                     VPOS="1647"
                     WIDTH="1156"
@@ -76,7 +76,7 @@
                     WIDTH="1151"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1585 1696 1565 1696 1555 1696 1418 1704 1406 1696 1402 1696 1381 1696 1361 1696 1340 1696 1320 1696 1300 1696 1279 1696 1265 1698 1206 1706 1067 1700 1008 1698 993 1698 973 1698 953 1698 932 1698 928 1698 889 1702 861 1706 853 1704 838 1698 830 1698 810 1700 806 1700 783 1704 761 1708 695 1706 565 1700 565 1700 544 1700 524 1700 508 1700 459 1708 444 1753 444 1765 1591 1767 1595 1747 1589 1694 1585 1694 1585 1696"/></Shape>
-	    <String CONTENT="les du Seigneur Iesus. Car il a dit : que cest chose plus be-"
+	    <String CONTENT="les du Seigneur Iesus. Car il a dit : que cest chose plus be¬"
                     HPOS="444"
                     VPOS="1694"
                     WIDTH="1151"
@@ -110,7 +110,7 @@
                     WIDTH="1156"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1591 1818 1134 1810 1132 1810 444 1823 446 1867 446 1884 1597 1882 1600 1863 1595 1829 1591 1818"/></Shape>
-	    <String CONTENT="quon est plus pres de Iesus/ dautant est on plus loing de tou-"
+	    <String CONTENT="quon est plus pres de Iesus/ dautant est on plus loing de tou¬"
                     HPOS="444"
                     VPOS="1810"
                     WIDTH="1156"

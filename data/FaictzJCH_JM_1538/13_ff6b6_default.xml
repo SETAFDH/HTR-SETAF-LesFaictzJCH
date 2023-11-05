@@ -59,7 +59,7 @@
                     WIDTH="1165"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1644 1629 1624 1629 1604 1629 1583 1629 1563 1629 1542 1629 1530 1627 1430 1627 1420 1627 1400 1627 1395 1625 540 1619 522 1623 502 1629 502 1670 500 1678 1661 1682 1665 1674 1663 1629 1644 1627 1644 1629"/></Shape>
-	    <String CONTENT="¶ Le Pape excommunie tous uicaires/ ⁊ tenãs aucune cho-"
+	    <String CONTENT="¶ Le Pape excommunie tous uicaires/ ⁊ tenãs aucune cho¬"
                     HPOS="500"
                     VPOS="1619"
                     WIDTH="1165"
@@ -110,7 +110,7 @@
                     WIDTH="1166"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1644 1792 1638 1790 1636 1790 1634 1790 1632 1790 1630 1790 1628 1790 1614 1800 1581 1790 1579 1790 1577 1790 1442 1800 1436 1800 1187 1800 1187 1798 1175 1788 1173 1788 1171 1788 1169 1788 1030 1796 1014 1786 1012 1786 1010 1786 1008 1786 1006 1786 985 1796 944 1786 942 1786 940 1786 938 1786 918 1796 887 1786 885 1786 883 1786 818 1796 808 1796 793 1796 673 1784 671 1784 500 1792 500 1837 497 1845 1371 1863 1373 1863 1661 1853 1663 1845 1661 1837 1644 1792"/></Shape>
-	    <String CONTENT="a iceulx: ⁊ pour le ueoir plus a plain/ quon regarde le chapi-"
+	    <String CONTENT="a iceulx: ⁊ pour le ueoir plus a plain/ quon regarde le chapi¬"
                     HPOS="497"
                     VPOS="1784"
                     WIDTH="1166"
@@ -222,7 +222,7 @@
                     WIDTH="114"
                     HEIGHT="59">
             <Shape><Polygon POINTS="440 929 420 931 400 931 381 931 359 935 361 972 361 984 469 988 473 968 469 933 446 929 440 929"/></Shape>
-	    <String CONTENT="pit ur-"
+	    <String CONTENT="pit ur¬"
                     HPOS="359"
                     VPOS="929"
                     WIDTH="114"

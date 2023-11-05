@@ -59,7 +59,7 @@
                     WIDTH="1171"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1189 201 1169 199 1148 197 230 197 210 199 189 201 169 203 148 205 128 207 108 210 87 212 67 214 46 216 26 218 28 254 28 267 1163 271 1165 271 1167 271 1197 258 1197 248 1193 201 1189 201"/></Shape>
-	    <String CONTENT="quelque iniure ⁊ quelque oultrage quon luy aye faict/ lappel-"
+	    <String CONTENT="quelque iniure ⁊ quelque oultrage quon luy aye faict/ lappel¬"
                     HPOS="26"
                     VPOS="197"
                     WIDTH="1171"
@@ -76,7 +76,7 @@
                     WIDTH="1163"
                     HEIGHT="78">
             <Shape><Polygon POINTS="30 311 30 326 1191 332 1193 311 1191 254 30 261 30 311"/></Shape>
-	    <String CONTENT="lant demoniacle/ Samaritain/ faisant les uertus en la puis-"
+	    <String CONTENT="lant demoniacle/ Samaritain/ faisant les uertus en la puis¬"
                     HPOS="30"
                     VPOS="254"
                     WIDTH="1163"
@@ -144,7 +144,7 @@
                     WIDTH="1165"
                     HEIGHT="69">
             <Shape><Polygon POINTS="42 485 40 485 38 485 38 487 32 491 34 542 34 554 1195 548 1197 536 1193 489 44 485 42 485"/></Shape>
-	    <String CONTENT="lasnesse auec aucuns uestemens des Apostres. Les gensdar-"
+	    <String CONTENT="lasnesse auec aucuns uestemens des Apostres. Les gensdar¬"
                     HPOS="32"
                     VPOS="485"
                     WIDTH="1165"
@@ -229,7 +229,7 @@
                     WIDTH="1166"
                     HEIGHT="72">
             <Shape><Polygon POINTS="40 829 40 842 1202 838 1204 821 1197 770 38 781 40 829"/></Shape>
-	    <String CONTENT="leurs robbes a terre/ ⁊ rompans rameaulx de palme/ ⁊ doli-"
+	    <String CONTENT="leurs robbes a terre/ ⁊ rompans rameaulx de palme/ ⁊ doli¬"
                     HPOS="38"
                     VPOS="770"
                     WIDTH="1166"
@@ -331,7 +331,7 @@
                     WIDTH="1170"
                     HEIGHT="69">
             <Shape><Polygon POINTS="51 1178 51 1188 1179 1188 1179 1186 1181 1186 1218 1174 1218 1168 1212 1119 48 1119 51 1178"/></Shape>
-	    <String CONTENT="¶ Regardez/ si tout le contraire nest trouue aux Papes/ pen-"
+	    <String CONTENT="¶ Regardez/ si tout le contraire nest trouue aux Papes/ pen¬"
                     HPOS="48"
                     VPOS="1119"
                     WIDTH="1170"
@@ -433,7 +433,7 @@
                     WIDTH="1165"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1204 1458 1183 1458 1163 1458 1142 1458 1122 1458 1102 1458 1089 1458 1030 1458 1020 1460 1000 1460 979 1460 961 1460 836 1460 836 1462 832 1462 61 1472 63 1525 63 1541 1226 1529 1226 1511 1220 1458 1204 1458"/></Shape>
-	    <String CONTENT="sauuer. Luc.9. Non pas pour iuger le monde/ mais pour sau-"
+	    <String CONTENT="sauuer. Luc.9. Non pas pour iuger le monde/ mais pour sau¬"
                     HPOS="61"
                     VPOS="1458"
                     WIDTH="1165"

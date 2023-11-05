@@ -93,7 +93,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1020 295 1000 295 979 295 971 295 946 305 922 295 920 295 918 295 916 295 893 307 714 307 679 297 673 297 661 297 632 307 475 297 469 299 448 299 434 299 369 309 340 299 338 299 336 299 277 309 102 299 100 299 97 299 95 299 81 307 83 356 83 369 1242 367 1244 348 1240 305 1024 295 1020 295"/></Shape>
-	    <String CONTENT="le/ quest le propre office de S. Pierre/ ⁊ des Euesques/ il le def-"
+	    <String CONTENT="le/ quest le propre office de S. Pierre/ ⁊ des Euesques/ il le def¬"
                     HPOS="81"
                     VPOS="295"
                     WIDTH="1163"
@@ -110,7 +110,7 @@
                     WIDTH="1161"
                     HEIGHT="72">
             <Shape><Polygon POINTS="85 415 85 432 1242 422 1244 403 1240 360 83 360 85 415"/></Shape>
-	    <String CONTENT="fend comme lon uoit/ ⁊ parauant sen estoit demis/ le commet-"
+	    <String CONTENT="fend comme lon uoit/ ⁊ parauant sen estoit demis/ le commet¬"
                     HPOS="83"
                     VPOS="360"
                     WIDTH="1161"
@@ -127,7 +127,7 @@
                     WIDTH="1163"
                     HEIGHT="72">
             <Shape><Polygon POINTS="469 413 448 413 428 413 408 413 387 413 367 413 346 413 326 413 306 413 304 413 287 422 165 415 163 415 142 415 122 415 112 415 81 424 83 473 83 483 1242 483 1244 462 1240 413 485 411 469 413"/></Shape>
-	    <String CONTENT="tant aux autres. c. Inter cetera. De offic. iudi. ordi. Auq̃l cha-"
+	    <String CONTENT="tant aux autres. c. Inter cetera. De offic. iudi. ordi. Auq̃l cha¬"
                     HPOS="81"
                     VPOS="411"
                     WIDTH="1163"
@@ -178,7 +178,7 @@
                     WIDTH="1161"
                     HEIGHT="87">
             <Shape><Polygon POINTS="1000 581 979 581 959 581 938 581 918 581 916 581 885 591 861 583 857 583 836 583 828 583 720 593 538 587 530 589 510 589 489 589 469 589 255 603 193 593 183 595 171 595 81 607 83 654 83 666 1242 646 1242 632 1238 587 1000 579 1000 581"/></Shape>
-	    <String CONTENT="par les occupations/ ou par ignorance/ les Euesques ne peu-"
+	    <String CONTENT="par les occupations/ ou par ignorance/ les Euesques ne peu¬"
                     HPOS="81"
                     VPOS="579"
                     WIDTH="1161"
@@ -195,7 +195,7 @@
                     WIDTH="1161"
                     HEIGHT="83">
             <Shape><Polygon POINTS="961 638 940 638 934 646 820 638 818 640 797 640 777 640 757 640 742 640 718 650 687 640 675 640 673 640 648 652 587 642 573 642 567 642 553 654 469 642 467 642 465 642 463 642 444 654 416 644 414 644 412 644 338 656 289 648 287 648 267 650 246 650 226 652 216 652 83 664 85 711 85 721 1244 703 1244 687 1238 642 977 644 967 638 961 638"/></Shape>
-	    <String CONTENT="ueut prescher/ toutesfoys le prestre est debteur de libremẽt pre-"
+	    <String CONTENT="ueut prescher/ toutesfoys le prestre est debteur de libremẽt pre¬"
                     HPOS="83"
                     VPOS="638"
                     WIDTH="1161"
@@ -331,7 +331,7 @@
                     WIDTH="1157"
                     HEIGHT="89">
             <Shape><Polygon POINTS="79 1168 79 1184 1234 1154 1234 1143 1228 1095 77 1115 79 1168"/></Shape>
-	    <String CONTENT="du matin pour boyre iusques au soir/ bouillans en uin/ qui a-"
+	    <String CONTENT="du matin pour boyre iusques au soir/ bouillans en uin/ qui a¬"
                     HPOS="77"
                     VPOS="1095"
                     WIDTH="1157"
@@ -348,7 +348,7 @@
                     WIDTH="1159"
                     HEIGHT="97">
             <Shape><Polygon POINTS="77 1225 77 1231 140 1247 142 1247 144 1247 146 1247 146 1245 159 1235 191 1245 193 1245 195 1245 197 1245 246 1233 263 1243 265 1243 267 1243 269 1243 271 1243 273 1243 287 1231 291 1227 367 1225 465 1225 473 1229 485 1237 487 1237 489 1237 491 1237 493 1237 522 1229 534 1225 538 1229 548 1237 551 1237 553 1237 555 1237 557 1237 559 1237 569 1229 577 1221 657 1221 702 1227 740 1233 742 1233 744 1233 746 1233 755 1227 767 1219 802 1227 830 1233 832 1233 834 1233 861 1227 900 1217 924 1227 936 1231 938 1231 940 1231 967 1225 991 1221 1232 1223 1234 1201 1228 1158 985 1160 944 1150 942 1150 940 1150 938 1150 914 1162 873 1152 871 1152 869 1152 867 1152 822 1164 806 1154 804 1154 802 1154 800 1154 716 1164 655 1156 653 1156 442 1170 383 1162 381 1162 379 1162 330 1174 206 1166 204 1166 75 1180 77 1225"/></Shape>
-	    <String CONTENT="uez en uoz conuiues/ harpes/ lucz/ tabourins/ fleutes/ ⁊ ne pẽ-"
+	    <String CONTENT="uez en uoz conuiues/ harpes/ lucz/ tabourins/ fleutes/ ⁊ ne pẽ¬"
                     HPOS="75"
                     VPOS="1150"
                     WIDTH="1159"
@@ -382,7 +382,7 @@
                     WIDTH="1157"
                     HEIGHT="100">
             <Shape><Polygon POINTS="638 1268 636 1268 602 1278 536 1270 526 1270 506 1270 485 1272 471 1272 375 1280 318 1276 302 1276 281 1276 279 1276 267 1284 191 1278 179 1278 159 1280 142 1280 77 1290 79 1341 79 1349 146 1360 148 1360 151 1360 153 1360 169 1349 175 1345 202 1349 253 1356 255 1356 257 1356 259 1356 259 1354 261 1354 265 1347 269 1343 300 1343 306 1347 314 1356 316 1356 318 1356 320 1356 322 1356 344 1347 361 1341 448 1345 489 1347 491 1347 493 1347 500 1345 524 1337 563 1345 593 1349 595 1349 597 1349 600 1349 608 1343 622 1335 648 1343 663 1347 665 1347 667 1347 714 1343 795 1333 832 1341 846 1343 848 1343 1232 1335 1234 1315 1228 1266 965 1270 893 1260 891 1260 889 1260 887 1260 873 1272 826 1262 824 1262 822 1262 820 1262 808 1272 640 1268 638 1268"/></Shape>
-	    <String CONTENT="¶ ᑕeulx icy poꝰ le uin/ ont perdu lentendemẽt/ ⁊ pour lyuron-"
+	    <String CONTENT="¶ ᑕeulx icy poꝰ le uin/ ont perdu lentendemẽt/ ⁊ pour lyuron¬"
                     HPOS="77"
                     VPOS="1260"
                     WIDTH="1157"
@@ -450,7 +450,7 @@
                     WIDTH="1155"
                     HEIGHT="84">
             <Shape><Polygon POINTS="85 1566 85 1572 283 1580 285 1580 287 1580 310 1570 459 1576 461 1576 463 1576 506 1566 508 1566 518 1566 679 1572 681 1572 1238 1551 1238 1543 1232 1496 500 1498 83 1515 85 1566"/></Shape>
-	    <String CONTENT="donare. de iouer aux detz/ ⁊ dyurongner/ soubz la peine de-"
+	    <String CONTENT="donare. de iouer aux detz/ ⁊ dyurongner/ soubz la peine de¬"
                     HPOS="83"
                     VPOS="1496"
                     WIDTH="1155"
@@ -518,7 +518,7 @@
                     WIDTH="1157"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1000 1721 979 1721 959 1721 938 1721 918 1723 897 1723 879 1723 873 1729 865 1731 818 1729 730 1725 714 1727 693 1727 673 1727 665 1727 646 1733 644 1733 640 1733 591 1727 591 1729 571 1729 551 1729 530 1729 510 1729 434 1739 418 1739 408 1739 348 1733 346 1733 326 1733 306 1733 293 1733 277 1741 232 1735 224 1735 204 1735 189 1735 181 1743 181 1745 81 1745 83 1790 83 1800 1236 1782 1238 1769 1234 1721 1020 1721 1000 1721"/></Shape>
-	    <String CONTENT="concubine. distin.32. Nullus. ⁊ ce soubz peine dexcommunie-"
+	    <String CONTENT="concubine. distin.32. Nullus. ⁊ ce soubz peine dexcommunie¬"
                     HPOS="81"
                     VPOS="1721"
                     WIDTH="1157"

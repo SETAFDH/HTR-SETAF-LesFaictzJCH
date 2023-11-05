@@ -110,7 +110,7 @@
                     WIDTH="1167"
                     HEIGHT="85">
             <Shape><Polygon POINTS="975 381 973 381 853 389 836 389 834 389 826 381 812 381 791 381 771 379 751 379 730 379 710 379 689 379 573 387 551 387 548 387 530 377 526 377 514 377 504 385 502 385 497 385 332 377 322 377 310 375 291 375 281 375 261 375 240 375 220 375 214 375 77 381 77 430 75 446 1238 460 1242 440 1240 393 1010 393 1004 389 977 381 975 381"/></Shape>
-	    <String CONTENT="⁊  sa uille de Florence/ ⁊ de ses semblables/ certainemẽt les hy-"
+	    <String CONTENT="⁊  sa uille de Florence/ ⁊ de ses semblables/ certainemẽt les hy¬"
                     HPOS="75"
                     VPOS="375"
                     WIDTH="1167"
@@ -297,7 +297,7 @@
                     WIDTH="1163"
                     HEIGHT="83">
             <Shape><Polygon POINTS="838 1013 836 1013 834 1013 800 1021 789 1023 700 1023 697 1019 689 1013 689 1011 687 1011 685 1011 683 1011 608 1019 575 1021 561 1017 532 1009 526 1009 524 1009 500 1017 489 1019 475 1017 442 1009 440 1009 77 1009 77 1058 75 1078 738 1078 793 1082 912 1090 914 1090 1044 1082 1063 1082 1067 1082 1095 1092 1097 1092 1100 1092 1236 1082 1238 1072 1236 1029 1148 1017 1146 1017 1089 1025 1077 1027 1046 1025 924 1015 922 1015 871 1023 863 1023 861 1023 840 1013 838 1013"/></Shape>
-	    <String CONTENT="quilz ayent receu tous leurs biens temporelz. 15.q.6. c. Auto-"
+	    <String CONTENT="quilz ayent receu tous leurs biens temporelz. 15.q.6. c. Auto¬"
                     HPOS="75"
                     VPOS="1009"
                     WIDTH="1163"
@@ -416,7 +416,7 @@
                     WIDTH="1163"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1222 1421 1202 1421 1181 1421 1161 1421 1140 1421 1120 1421 1100 1421 1079 1421 1059 1421 1038 1421 1018 1421 1010 1419 79 1417 79 1466 77 1480 1236 1492 1240 1476 1238 1421 1222 1421"/></Shape>
-	    <String CONTENT="Euesque/ quil ne plaidoye point pour chose transitoire/ mes-"
+	    <String CONTENT="Euesque/ quil ne plaidoye point pour chose transitoire/ mes¬"
                     HPOS="77"
                     VPOS="1417"
                     WIDTH="1163"
@@ -450,7 +450,7 @@
                     WIDTH="1161"
                     HEIGHT="75">
             <Shape><Polygon POINTS="569 1529 559 1529 538 1535 524 1537 508 1535 471 1527 467 1527 446 1527 426 1527 422 1527 316 1533 273 1535 269 1533 253 1525 242 1525 222 1525 210 1525 79 1531 79 1580 77 1592 1234 1600 1238 1592 1236 1539 595 1539 589 1535 577 1529 569 1529"/></Shape>
-	    <String CONTENT="re aussi leur est deffendue/ ⁊ que pour eulx/ personne ne pren-"
+	    <String CONTENT="re aussi leur est deffendue/ ⁊ que pour eulx/ personne ne pren¬"
                     HPOS="77"
                     VPOS="1525"
                     WIDTH="1161"
@@ -535,7 +535,7 @@
                     WIDTH="1159"
                     HEIGHT="68">
             <Shape><Polygon POINTS="83 1867 81 1873 1236 1884 1240 1876 1238 1825 83 1816 83 1867"/></Shape>
-	    <String CONTENT="Boniface.8. lequel par troys foys/ requis de donner la cou-"
+	    <String CONTENT="Boniface.8. lequel par troys foys/ requis de donner la cou¬"
                     HPOS="81"
                     VPOS="1816"
                     WIDTH="1159"
@@ -569,7 +569,7 @@
                     WIDTH="1157"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1042 1933 1022 1933 1002 1933 981 1933 961 1933 940 1931 920 1931 900 1931 891 1931 728 1937 691 1937 687 1937 671 1929 655 1929 634 1929 614 1929 593 1929 573 1929 553 1929 532 1929 512 1929 491 1929 471 1929 465 1929 83 1931 83 1984 81 2002 1236 2002 1238 1992 1236 1941 1044 1933 1042 1933"/></Shape>
-	    <String CONTENT="glaiue au couste/ auec le bauldrier darmes/ dit quil estoit Em-"
+	    <String CONTENT="glaiue au couste/ auec le bauldrier darmes/ dit quil estoit Em¬"
                     HPOS="81"
                     VPOS="1929"
                     WIDTH="1157"

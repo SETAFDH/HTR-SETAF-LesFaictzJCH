@@ -297,7 +297,7 @@
                     WIDTH="1165"
                     HEIGHT="71">
             <Shape><Polygon POINTS="634 999 614 999 593 999 573 999 553 999 532 999 512 999 491 999 471 999 451 999 430 999 410 999 389 999 369 1001 361 1001 336 1009 106 1003 104 1003 102 1003 83 1011 85 1060 85 1070 940 1068 953 1066 997 1058 1079 1066 1089 1066 1091 1066 1093 1066 1095 1066 1110 1056 1244 1064 1248 1044 1244 999 655 999 634 999"/></Shape>
-	    <String CONTENT="¶ Sentez en uous ce qui a este en Iesus Christ/ lequel/ com-"
+	    <String CONTENT="¶ Sentez en uous ce qui a este en Iesus Christ/ lequel/ com¬"
                     HPOS="83"
                     VPOS="999"
                     WIDTH="1165"
@@ -314,7 +314,7 @@
                     WIDTH="1163"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1069 1048 1067 1048 985 1060 957 1050 955 1050 953 1050 887 1060 808 1050 797 1052 789 1052 777 1062 775 1064 673 1064 659 1064 646 1054 634 1054 630 1054 606 1062 583 1054 573 1054 567 1054 546 1064 544 1064 530 1064 404 1056 389 1056 369 1058 357 1058 338 1064 259 1058 246 1058 226 1060 222 1060 210 1066 195 1060 185 1060 165 1060 153 1060 100 1066 87 1099 85 1115 85 1127 1246 1117 1248 1105 1244 1060 1097 1060 1071 1048 1069 1048"/></Shape>
-	    <String CONTENT="me ainsi fut quil estoit en la forme de Dieu/ il na point repu-"
+	    <String CONTENT="me ainsi fut quil estoit en la forme de Dieu/ il na point repu¬"
                     HPOS="85"
                     VPOS="1048"
                     WIDTH="1163"
@@ -331,7 +331,7 @@
                     WIDTH="1163"
                     HEIGHT="75">
             <Shape><Polygon POINTS="87 1172 87 1182 1246 1182 1248 1162 1242 1107 85 1119 87 1172"/></Shape>
-	    <String CONTENT="te larrecin estre esgal a Dieu: mais il sest aneanty soymes-"
+	    <String CONTENT="te larrecin estre esgal a Dieu: mais il sest aneanty soymes¬"
                     HPOS="85"
                     VPOS="1107"
                     WIDTH="1163"

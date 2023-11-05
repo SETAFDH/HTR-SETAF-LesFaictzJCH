@@ -110,7 +110,7 @@
                     WIDTH="259"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1453 385 1432 385 1412 385 1391 385 1371 385 1351 385 1330 385 1332 442 1332 456 1589 446 1589 438 1585 385 1469 383 1453 385"/></Shape>
-	    <String CONTENT="Cene de no-"
+	    <String CONTENT="Cene de no¬"
                     HPOS="1330"
                     VPOS="383"
                     WIDTH="259"
@@ -161,7 +161,7 @@
                     WIDTH="257"
                     HEIGHT="63">
             <Shape><Polygon POINTS="1334 613 1334 623 1587 619 1589 609 1583 560 1332 562 1334 613"/></Shape>
-	    <String CONTENT="en ce qͥlz ap-"
+	    <String CONTENT="en ce qͥlz ap¬"
                     HPOS="1332"
                     VPOS="560"
                     WIDTH="257"
@@ -212,7 +212,7 @@
                     WIDTH="259"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1332 785 1332 793 1591 791 1591 785 1591 734 1332 732 1332 785"/></Shape>
-	    <String CONTENT="dictes secre-"
+	    <String CONTENT="dictes secre¬"
                     HPOS="1332"
                     VPOS="732"
                     WIDTH="259"
@@ -297,7 +297,7 @@
                     WIDTH="261"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1516 1015 1506 1015 1477 1023 1469 1015 1455 1017 1451 1017 1434 1025 1385 1019 1373 1019 1353 1019 1340 1019 1332 1025 1334 1072 1334 1092 1485 1078 1491 1082 1502 1090 1504 1090 1506 1090 1508 1090 1569 1088 1571 1088 1573 1088 1593 1076 1593 1068 1589 1025 1524 1013 1516 1015"/></Shape>
-	    <String CONTENT="sant la Ce-"
+	    <String CONTENT="sant la Ce¬"
                     HPOS="1332"
                     VPOS="1013"
                     WIDTH="261"
@@ -382,7 +382,7 @@
                     WIDTH="263"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1457 1300 1436 1300 1416 1300 1414 1300 1334 1309 1336 1358 1336 1368 1593 1372 1597 1354 1593 1307 1485 1307 1473 1298 1457 1300"/></Shape>
-	    <String CONTENT="messe soit di-"
+	    <String CONTENT="messe soit di¬"
                     HPOS="1334"
                     VPOS="1298"
                     WIDTH="263"
@@ -433,7 +433,7 @@
                     WIDTH="1151"
                     HEIGHT="77">
             <Shape><Polygon POINTS="1355 1470 1338 1470 1314 1478 1265 1470 1253 1470 1232 1470 1230 1470 1157 1478 1151 1478 436 1478 438 1523 440 1547 469 1537 1583 1543 1587 1519 1583 1480 1373 1480 1371 1478 1357 1470 1355 1470"/></Shape>
-	    <String CONTENT="soit cõgregarion ⁊ assemblee de gens/ ⁊ fault aussi quon chan-"
+	    <String CONTENT="soit cõgregarion ⁊ assemblee de gens/ ⁊ fault aussi quon chan¬"
                     HPOS="436"
                     VPOS="1470"
                     WIDTH="1151"
@@ -484,7 +484,7 @@
                     WIDTH="1161"
                     HEIGHT="73">
             <Shape><Polygon POINTS="877 1645 857 1645 836 1645 816 1645 795 1645 775 1645 755 1645 734 1645 714 1645 693 1645 673 1645 653 1645 632 1645 612 1645 591 1645 571 1645 551 1645 530 1645 510 1645 489 1645 469 1645 448 1645 446 1641 438 1641 436 1641 434 1641 432 1641 432 1643 430 1643 428 1643 430 1702 430 1714 1589 1706 1589 1700 1585 1651 895 1645 877 1645"/></Shape>
-	    <String CONTENT="Pape plus sage que Iesus/ lequel a faict sa Cene en un cena-"
+	    <String CONTENT="Pape plus sage que Iesus/ lequel a faict sa Cene en un cena¬"
                     HPOS="428"
                     VPOS="1641"
                     WIDTH="1161"
@@ -586,7 +586,7 @@
                     WIDTH="1155"
                     HEIGHT="107">
             <Shape><Polygon POINTS="1546 1964 1526 1992 1514 1986 1500 1984 1497 1984 1438 1994 1436 1994 1422 1984 1420 1984 1418 1984 1416 1984 1348 1994 1340 1994 1338 1994 1320 1984 1318 1984 1316 1984 1314 1984 1293 1994 1291 1994 1281 1994 1220 1984 1218 1984 1216 1984 1214 1984 1202 1992 1195 1996 1116 1996 1112 1992 1102 1984 1100 1984 1097 1984 1095 1984 1093 1984 1067 1992 1057 1996 928 1996 924 1990 918 1986 918 1984 916 1984 914 1984 912 1984 910 1984 897 1990 889 1994 873 1990 846 1984 844 1984 842 1984 840 1984 826 1990 814 1994 424 1988 424 2035 426 2071 448 2061 471 2071 473 2071 475 2071 477 2071 485 2071 569 2061 585 2071 587 2071 589 2071 591 2071 593 2071 595 2071 616 2061 644 2069 651 2071 653 2071 655 2071 671 2069 738 2061 771 2069 781 2071 783 2071 785 2071 787 2071 795 2069 820 2061 883 2069 912 2071 914 2071 959 2067 1044 2061 1069 2067 1085 2071 1087 2071 1089 2071 1091 2071 1093 2071 1097 2067 1110 2061 1167 2067 1218 2071 1220 2071 1579 2063 1579 2035 1579 1996 1575 1994 1567 2028"/></Shape>
-	    <String CONTENT="la messe/ ou il dit que les honneurs de ceulx qui ont loffice sa-"
+	    <String CONTENT="la messe/ ou il dit que les honneurs de ceulx qui ont loffice sa¬"
                     HPOS="424"
                     VPOS="1964"
                     WIDTH="1155"
@@ -613,7 +613,7 @@
                     WIDTH="147"
                     HEIGHT="60">
             <Shape><Polygon POINTS="359 721 338 721 318 721 297 721 291 721 277 725 277 768 277 781 424 776 424 768 424 727 369 721 359 721"/></Shape>
-	    <String CONTENT="Sed fe-"
+	    <String CONTENT="Sed fe¬"
                     HPOS="277"
                     VPOS="721"
                     WIDTH="147"
@@ -793,7 +793,7 @@
                     WIDTH="88"
                     HEIGHT="46">
             <Shape><Polygon POINTS="326 1511 306 1511 285 1511 285 1549 285 1555 371 1557 373 1549 373 1513 328 1511 326 1511"/></Shape>
-	    <String CONTENT="uni-"
+	    <String CONTENT="uni¬"
                     HPOS="285"
                     VPOS="1511"
                     WIDTH="88"
@@ -922,7 +922,7 @@
                     WIDTH="118"
                     HEIGHT="46">
             <Shape><Polygon POINTS="277 1963 277 1975 395 1975 395 1963 395 1929 293 1929 277 1963"/></Shape>
-	    <String CONTENT="2.sacer-"
+	    <String CONTENT="2.sacer¬"
                     HPOS="277"
                     VPOS="1929"
                     WIDTH="118"

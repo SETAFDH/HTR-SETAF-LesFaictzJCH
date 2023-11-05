@@ -144,7 +144,7 @@
                     WIDTH="1157"
                     HEIGHT="61">
             <Shape><Polygon POINTS="475 1984 473 1992 1626 1998 1630 1990 1628 1943 475 1937 475 1984"/></Shape>
-	    <String CONTENT="luy mirent autour de luy un manteau de Pourpre/ ⁊ ploye-"
+	    <String CONTENT="luy mirent autour de luy un manteau de Pourpre/ ⁊ ploye¬"
                     HPOS="473"
                     VPOS="1937"
                     WIDTH="1157"
@@ -188,7 +188,7 @@
                     WIDTH="149"
                     HEIGHT="53">
             <Shape><Polygon POINTS="316 893 314 903 461 901 463 895 461 852 316 850 316 893"/></Shape>
-	    <String CONTENT="Spino-"
+	    <String CONTENT="Spino¬"
                     HPOS="314"
                     VPOS="850"
                     WIDTH="149"

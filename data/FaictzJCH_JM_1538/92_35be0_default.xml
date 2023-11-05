@@ -76,7 +76,7 @@
                     WIDTH="1175"
                     HEIGHT="77">
             <Shape><Polygon POINTS="110 314 108 324 159 336 161 336 504 332 695 344 697 344 1281 340 1283 330 1281 283 110 267 110 314"/></Shape>
-	    <String CONTENT="blable au treshaultain. Maintenant es tu abattu en enfer iu-"
+	    <String CONTENT="blable au treshaultain. Maintenant es tu abattu en enfer iu¬"
                     HPOS="108"
                     VPOS="267"
                     WIDTH="1175"
@@ -110,7 +110,7 @@
                     WIDTH="1173"
                     HEIGHT="79">
             <Shape><Polygon POINTS="889 385 869 385 848 385 828 385 808 385 804 385 663 389 634 389 632 389 626 383 624 383 604 383 583 383 571 381 528 387 522 387 514 387 440 381 416 379 400 379 381 379 367 385 361 379 359 379 338 379 318 379 308 379 263 383 255 377 236 377 216 377 195 377 191 377 114 381 114 432 112 440 257 442 279 454 281 454 283 456 1283 456 1285 446 1285 395 1265 385 1263 385 1261 385 1130 395 1120 395 1106 395 948 381 946 381 889 381 889 385"/></Shape>
-	    <String CONTENT="¶ Elle est cheute/ elle est cheute la grand Babylone/ ⁊ est fai-"
+	    <String CONTENT="¶ Elle est cheute/ elle est cheute la grand Babylone/ ⁊ est fai¬"
                     HPOS="112"
                     VPOS="377"
                     WIDTH="1173"

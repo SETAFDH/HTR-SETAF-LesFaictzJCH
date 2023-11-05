@@ -59,7 +59,7 @@
                     WIDTH="1171"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1528 216 1508 216 1487 216 1467 214 1446 214 1426 212 1406 212 1385 212 1365 210 1344 210 1324 207 1304 207 1283 207 1263 205 1242 205 1222 203 1202 203 1181 203 1173 197 797 193 795 193 793 193 791 193 791 195 789 195 783 203 653 197 651 199 630 201 610 201 589 203 569 205 548 207 528 210 508 210 487 212 467 214 446 216 426 216 406 218 408 254 408 265 1153 273 1155 273 1577 258 1577 248 1540 216 1528 216"/></Shape>
-	    <String CONTENT="⁊ des officiers/ qui ont puissance sur les corps/ tachans de de-"
+	    <String CONTENT="⁊ des officiers/ qui ont puissance sur les corps/ tachans de de¬"
                     HPOS="406"
                     VPOS="193"
                     WIDTH="1171"
@@ -127,7 +127,7 @@
                     WIDTH="1165"
                     HEIGHT="59">
             <Shape><Polygon POINTS="406 479 406 491 1571 491 1571 479 1571 436 406 432 406 479"/></Shape>
-	    <String CONTENT="la racine du mal: pourtant quon ne regarde que la uie du Pa-"
+	    <String CONTENT="la racine du mal: pourtant quon ne regarde que la uie du Pa¬"
                     HPOS="406"
                     VPOS="432"
                     WIDTH="1165"
@@ -144,7 +144,7 @@
                     WIDTH="1167"
                     HEIGHT="65">
             <Shape><Polygon POINTS="406 534 404 544 1567 550 1571 538 1567 485 406 487 406 534"/></Shape>
-	    <String CONTENT="pe ⁊ des siens: car la plus part des hõmes pẽsent que si le Pa-"
+	    <String CONTENT="pe ⁊ des siens: car la plus part des hõmes pẽsent que si le Pa¬"
                     HPOS="404"
                     VPOS="485"
                     WIDTH="1167"
@@ -161,7 +161,7 @@
                     WIDTH="1163"
                     HEIGHT="73">
             <Shape><Polygon POINTS="410 593 410 615 936 619 938 619 973 613 989 609 995 611 1010 619 1012 619 1014 621 1271 621 1271 619 1336 609 1342 609 1344 609 1355 619 1357 619 1359 619 1361 619 1459 609 1463 609 1477 619 1479 619 1481 619 1483 619 1573 607 1573 593 1573 550 410 548 410 593"/></Shape>
-	    <String CONTENT="pe ⁊ les siens uiuoyent selon leur estat/ selon leurs rigles ⁊ de-"
+	    <String CONTENT="pe ⁊ les siens uiuoyent selon leur estat/ selon leurs rigles ⁊ de¬"
                     HPOS="410"
                     VPOS="548"
                     WIDTH="1163"
@@ -195,7 +195,7 @@
                     WIDTH="1159"
                     HEIGHT="75">
             <Shape><Polygon POINTS="406 721 1561 725 1565 707 1559 654 1516 664 1412 654 1410 654 1408 654 1406 654 1406 656 1395 666 1253 666 408 650 408 701"/></Shape>
-	    <String CONTENT="abusez. Car nonobstãt que la vie ⁊ le train du Pape soit tres-"
+	    <String CONTENT="abusez. Car nonobstãt que la vie ⁊ le train du Pape soit tres¬"
                     HPOS="406"
                     VPOS="650"
                     WIDTH="1159"
@@ -229,7 +229,7 @@
                     WIDTH="1167"
                     HEIGHT="78">
             <Shape><Polygon POINTS="406 817 404 829 563 842 565 842 791 834 814 844 816 844 818 844 1100 836 1181 846 1183 846 1569 836 1571 823 1569 781 406 768 406 817"/></Shape>
-	    <String CONTENT="donnances paoure/ meschante/ horrible/ damnable/ ⁊ detesta-"
+	    <String CONTENT="donnances paoure/ meschante/ horrible/ damnable/ ⁊ detesta¬"
                     HPOS="404"
                     VPOS="768"
                     WIDTH="1167"
@@ -314,7 +314,7 @@
                     WIDTH="1170"
                     HEIGHT="69">
             <Shape><Polygon POINTS="397 1107 395 1117 1561 1129 1565 1115 1563 1066 397 1060 397 1107"/></Shape>
-	    <String CONTENT="couchoit auec sa fille propre Lucresse: de laquelle auoit la cõ-"
+	    <String CONTENT="couchoit auec sa fille propre Lucresse: de laquelle auoit la cõ¬"
                     HPOS="395"
                     VPOS="1060"
                     WIDTH="1170"
@@ -331,7 +331,7 @@
                     WIDTH="1174"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1563 1123 1373 1115 1357 1115 1336 1115 1316 1115 1295 1115 1275 1115 1255 1113 397 1113 397 1162 395 1174 1565 1192 1569 1172 1567 1146 1563 1123"/></Shape>
-	    <String CONTENT="paignie son frere le Duc de Ualentinoys filz dudict Alexan-"
+	    <String CONTENT="paignie son frere le Duc de Ualentinoys filz dudict Alexan¬"
                     HPOS="395"
                     VPOS="1113"
                     WIDTH="1174"
@@ -484,7 +484,7 @@
                     WIDTH="1170"
                     HEIGHT="83">
             <Shape><Polygon POINTS="1451 1635 1448 1635 1426 1641 1418 1633 1410 1633 1389 1633 1385 1633 1293 1641 1277 1641 1273 1641 1251 1631 1246 1631 1226 1631 1220 1631 1138 1639 1122 1639 1112 1637 1061 1629 1042 1629 1032 1629 983 1637 975 1637 969 1637 938 1627 920 1627 893 1635 891 1635 875 1627 859 1627 848 1635 846 1635 826 1635 714 1625 695 1625 681 1623 612 1631 608 1631 597 1623 593 1623 583 1623 563 1631 559 1631 548 1631 475 1621 471 1621 451 1621 444 1621 389 1627 389 1674 387 1690 402 1698 404 1698 406 1698 1553 1704 1557 1690 1555 1645 1477 1645 1475 1643 1467 1635 1451 1635"/></Shape>
-	    <String CONTENT="a faict ⁊ cõmande. Et de lautre le Pape chief de leglise Rom-"
+	    <String CONTENT="a faict ⁊ cõmande. Et de lautre le Pape chief de leglise Rom¬"
                     HPOS="387"
                     VPOS="1621"
                     WIDTH="1170"
@@ -630,7 +630,7 @@
                     WIDTH="114"
                     HEIGHT="49">
             <Shape><Polygon POINTS="257 1048 259 1070 259 1080 367 1084 371 1068 365 1035 271 1035 257 1048"/></Shape>
-	    <String CONTENT="lexan-"
+	    <String CONTENT="lexan¬"
                     HPOS="257"
                     VPOS="1035"
                     WIDTH="114"
@@ -674,7 +674,7 @@
                     WIDTH="113"
                     HEIGHT="85">
             <Shape><Polygon POINTS="1444 2096 1444 2122 1557 2112 1557 2096 1557 2051 1495 2037 1493 2037 1491 2037 1444 2049 1444 2096"/></Shape>
-	    <String CONTENT="⁊ sar-"
+	    <String CONTENT="⁊ sar¬"
                     HPOS="1444"
                     VPOS="2037"
                     WIDTH="113"

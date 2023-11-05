@@ -93,7 +93,7 @@
                     WIDTH="1164"
                     HEIGHT="80">
             <Shape><Polygon POINTS="100 354 97 367 1257 377 1261 367 1259 318 100 297 100 354"/></Shape>
-	    <String CONTENT="Rome en leur concile/ ⁊ est recite en leur decret/ cest chose hor-"
+	    <String CONTENT="Rome en leur concile/ ⁊ est recite en leur decret/ cest chose hor¬"
                     HPOS="97"
                     VPOS="297"
                     WIDTH="1164"
@@ -161,7 +161,7 @@
                     WIDTH="1162"
                     HEIGHT="81">
             <Shape><Polygon POINTS="997 538 977 538 957 538 936 538 916 536 895 536 875 536 855 536 834 536 814 536 793 536 773 536 753 536 732 536 712 536 691 536 685 536 616 540 591 540 589 540 577 534 569 534 548 534 528 534 508 534 487 534 467 534 446 534 426 534 406 534 385 534 365 532 344 532 328 532 100 534 100 587 97 595 663 609 665 609 783 601 791 601 797 601 877 611 879 611 951 603 1026 613 1028 613 1257 603 1259 597 1257 546 1024 538 1018 538"/></Shape>
-	    <String CONTENT="pant/ le mãgeant/ le bruslant quãd il est un peu gaste/ ou pour-"
+	    <String CONTENT="pant/ le mãgeant/ le bruslant quãd il est un peu gaste/ ou pour¬"
                     HPOS="97"
                     VPOS="532"
                     WIDTH="1162"
@@ -314,7 +314,7 @@
                     WIDTH="1164"
                     HEIGHT="69">
             <Shape><Polygon POINTS="1222 1056 1202 1056 1181 1056 100 1056 100 1107 97 1119 1257 1125 1261 1111 1259 1056 1242 1056"/></Shape>
-	    <String CONTENT="le/ gradualz/ offertoires/ ⁊ autres choses quon lit ⁊ chãte con-"
+	    <String CONTENT="le/ gradualz/ offertoires/ ⁊ autres choses quon lit ⁊ chãte con¬"
                     HPOS="97"
                     VPOS="1056"
                     WIDTH="1164"
@@ -399,7 +399,7 @@
                     WIDTH="1164"
                     HEIGHT="78">
             <Shape><Polygon POINTS="1202 1339 1189 1339 1179 1343 1177 1343 1067 1337 1059 1337 1038 1337 1018 1337 997 1335 977 1335 975 1335 904 1343 891 1343 887 1343 863 1333 855 1333 853 1333 842 1343 840 1345 763 1345 748 1341 691 1333 671 1333 651 1333 630 1333 610 1333 589 1333 569 1333 548 1333 532 1333 526 1333 508 1335 487 1335 467 1335 446 1335 426 1335 406 1335 387 1335 312 1335 304 1337 283 1337 263 1337 242 1337 100 1337 100 1388 97 1402 100 1404 102 1404 102 1407 104 1407 106 1407 108 1407 167 1398 202 1409 204 1409 206 1411 406 1411 406 1409 408 1409 430 1398 477 1409 479 1409 530 1398 536 1398 542 1398 581 1409 583 1409 585 1409 587 1409 616 1400 624 1398 1257 1409 1261 1392 1261 1345 1236 1339 1222 1339"/></Shape>
-	    <String CONTENT="table/ prenez la pure ⁊ simple ordõnance du bon Sauueur  Ie-"
+	    <String CONTENT="table/ prenez la pure ⁊ simple ordõnance du bon Sauueur  Ie¬"
                     HPOS="97"
                     VPOS="1333"
                     WIDTH="1164"
@@ -450,7 +450,7 @@
                     WIDTH="1161"
                     HEIGHT="69">
             <Shape><Polygon POINTS="100 1570 675 1570 681 1578 683 1578 683 1580 685 1580 687 1580 689 1580 1259 1570 1261 1566 1259 1515 100 1511 100 1562"/></Shape>
-	    <String CONTENT="duquel ⁊ par lequel iamais nest uenu que mal/ prenez ⁊ te-"
+	    <String CONTENT="duquel ⁊ par lequel iamais nest uenu que mal/ prenez ⁊ te¬"
                     HPOS="100"
                     VPOS="1511"
                     WIDTH="1161"
@@ -467,7 +467,7 @@
                     WIDTH="1160"
                     HEIGHT="79">
             <Shape><Polygon POINTS="1028 1566 1024 1570 1024 1572 906 1572 906 1570 900 1566 895 1566 875 1566 855 1566 834 1566 814 1566 793 1566 773 1566 755 1566 712 1568 704 1566 691 1566 671 1564 657 1564 648 1568 622 1564 610 1564 589 1564 569 1564 548 1564 528 1564 508 1564 487 1564 467 1564 446 1564 426 1564 406 1564 385 1564 365 1564 344 1564 324 1564 304 1564 291 1564 100 1566 100 1619 97 1637 293 1631 304 1639 304 1641 306 1641 308 1641 310 1643 395 1643 395 1641 397 1641 402 1639 420 1631 428 1639 428 1641 430 1641 432 1641 434 1643 540 1643 540 1641 542 1641 544 1641 546 1639 565 1629 836 1629 848 1639 855 1643 857 1643 859 1643 861 1643 863 1643 865 1643 871 1639 883 1631 895 1639 902 1641 904 1641 906 1641 908 1641 914 1639 934 1631 985 1639 1018 1643 1020 1643 1022 1643 1034 1639 1051 1633 1253 1637 1257 1623 1255 1572 1061 1572 1059 1570 1053 1566 1038 1566"/></Shape>
-	    <String CONTENT="nez ce qui est de Dieu/ ⁊ tout certain: laissez ce qui est du Pa-"
+	    <String CONTENT="nez ce qui est de Dieu/ ⁊ tout certain: laissez ce qui est du Pa¬"
                     HPOS="97"
                     VPOS="1564"
                     WIDTH="1160"
@@ -579,7 +579,7 @@
                     WIDTH="132"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1261 493 1391 495 1393 479 1393 442 1261 434 1261 479"/></Shape>
-	    <String CONTENT="Ego be-"
+	    <String CONTENT="Ego be¬"
                     HPOS="1261"
                     VPOS="434"
                     WIDTH="132"

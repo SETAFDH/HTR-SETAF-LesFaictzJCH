@@ -127,7 +127,7 @@
                     WIDTH="1170"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1610 448 1589 448 1569 448 1548 448 1528 448 1508 448 1487 448 1467 448 1446 448 1426 448 1406 448 1385 448 1365 448 1344 448 1324 448 1304 446 1283 446 1263 446 1242 446 1222 446 1202 446 1181 446 1161 446 1140 446 1120 446 1100 446 1079 446 1059 446 1038 446 642 446 618 442 610 442 589 442 569 442 548 442 528 442 508 442 489 442 465 444 461 440 448 440 446 493 444 509 1610 513 1614 505 1610 446 1610 448"/></Shape>
-	    <String CONTENT="parolles quon doibt dire a tout homme ⁊ prescher en grãd uer-"
+	    <String CONTENT="parolles quon doibt dire a tout homme ⁊ prescher en grãd uer¬"
                     HPOS="444"
                     VPOS="440"
                     WIDTH="1170"
@@ -195,7 +195,7 @@
                     WIDTH="1164"
                     HEIGHT="74">
             <Shape><Polygon POINTS="451 725 448 734 1608 746 1612 730 1608 672 451 672 451 725"/></Shape>
-	    <String CONTENT="presche Leuangile/ cest afin que Leuãgile ⁊ eulx aussi ne fus-"
+	    <String CONTENT="presche Leuangile/ cest afin que Leuãgile ⁊ eulx aussi ne fus¬"
                     HPOS="448"
                     VPOS="672"
                     WIDTH="1164"
@@ -246,7 +246,7 @@
                     WIDTH="1137"
                     HEIGHT="67">
             <Shape><Polygon POINTS="477 891 475 907 1608 911 1612 901 1610 848 477 844 477 891"/></Shape>
-	    <String CONTENT="aussi contre lexpres commandement daller par tout le mon-"
+	    <String CONTENT="aussi contre lexpres commandement daller par tout le mon¬"
                     HPOS="475"
                     VPOS="844"
                     WIDTH="1137"
@@ -280,7 +280,7 @@
                     WIDTH="1166"
                     HEIGHT="73">
             <Shape><Polygon POINTS="451 1009 448 1025 1610 1031 1614 1017 1612 962 451 958 451 1009"/></Shape>
-	    <String CONTENT="Apostres: ⁊ quelque mespris ⁊ contemnement/ qui soit adue-"
+	    <String CONTENT="Apostres: ⁊ quelque mespris ⁊ contemnement/ qui soit adue¬"
                     HPOS="448"
                     VPOS="958"
                     WIDTH="1166"
@@ -297,7 +297,7 @@
                     WIDTH="1164"
                     HEIGHT="69">
             <Shape><Polygon POINTS="451 1064 448 1084 1610 1084 1612 1072 1610 1019 451 1015 451 1064"/></Shape>
-	    <String CONTENT="nu/ nont delaisse/ ne parauant nostre Seigneur Iesus/ pre-"
+	    <String CONTENT="nu/ nont delaisse/ ne parauant nostre Seigneur Iesus/ pre¬"
                     HPOS="448"
                     VPOS="1015"
                     WIDTH="1164"
@@ -365,7 +365,7 @@
                     WIDTH="1166"
                     HEIGHT="76">
             <Shape><Polygon POINTS="448 1292 446 1303 1608 1313 1612 1303 1610 1254 448 1237 448 1292"/></Shape>
-	    <String CONTENT="tention de consacrer/ ⁊ sur matiere deue/ le peuple seroit idola-"
+	    <String CONTENT="tention de consacrer/ ⁊ sur matiere deue/ le peuple seroit idola¬"
                     HPOS="446"
                     VPOS="1237"
                     WIDTH="1166"
@@ -467,7 +467,7 @@
                     WIDTH="1164"
                     HEIGHT="71">
             <Shape><Polygon POINTS="444 1633 442 1649 451 1655 453 1655 455 1655 457 1655 602 1647 634 1657 636 1657 638 1657 1604 1655 1606 1645 1604 1598 444 1586 444 1633"/></Shape>
-	    <String CONTENT="selon leur doctrine mesmes tous ceulx qui oyent messe ⁊ ado-"
+	    <String CONTENT="selon leur doctrine mesmes tous ceulx qui oyent messe ⁊ ado¬"
                     HPOS="442"
                     VPOS="1586"
                     WIDTH="1164"
@@ -569,7 +569,7 @@
                     WIDTH="1165"
                     HEIGHT="77">
             <Shape><Polygon POINTS="1581 1933 434 1929 434 1975 432 1986 600 2000 602 2000 679 1992 681 1992 779 2002 1593 2006 1597 1990 1595 1939 1581 1933"/></Shape>
-	    <String CONTENT="Et a rien ne sert/ ce que de Quercu Docteur de Paris pre-"
+	    <String CONTENT="Et a rien ne sert/ ce que de Quercu Docteur de Paris pre¬"
                     HPOS="432"
                     VPOS="1929"
                     WIDTH="1165"

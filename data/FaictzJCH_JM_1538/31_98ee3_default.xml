@@ -93,7 +93,7 @@
                     WIDTH="1166"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1440 1753 1432 1753 1371 1763 1369 1765 1316 1765 1197 1765 1173 1755 1155 1755 1153 1755 1112 1765 1110 1765 1106 1765 985 1755 983 1755 908 1767 902 1767 883 1767 673 1757 671 1757 669 1757 648 1767 540 1759 538 1759 455 1769 442 1798 442 1816 442 1829 1606 1818 1608 1806 1604 1763 1473 1763 1453 1753 1440 1753"/></Shape>
-	    <String CONTENT="⁊ me suyue. Matthieu.16. ¶ Ilz prindrent Iesus/ ⁊ le mene-"
+	    <String CONTENT="⁊ me suyue. Matthieu.16. ¶ Ilz prindrent Iesus/ ⁊ le mene¬"
                     HPOS="442"
                     VPOS="1753"
                     WIDTH="1166"
@@ -205,7 +205,7 @@
                     WIDTH="137"
                     HEIGHT="65">
             <Shape><Polygon POINTS="418 970 397 970 377 970 357 970 336 970 316 970 295 970 295 1005 293 1019 426 1029 430 1009 426 964 424 964 418 970"/></Shape>
-	    <String CONTENT="ille cru-"
+	    <String CONTENT="ille cru¬"
                     HPOS="293"
                     VPOS="964"
                     WIDTH="137"

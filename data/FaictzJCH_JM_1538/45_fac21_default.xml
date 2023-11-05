@@ -76,7 +76,7 @@
                     WIDTH="1165"
                     HEIGHT="86">
             <Shape><Polygon POINTS="428 1735 426 1743 446 1753 448 1753 451 1753 530 1745 544 1755 546 1755 548 1755 551 1755 624 1747 632 1747 1587 1774 1591 1757 1591 1710 428 1688 428 1735"/></Shape>
-	    <String CONTENT="que lon fait au Pape/ quãd il est coronne/ quãd il faict son en-"
+	    <String CONTENT="que lon fait au Pape/ quãd il est coronne/ quãd il faict son en¬"
                     HPOS="426"
                     VPOS="1688"
                     WIDTH="1165"
@@ -205,7 +205,7 @@
                     WIDTH="120"
                     HEIGHT="55">
             <Shape><Polygon POINTS="420 897 334 897 322 911 318 938 318 952 438 942 438 933 436 927 420 897"/></Shape>
-	    <String CONTENT="ille su-"
+	    <String CONTENT="ille su¬"
                     HPOS="318"
                     VPOS="897"
                     WIDTH="120"

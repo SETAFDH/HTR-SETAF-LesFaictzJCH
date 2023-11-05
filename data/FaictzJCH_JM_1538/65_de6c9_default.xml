@@ -76,7 +76,7 @@
                     WIDTH="1170"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1595 1698 1587 1694 1020 1694 1008 1690 991 1688 983 1688 963 1688 942 1688 922 1688 902 1688 881 1688 861 1688 840 1688 820 1688 810 1688 767 1690 751 1690 742 1690 722 1688 718 1688 697 1688 677 1688 657 1688 636 1688 616 1688 595 1688 575 1688 555 1688 534 1688 514 1688 493 1688 481 1688 451 1688 432 1737 430 1745 1595 1753 1600 1745 1600 1694 1595 1694 1595 1698"/></Shape>
-	    <String CONTENT="en tirant subtilement lor des gens/ donnans pardons ⁊ re-"
+	    <String CONTENT="en tirant subtilement lor des gens/ donnans pardons ⁊ re¬"
                     HPOS="430"
                     VPOS="1688"
                     WIDTH="1170"
@@ -205,7 +205,7 @@
                     WIDTH="141"
                     HEIGHT="61">
             <Shape><Polygon POINTS="344 862 324 862 304 864 285 864 283 864 285 905 285 921 424 917 424 899 420 864 355 860 344 862"/></Shape>
-	    <String CONTENT="hic san-"
+	    <String CONTENT="hic san¬"
                     HPOS="283"
                     VPOS="860"
                     WIDTH="141"

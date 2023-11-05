@@ -205,7 +205,7 @@
                     WIDTH="123"
                     HEIGHT="57">
             <Shape><Polygon POINTS="287 897 285 921 285 935 406 944 408 921 408 887 300 887 287 897"/></Shape>
-	    <String CONTENT="ille pe-"
+	    <String CONTENT="ille pe¬"
                     HPOS="285"
                     VPOS="887"
                     WIDTH="123"

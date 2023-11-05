@@ -93,7 +93,7 @@
                     WIDTH="1167"
                     HEIGHT="74">
             <Shape><Polygon POINTS="848 309 828 309 808 309 787 309 779 309 712 314 663 316 642 311 618 307 604 307 583 307 575 305 557 311 544 314 522 311 485 305 481 305 461 305 440 305 434 305 412 309 395 311 385 309 367 303 359 303 344 303 322 307 304 311 285 307 269 303 257 303 240 301 230 307 224 309 214 305 197 301 195 301 175 301 155 301 146 301 73 303 73 356 71 362 1234 375 1238 369 1236 322 875 320 869 316 859 309 848 309"/></Shape>
-	    <String CONTENT="maison doraison/ ⁊ uous lauez faicte une cauerne de meur-"
+	    <String CONTENT="maison doraison/ ⁊ uous lauez faicte une cauerne de meur¬"
                     HPOS="71"
                     VPOS="301"
                     WIDTH="1167"
@@ -280,7 +280,7 @@
                     WIDTH="1167"
                     HEIGHT="80">
             <Shape><Polygon POINTS="69 982 67 997 1230 1015 1234 997 1232 946 69 935 69 982"/></Shape>
-	    <String CONTENT="donne pour argent. Act.8. ¶ Quiconque donc donne quel-"
+	    <String CONTENT="donne pour argent. Act.8. ¶ Quiconque donc donne quel¬"
                     HPOS="67"
                     VPOS="935"
                     WIDTH="1167"
@@ -569,7 +569,7 @@
                     WIDTH="1165"
                     HEIGHT="106">
             <Shape><Polygon POINTS="73 1955 71 1977 365 1980 377 1986 424 2006 426 2006 428 2006 430 2006 469 1996 481 2006 481 2008 483 2008 485 2008 487 2010 534 2010 534 2008 536 2008 538 2008 538 2006 553 1994 689 2010 691 2010 1234 2006 1236 1967 1234 1916 73 1904 73 1955"/></Shape>
-	    <String CONTENT="uendent leur fardee ⁊ rompue marchandise/ en toute supersti-"
+	    <String CONTENT="uendent leur fardee ⁊ rompue marchandise/ en toute supersti¬"
                     HPOS="71"
                     VPOS="1904"
                     WIDTH="1165"

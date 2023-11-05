@@ -76,7 +76,7 @@
                     WIDTH="1168"
                     HEIGHT="73">
             <Shape><Polygon POINTS="1575 269 1555 269 1534 269 1514 269 1493 269 1473 269 1453 269 1432 269 1412 269 1391 269 1371 269 1351 269 1330 269 1310 269 1289 271 1269 271 1248 271 1228 271 1208 271 1187 271 1167 271 1146 271 1126 271 1106 271 1085 271 1065 271 1044 271 1024 271 1004 273 983 273 963 273 942 273 922 273 902 273 881 273 861 273 840 273 820 273 818 273 728 273 718 275 697 275 677 275 657 275 636 275 624 275 432 275 434 330 434 342 1597 332 1600 320 1593 269 1575 269"/></Shape>
-	    <String CONTENT="tous dune foy ⁊ dun mesme uouloir/ aymant les unz les au-"
+	    <String CONTENT="tous dune foy ⁊ dun mesme uouloir/ aymant les unz les au¬"
                     HPOS="432"
                     VPOS="269"
                     WIDTH="1168"
@@ -144,7 +144,7 @@
                     WIDTH="1163"
                     HEIGHT="71">
             <Shape><Polygon POINTS="800 501 779 501 759 501 738 501 718 501 697 501 677 501 657 501 636 501 616 501 595 501 575 501 555 501 534 501 514 501 493 501 473 501 457 501 432 509 434 556 434 568 1591 570 1595 552 1591 501 812 499 800 501"/></Shape>
-	    <String CONTENT="chascun doibt regarder sil a uraye foy: car autre ne le peult sa-"
+	    <String CONTENT="chascun doibt regarder sil a uraye foy: car autre ne le peult sa¬"
                     HPOS="432"
                     VPOS="499"
                     WIDTH="1163"
@@ -212,7 +212,7 @@
                     WIDTH="1167"
                     HEIGHT="69">
             <Shape><Polygon POINTS="432 785 432 805 1595 793 1597 781 1591 736 430 736 432 785"/></Shape>
-	    <String CONTENT="donne autrement la table de nostre Seigneur a un que a lau-"
+	    <String CONTENT="donne autrement la table de nostre Seigneur a un que a lau¬"
                     HPOS="430"
                     VPOS="736"
                     WIDTH="1167"
@@ -297,7 +297,7 @@
                     WIDTH="1176"
                     HEIGHT="74">
             <Shape><Polygon POINTS="432 1076 432 1095 1606 1082 1606 1066 1600 1021 430 1021 432 1076"/></Shape>
-	    <String CONTENT="⁊ remission des pechez/ pardonnãt a tous: ⁊ ainsi nous est pro-"
+	    <String CONTENT="⁊ remission des pechez/ pardonnãt a tous: ⁊ ainsi nous est pro¬"
                     HPOS="430"
                     VPOS="1021"
                     WIDTH="1176"
@@ -501,7 +501,7 @@
                     WIDTH="1163"
                     HEIGHT="76">
             <Shape><Polygon POINTS="430 1755 428 1763 465 1776 467 1776 469 1776 895 1767 1010 1778 1012 1778 1589 1767 1591 1759 1587 1702 430 1706 430 1755"/></Shape>
-	    <String CONTENT="laquelle sont refectionnez ⁊ repeuz tous ceulx qui parfaicte-"
+	    <String CONTENT="laquelle sont refectionnez ⁊ repeuz tous ceulx qui parfaicte¬"
                     HPOS="428"
                     VPOS="1702"
                     WIDTH="1163"

@@ -229,7 +229,7 @@
                     WIDTH="1168"
                     HEIGHT="86">
             <Shape><Polygon POINTS="273 778 253 778 232 778 89 783 89 836 87 844 118 856 120 856 122 856 640 850 669 860 671 860 673 860 1253 852 1255 844 1255 793 1216 781 1214 781 1212 781 1210 781 1185 791 1071 791 944 791 932 778 930 778 928 778 926 778 855 789 853 789 851 789 818 778 816 778 814 778 812 778 771 789 767 789 557 789 555 787 542 776 540 776 538 776 536 776 351 785 336 774 334 774 332 774 330 774 273 776 273 778"/></Shape>
-	    <String CONTENT="¶ Considerez Chrestiens/ ceste paillarde babylonicque/ la-"
+	    <String CONTENT="¶ Considerez Chrestiens/ ceste paillarde babylonicque/ la¬"
                     HPOS="87"
                     VPOS="774"
                     WIDTH="1168"
@@ -365,7 +365,7 @@
                     WIDTH="1163"
                     HEIGHT="74">
             <Shape><Polygon POINTS="83 1290 81 1309 936 1309 940 1309 959 1319 961 1319 963 1319 1242 1309 1244 1298 1242 1254 83 1245 83 1290"/></Shape>
-	    <String CONTENT="pour soy purger/ non seulement pour plaisir. de purga. uul. cu-"
+	    <String CONTENT="pour soy purger/ non seulement pour plaisir. de purga. uul. cu¬"
                     HPOS="81"
                     VPOS="1245"
                     WIDTH="1163"
@@ -467,7 +467,7 @@
                     WIDTH="1161"
                     HEIGHT="69">
             <Shape><Polygon POINTS="1079 1586 1059 1586 1038 1586 1018 1586 1004 1586 985 1590 948 1596 865 1590 800 1584 793 1584 773 1584 767 1590 761 1596 679 1596 661 1590 636 1582 630 1582 610 1582 589 1582 569 1582 548 1582 528 1582 508 1582 487 1582 477 1582 469 1590 467 1592 222 1592 214 1590 179 1580 163 1580 144 1590 140 1590 79 1590 79 1635 77 1641 1234 1649 1238 1643 1236 1590 1089 1586 1079 1586"/></Shape>
-	    <String CONTENT="quel aucun autrement par sentence est mis a mort/ il est irre-"
+	    <String CONTENT="quel aucun autrement par sentence est mis a mort/ il est irre¬"
                     HPOS="77"
                     VPOS="1580"
                     WIDTH="1161"
@@ -484,7 +484,7 @@
                     WIDTH="1159"
                     HEIGHT="75">
             <Shape><Polygon POINTS="1059 1643 1038 1643 1018 1643 997 1643 977 1643 957 1643 938 1641 889 1643 836 1645 834 1643 830 1641 814 1641 793 1641 773 1641 753 1641 732 1641 712 1641 691 1641 685 1641 585 1645 569 1639 548 1639 532 1639 502 1645 493 1639 487 1639 475 1639 467 1643 463 1639 446 1639 426 1639 406 1639 385 1639 365 1637 234 1643 179 1637 161 1637 140 1637 120 1637 114 1637 102 1643 89 1637 79 1637 79 1694 77 1702 1232 1712 1236 1700 1234 1649 1075 1649 1073 1645 1069 1643 1059 1643"/></Shape>
-	    <String CONTENT="gulier/ ⁊ fault quil soit rehabilite. disit.23. his. ⁊ distin.34. pre-"
+	    <String CONTENT="gulier/ ⁊ fault quil soit rehabilite. disit.23. his. ⁊ distin.34. pre¬"
                     HPOS="77"
                     VPOS="1637"
                     WIDTH="1159"

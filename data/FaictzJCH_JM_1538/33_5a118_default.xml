@@ -42,7 +42,7 @@
                     WIDTH="129"
                     HEIGHT="47">
             <Shape><Polygon POINTS="391 234 371 232 351 228 330 226 310 224 287 220 271 252 271 261 271 267 400 261 400 254 395 234 391 234"/></Shape>
-	    <String CONTENT="Hic ser-"
+	    <String CONTENT="Hic ser¬"
                     HPOS="271"
                     VPOS="220"
                     WIDTH="129"
@@ -59,7 +59,7 @@
                     WIDTH="139"
                     HEIGHT="44">
             <Shape><Polygon POINTS="400 263 271 261 271 295 269 301 404 305 408 299 408 273 400 263"/></Shape>
-	    <String CONTENT="uis por-"
+	    <String CONTENT="uis por¬"
                     HPOS="269"
                     VPOS="261"
                     WIDTH="139"
@@ -76,7 +76,7 @@
                     WIDTH="143"
                     HEIGHT="53">
             <Shape><Polygon POINTS="308 297 287 297 267 314 269 340 269 350 408 346 410 336 406 303 312 297 308 297"/></Shape>
-	    <String CONTENT="tatur a-"
+	    <String CONTENT="tatur a¬"
                     HPOS="267"
                     VPOS="297"
                     WIDTH="143"
@@ -239,7 +239,7 @@
                     WIDTH="149"
                     HEIGHT="63">
             <Shape><Polygon POINTS="265 842 263 848 408 850 412 844 408 787 363 799 322 793 285 789 283 789 281 789 265 797 265 842"/></Shape>
-	    <String CONTENT="tres e-"
+	    <String CONTENT="tres e¬"
                     HPOS="263"
                     VPOS="787"
                     WIDTH="149"
@@ -307,7 +307,7 @@
                     WIDTH="137"
                     HEIGHT="65">
             <Shape><Polygon POINTS="269 1072 269 1084 404 1080 404 1068 400 1025 267 1019 269 1072"/></Shape>
-	    <String CONTENT="la por-"
+	    <String CONTENT="la por¬"
                     HPOS="267"
                     VPOS="1019"
                     WIDTH="137"
@@ -409,7 +409,7 @@
                     WIDTH="145"
                     HEIGHT="69">
             <Shape><Polygon POINTS="269 1433 408 1423 410 1411 406 1366 265 1364 269 1417"/></Shape>
-	    <String CONTENT="son au-"
+	    <String CONTENT="son au¬"
                     HPOS="265"
                     VPOS="1364"
                     WIDTH="145"
@@ -460,7 +460,7 @@
                     WIDTH="145"
                     HEIGHT="59">
             <Shape><Polygon POINTS="269 1584 269 1592 412 1588 412 1580 408 1537 267 1533 269 1584"/></Shape>
-	    <String CONTENT="les au-"
+	    <String CONTENT="les au¬"
                     HPOS="267"
                     VPOS="1533"
                     WIDTH="145"
@@ -477,7 +477,7 @@
                     WIDTH="133"
                     HEIGHT="69">
             <Shape><Polygon POINTS="275 1643 275 1657 406 1647 406 1639 402 1598 273 1588 275 1643"/></Shape>
-	    <String CONTENT="tres e-"
+	    <String CONTENT="tres e¬"
                     HPOS="273"
                     VPOS="1588"
                     WIDTH="133"
@@ -545,7 +545,7 @@
                     WIDTH="1284"
                     HEIGHT="78">
             <Shape><Polygon POINTS="987 1823 967 1823 946 1823 926 1825 914 1825 875 1829 865 1825 865 1825 844 1825 824 1825 804 1825 785 1825 765 1827 761 1825 742 1825 724 1825 720 1827 544 1820 538 1820 532 1818 487 1818 477 1818 457 1818 438 1816 430 1816 428 1816 426 1816 393 1827 383 1816 381 1816 379 1816 377 1816 314 1827 300 1816 297 1816 295 1816 293 1816 291 1816 273 1825 273 1873 273 1894 1555 1886 1557 1871 1538 1825 1520 1818 1518 1818 1516 1818 1026 1829 1024 1829 993 1823 987 1823"/></Shape>
-	    <String CONTENT="bres descendent/ de la plenitude/ duq̃l tous prẽnent/ lesq̃lz ilz appel-"
+	    <String CONTENT="bres descendent/ de la plenitude/ duq̃l tous prẽnent/ lesq̃lz ilz appel¬"
                     HPOS="273"
                     VPOS="1816"
                     WIDTH="1284"

@@ -110,7 +110,7 @@
                     WIDTH="1172"
                     HEIGHT="80">
             <Shape><Polygon POINTS="397 365 393 362 304 362 295 362 275 362 255 362 242 360 197 360 193 360 173 360 153 360 132 360 112 360 91 360 91 413 89 430 1257 440 1261 428 1259 381 410 365 397 365"/></Shape>
-	    <String CONTENT="la terre/ ladorant ⁊ seruant a luy seul/ uiuant tous comme fre-"
+	    <String CONTENT="la terre/ ladorant ⁊ seruant a luy seul/ uiuant tous comme fre¬"
                     HPOS="89"
                     VPOS="360"
                     WIDTH="1172"
@@ -161,7 +161,7 @@
                     WIDTH="1168"
                     HEIGHT="67">
             <Shape><Polygon POINTS="89 587 87 595 1251 607 1255 599 1253 548 89 540 89 587"/></Shape>
-	    <String CONTENT="secutant Iesus en ses membres/ par feu/ glaiue/ ⁊ autres tor-"
+	    <String CONTENT="secutant Iesus en ses membres/ par feu/ glaiue/ ⁊ autres tor¬"
                     HPOS="87"
                     VPOS="540"
                     WIDTH="1168"
@@ -178,7 +178,7 @@
                     WIDTH="1174"
                     HEIGHT="83">
             <Shape><Polygon POINTS="89 644 87 660 667 660 679 662 712 670 714 670 716 670 814 662 832 662 838 662 867 672 869 672 871 672 1046 664 1061 664 1071 672 1071 674 1073 674 1075 674 1077 674 1259 664 1261 656 1261 609 89 591 89 644"/></Shape>
-	    <String CONTENT="mentz/ par faulte de congnoistre Iesus ⁊ sa parolle: ⁊ ce a lin-"
+	    <String CONTENT="mentz/ par faulte de congnoistre Iesus ⁊ sa parolle: ⁊ ce a lin¬"
                     HPOS="87"
                     VPOS="591"
                     WIDTH="1174"
@@ -195,7 +195,7 @@
                     WIDTH="1170"
                     HEIGHT="76">
             <Shape><Polygon POINTS="87 701 85 715 1251 730 1255 713 1253 664 87 654 87 701"/></Shape>
-	    <String CONTENT="stigation du Pape ⁊ des siens/ pour maintenir ses abomina-"
+	    <String CONTENT="stigation du Pape ⁊ des siens/ pour maintenir ses abomina¬"
                     HPOS="85"
                     VPOS="654"
                     WIDTH="1170"
@@ -314,7 +314,7 @@
                     WIDTH="1166"
                     HEIGHT="63">
             <Shape><Polygon POINTS="87 1103 85 1115 1246 1121 1251 1111 1248 1066 87 1058 87 1103"/></Shape>
-	    <String CONTENT="quen Leglise ny aye autre chief que Iesus/ quon ne tiẽne au-"
+	    <String CONTENT="quen Leglise ny aye autre chief que Iesus/ quon ne tiẽne au¬"
                     HPOS="85"
                     VPOS="1058"
                     WIDTH="1166"
@@ -535,7 +535,7 @@
                     WIDTH="510"
                     HEIGHT="80">
             <Shape><Polygon POINTS="908 1804 775 1798 763 1798 742 1798 722 1798 702 1798 689 1798 669 1806 667 1806 663 1806 646 1798 640 1798 630 1798 604 1806 597 1806 591 1806 567 1798 559 1798 551 1798 540 1806 538 1806 528 1798 518 1798 497 1798 416 1804 418 1857 418 1878 748 1867 922 1876 926 1853 924 1849 908 1804"/></Shape>
-	    <String CONTENT="par le droict chemin/ iu-"
+	    <String CONTENT="par le droict chemin/ iu¬"
                     HPOS="416"
                     VPOS="1798"
                     WIDTH="510"
