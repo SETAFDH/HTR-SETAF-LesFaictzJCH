@@ -387,11 +387,11 @@
         
         <TextBlock HPOS="766"
                    VPOS="3055"
-                   WIDTH="741"
-                   HEIGHT="164"
+                   WIDTH="754"
+                   HEIGHT="133"
                    ID="eSc_textblock_4795f1c5"
                    TAGREFS="BT1231">
-          <Shape><Polygon POINTS="766 3055 766 3219 1507 3219 1507 3055"/></Shape>
+          <Shape><Polygon POINTS="766 3055 766 3179 1520 3188 1507 3055"/></Shape>
           
         </TextBlock>
         
