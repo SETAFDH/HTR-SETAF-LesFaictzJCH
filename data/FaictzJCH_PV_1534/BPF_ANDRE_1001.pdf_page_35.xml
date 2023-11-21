@@ -824,7 +824,7 @@
                     WIDTH="152"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1020 1379 1020 1388 1163 1382 1166 1371 1160 1300 1014 1292 1020 1379"/></Shape>
-	    <String CONTENT="umbgeli"
+	    <String CONTENT="Umbgelt"
                     HPOS="1014"
                     VPOS="1292"
                     WIDTH="152"
@@ -841,7 +841,7 @@
                     WIDTH="120"
                     HEIGHT="82">
             <Shape><Polygon POINTS="1128 1373 1099 1376 1069 1376 1040 1379 1040 1417 1040 1455 1069 1455 1099 1455 1128 1455 1157 1455 1160 1455 1160 1417 1157 1373"/></Shape>
-	    <String CONTENT="ein sac"
+	    <String CONTENT="ein Sack"
                     HPOS="1040"
                     VPOS="1373"
                     WIDTH="120"
@@ -858,7 +858,7 @@
                     WIDTH="143"
                     HEIGHT="99">
             <Shape><Polygon POINTS="1110 1417 1081 1414 1052 1414 1046 1406 1023 1406 1023 1458 1023 1505 1166 1505 1166 1458 1163 1406 1116 1406 1110 1417"/></Shape>
-	    <String CONTENT="uolablas"
+	    <String CONTENT="uol ablass"
                     HPOS="1023"
                     VPOS="1406"
                     WIDTH="143"
