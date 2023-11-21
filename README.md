@@ -2,7 +2,7 @@
 
 Ce dépôt est en cours de construction.
 
-Ce dépôt contient les données HTR de différentes éditions des Faits de Jésus Christ et du pape. Il s'agit d'un ouvrage singulier de polémique religieuse, unique livre illustré de la Réforme francophone conservé pour la première moitié du XVIe siècle. Il a paru sous couvert d’anonymat, dans trois éditions successives, à Neuchâtel, Genève et Lyon, entre les années 1530 et 1560. La liste des exemplaires présents dans ce dépôt se trouve dans un tableau.csv.
+Ce dépôt contient les données HTR de différentes éditions des *Faits de Jésus Christ et du pape*. Il s'agit d'un ouvrage singulier de polémique religieuse, unique livre illustré de la Réforme francophone conservé pour la première moitié du XVIe siècle. Il a paru sous couvert d’anonymat, dans trois éditions successives, à Neuchâtel, Genève et Lyon, entre les années 1530 et 1560. La liste des exemplaires présents dans ce dépôt se trouve dans un tableau.csv.
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
