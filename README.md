@@ -2,7 +2,7 @@
 
 Ce dépôt est en cours de construction.
 
-Ce dépôt contient les données HTR de différentes éditions des *Faits de Jésus Christ et du pape*. Il s'agit d'un ouvrage singulier de polémique religieuse, unique livre illustré de la Réforme francophone conservé pour la première moitié du XVIe siècle. Il a paru sous couvert d’anonymat, dans trois éditions successives, à Neuchâtel, Genève et Lyon, entre les années 1530 et 1560. 
+Ce dépôt contient les données OCR de différentes éditions des *Faits de Jésus Christ et du pape*. Il s'agit d'un ouvrage singulier de polémique religieuse, unique livre illustré de la Réforme francophone conservé pour la première moitié du XVIe siècle. Il a paru sous couvert d’anonymat, dans trois éditions successives, à Neuchâtel, Genève et Lyon, entre les années 1530 et 1560. 
 
 La liste des textes avec plus de détails se trouve dans le tableau CSV du dépôt.
 
@@ -21,11 +21,11 @@ Site du projet : https://www.unige.ch/setaf
 Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : 205056 (https://data.snf.ch/grants/grant/205056).
 
 
-## Données HTR
+## Données
 
-Les données se trouvent au chemin ‘./data//.xml‘. Elles sont au format ALTO et suivent les normes de segmentation SegmOnto (https://segmonto.github.io). Toutes les données sont produites à l'aide de l'interface eScriptorium et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers ALTO sont corrigés manuellement : le côntrole de la segmentation et de la transcription issue de l'HTR sont en cours.  
+Les données se trouvent au chemin ‘./data//.xml‘ et sont au format ALTO. Elles suivent les normes de segmentation SegmOnto (https://segmonto.github.io) et sont cataloguées sur HTR-United (https://htr-united.github.io). Les fichiers sont corrigés manuellement : la qualité de la segmentation des pages et de la transcription produite par l'OCR est indiqué dans le tableau CSV du dépôt ("gold" ou "en cours").
 
-Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques : https://hal.science/hal-04281804
+Le contrôle de la transcription produite par l'OCR se base sur un guide redigé par l'équipe du projet : Solfrini et al., Guide de transcription pour les imprimés français du XVIe siècle en caractères gothiques, Version A, 2023, https://hal.science/hal-04281804.
 
 
 ## Infrastructure
