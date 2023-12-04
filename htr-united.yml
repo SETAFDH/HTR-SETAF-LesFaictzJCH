@@ -1,4 +1,16 @@
 authors:
+- name: Sonia
+  orcid: 0009-0009-7367-048X
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Solfrini
+- name: Simon
+  orcid: 0000-0001-9094-4475
+  roles:
+  - support
+  surname: Gabay
 - name: Geneviève
   orcid: 0009-0006-5367-4262
   roles:
@@ -6,6 +18,22 @@ authors:
   - project-manager
   - quality-control
   surname: Gross
+- name: Pierre-Olivier
+  orcid: 0009-0009-2475-6017
+  roles:
+  - transcriber
+  - quality-control
+  surname: Beaulnes
+- name: Aurélia
+  orcid: 0009-0009-9678-9811
+  roles:
+  - transcriber
+  - quality-control
+  surname: Marques Oliveira
+- name: Daniela
+  roles:
+  - project-manager
+  surname: Solfaroli Camillocci
 characters:
   members:
   - e
@@ -93,7 +121,7 @@ characters:
   - ᑕ
   - j
   mode: NFD
-description: Data for SETAF project
+description: Data for the SETAF project
 format: Alto-XML
 hands:
   count: '1'
