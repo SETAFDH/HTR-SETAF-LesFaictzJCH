@@ -39,12 +39,23 @@ Les calculs sont effectués à l'Université de Genève en utilisant le service 
 
 Les transcriptions sont [CC-BY](https://creativecommons.org/licenses/by/4.0), et les images suivent les règles de différentes bibliothèques numériques :
 - e-rara : https://www.e-rara.ch/wiki/termsOfUse?lang=en
-- Österreichische Nationalbibliothek : https://www.onb.ac.at/en/use
 
 
 ## Citer le dépôt
 
-à venir
+- Version `1.0`: Sonia Solfrini, Geneviève Gross, Pierre-Olivier Beaulnes, Aurélia Marques Oliveira, Simon Gabay et Daniela Solfaroli Camillocci, _Données OCR et segmentation des Faits de Jésus Christ et du pape (projet SETAF)_, version `1.0`, Genève, université de Genève, 2023, https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH/.
+
+```bibtex
+@misc{solfrini_VingleSETAF_2023,
+  author={Solfrini, Sonia and Gross, Geneviève and Beaulnes, Pierre-Olivier and Marques Oliveira, Aurélia, and Gabay, Simon and Solfaroli Camillocci, Daniela},
+  title={Données OCR et segmentation des Faits de Jésus Christ et du pape (projet SETAF)},
+  version={1.0},
+  address={Genève},
+  publisher={université de Genève},
+  year={2023},
+  url={https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH/},
+}
+```
 
 
 ## Citer le projet
