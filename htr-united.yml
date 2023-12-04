@@ -105,7 +105,8 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: SETAF Project
+project-name: SETAF project and FoNDUE
+project-website: https://www.unige.ch/setaf and https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
@@ -114,6 +115,7 @@ time:
   notAfter: '1599'
   notBefore: '1500'
 title: HTR-SETAF-LesFaictzJCH
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io). Our transcription guidelines follow a graphematic approach, without regularisation. We keep the original punctuation and abbreviations. A detailed presentation of the rules we established for the transcriptions is available here: https://hal.science/hal-04281804.
 url: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH
 volume:
 - count: 205523
