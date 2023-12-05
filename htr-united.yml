@@ -125,6 +125,7 @@ characters:
 description: >-
   OCR data for the SETAF project, 16th-century French prints in Gothic
   characters.
+citation-file-link: https://github.com/SETAFDH/HTR-SETAF-LesFaictzJCH/blob/main/CITATION.cff
 format: Alto-XML
 hands:
   count: '1'
