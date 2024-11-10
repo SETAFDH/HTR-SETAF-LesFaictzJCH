@@ -53,12 +53,13 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="41 592 40 678 94 687 95 584"/></Shape>
           <TextLine ID="eSc_line_73fa7d71"
+                    TAGREFS="LT8"
                     BASELINE="48 607 90 606" 
                     HPOS="46"
                     VPOS="584"
                     WIDTH="43"
                     HEIGHT="32">
-            <Shape><Polygon POINTS="84 586 71 587 58 588 46 591 47 606 47 616 89 616 89 605 85 584 84 586"/></Shape>
+            <Shape><Polygon POINTS="71 587 58 588 46 591 47 606 47 616 89 616 89 605 85 584 84 586"/></Shape>
 	    <String CONTENT="xum"
                     HPOS="46"
                     VPOS="584"
@@ -66,12 +67,13 @@
                     HEIGHT="32"></String>
           </TextLine>
           <TextLine ID="eSc_line_4e901571"
+                    TAGREFS="LT8"
                     BASELINE="50 637 89 647" 
                     HPOS="47"
                     VPOS="606"
                     WIDTH="45"
                     HEIGHT="49">
-            <Shape><Polygon POINTS="92 623 88 618 62 606 56 606 49 636 47 642 83 655 88 646 92 628 92 623"/></Shape>
+            <Shape><Polygon POINTS="88 618 62 606 56 606 49 636 47 642 83 655 88 646 92 628 92 623"/></Shape>
 	    <String CONTENT="ct a¬"
                     HPOS="47"
                     VPOS="606"
@@ -79,12 +81,13 @@
                     HEIGHT="49"></String>
           </TextLine>
           <TextLine ID="eSc_line_14750689"
+                    TAGREFS="LT8"
                     BASELINE="50 668 88 676" 
                     HPOS="47"
                     VPOS="638"
                     WIDTH="43"
                     HEIGHT="46">
-            <Shape><Polygon POINTS="80 645 67 642 56 638 49 666 47 674 60 684 61 684 62 684 64 684 84 682 87 675 90 651 80 645"/></Shape>
+            <Shape><Polygon POINTS="67 642 56 638 49 666 47 674 60 684 61 684 62 684 64 684 84 682 87 675 90 651 80 645"/></Shape>
 	    <String CONTENT="n er¬"
                     HPOS="47"
                     VPOS="638"

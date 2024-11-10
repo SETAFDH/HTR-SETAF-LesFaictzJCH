@@ -53,12 +53,13 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="46 661 47 725 84 724 84 661"/></Shape>
           <TextLine ID="eSc_line_0f447847"
+                    TAGREFS="LT8"
                     BASELINE="50 686 79 685" 
                     HPOS="49"
                     VPOS="661"
                     WIDTH="29"
                     HEIGHT="37">
-            <Shape><Polygon POINTS="75 661 62 661 49 661 49 684 51 698 78 691 78 684 78 661 75 661"/></Shape>
+            <Shape><Polygon POINTS="62 661 49 661 49 684 51 698 78 691 78 684 78 661 75 661"/></Shape>
 	    <String CONTENT="tus"
                     HPOS="49"
                     VPOS="661"
@@ -66,12 +67,13 @@
                     HEIGHT="37"></String>
           </TextLine>
           <TextLine ID="eSc_line_f7e8ffd3"
+                    TAGREFS="LT8"
                     BASELINE="52 715 79 716" 
                     HPOS="49"
                     VPOS="684"
                     WIDTH="29"
                     HEIGHT="37">
-            <Shape><Polygon POINTS="65 686 52 686 51 714 49 721 76 721 78 715 78 684 65 686"/></Shape>
+            <Shape><Polygon POINTS="52 686 51 714 49 721 76 721 78 715 78 684 65 686"/></Shape>
 	    <String CONTENT="tus"
                     HPOS="49"
                     VPOS="684"

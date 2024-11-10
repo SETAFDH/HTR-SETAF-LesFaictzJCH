@@ -145,12 +145,13 @@
                     WC="0.9750559650361538"></String>
           </TextLine>
           <TextLine ID="eSc_line_5a61297a"
+                    TAGREFS="LT8"
                     BASELINE="73 429 933 427" 
                     HPOS="70"
                     VPOS="396"
                     WIDTH="862"
                     HEIGHT="41">
-            <Shape><Polygon POINTS="71 428 71 437 931 435 932 426 928 396 70 399 71 428"/></Shape>
+            <Shape><Polygon POINTS="71 437 931 435 932 426 928 396 70 399 71 428"/></Shape>
 	    <String CONTENT="le iuſte, &amp; celuy eſt la propitiation pour noz pechez, &amp; non ſeulement pour"
                     HPOS="70"
                     VPOS="396"

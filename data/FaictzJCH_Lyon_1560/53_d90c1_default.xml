@@ -53,6 +53,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="19 669 24 759 67 755 67 660"/></Shape>
           <TextLine ID="eSc_line_57d57ddb"
+                    TAGREFS="LT8"
                     BASELINE="24 690 62 686" 
                     HPOS="19"
                     VPOS="663"
@@ -66,12 +67,13 @@
                     HEIGHT="38"></String>
           </TextLine>
           <TextLine ID="eSc_line_8d1bc446"
+                    TAGREFS="LT8"
                     BASELINE="26 721 62 715" 
                     HPOS="20"
                     VPOS="689"
                     WIDTH="41"
                     HEIGHT="41">
-            <Shape><Polygon POINTS="25 720 26 730 61 725 61 714 56 689 20 695 25 720"/></Shape>
+            <Shape><Polygon POINTS="26 730 61 725 61 714 56 689 20 695 25 720"/></Shape>
 	    <String CONTENT="iuit"
                     HPOS="20"
                     VPOS="689"
@@ -79,12 +81,13 @@
                     HEIGHT="41"></String>
           </TextLine>
           <TextLine ID="eSc_line_bd768978"
+                    TAGREFS="LT8"
                     BASELINE="27 750 60 746" 
                     HPOS="24"
                     VPOS="725"
                     WIDTH="34"
                     HEIGHT="32">
-            <Shape><Polygon POINTS="26 757 58 755 58 744 56 725 24 725 26 748 26 757"/></Shape>
+            <Shape><Polygon POINTS="58 755 58 744 56 725 24 725 26 748 26 757"/></Shape>
 	    <String CONTENT="◊◊◊"
                     HPOS="24"
                     VPOS="725"

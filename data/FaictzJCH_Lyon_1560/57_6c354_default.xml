@@ -53,12 +53,13 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="26 593 26 679 73 679 73 593"/></Shape>
           <TextLine ID="eSc_line_07b6b70c"
+                    TAGREFS="LT8"
                     BASELINE="29 616 68 613" 
                     HPOS="26"
                     VPOS="593"
                     WIDTH="41"
                     HEIGHT="35">
-            <Shape><Polygon POINTS="64 593 51 593 38 593 26 601 28 615 28 628 67 628 67 611 64 593 64 593"/></Shape>
+            <Shape><Polygon POINTS="51 593 38 593 26 601 28 615 28 628 67 628 67 611 64 593"/></Shape>
 	    <String CONTENT="Quo"
                     HPOS="26"
                     VPOS="593"
@@ -66,12 +67,13 @@
                     HEIGHT="35"></String>
           </TextLine>
           <TextLine ID="eSc_line_fd65ab26"
+                    TAGREFS="LT8"
                     BASELINE="30 642 72 642" 
                     HPOS="29"
                     VPOS="620"
                     WIDTH="42"
                     HEIGHT="41">
-            <Shape><Polygon POINTS="29 641 29 661 71 661 71 641 70 620 29 620 29 641"/></Shape>
+            <Shape><Polygon POINTS="29 661 71 661 71 641 70 620 29 620 29 641"/></Shape>
 	    <String CONTENT="cipi"
                     HPOS="29"
                     VPOS="620"
@@ -79,12 +81,13 @@
                     HEIGHT="41"></String>
           </TextLine>
           <TextLine ID="eSc_line_92743bf4"
+                    TAGREFS="LT8"
                     BASELINE="29 672 46 672" 
                     HPOS="28"
                     VPOS="647"
                     WIDTH="16"
                     HEIGHT="51">
-            <Shape><Polygon POINTS="28 672 29 698 44 693 44 672 43 647 28 650 28 672"/></Shape>
+            <Shape><Polygon POINTS="29 698 44 693 44 672 43 647 28 650 28 672"/></Shape>
 	    <String CONTENT="e."
                     HPOS="28"
                     VPOS="647"

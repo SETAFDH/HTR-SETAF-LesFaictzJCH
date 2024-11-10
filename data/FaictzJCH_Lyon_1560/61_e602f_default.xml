@@ -53,6 +53,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="39 581 35 633 39 674 66 674 66 581"/></Shape>
           <TextLine ID="eSc_line_4917156e"
+                    TAGREFS="LT8"
                     BASELINE="41 602 61 603" 
                     HPOS="39"
                     VPOS="581"
@@ -67,6 +68,7 @@
                     WC="0.9990284144878387"></String>
           </TextLine>
           <TextLine ID="eSc_line_0d7901f4"
+                    TAGREFS="LT8"
                     BASELINE="38 633 52 632" 
                     HPOS="35"
                     VPOS="613"
@@ -81,6 +83,7 @@
                     WC="0.9992620050907135"></String>
           </TextLine>
           <TextLine ID="eSc_line_3507fbba"
+                    TAGREFS="LT8"
                     BASELINE="41 663 62 664" 
                     HPOS="40"
                     VPOS="631"

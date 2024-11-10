@@ -53,12 +53,13 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="28 635 28 723 78 724 78 635"/></Shape>
           <TextLine ID="eSc_line_3694a919"
+                    TAGREFS="LT8"
                     BASELINE="35 656 72 655" 
                     HPOS="33"
                     VPOS="636"
                     WIDTH="38"
                     HEIGHT="28">
-            <Shape><Polygon POINTS="58 636 46 636 33 636 34 655 34 664 71 661 71 654 69 636 58 636"/></Shape>
+            <Shape><Polygon POINTS="46 636 33 636 34 655 34 664 71 661 71 654 69 636 58 636"/></Shape>
 	    <String CONTENT="as le"
                     HPOS="33"
                     VPOS="636"
@@ -66,12 +67,13 @@
                     HEIGHT="28"></String>
           </TextLine>
           <TextLine ID="eSc_line_8bf29bad"
+                    TAGREFS="LT8"
                     BASELINE="37 686 71 686" 
                     HPOS="35"
                     VPOS="655"
                     WIDTH="35"
                     HEIGHT="50">
-            <Shape><Polygon POINTS="61 655 48 655 35 655 35 684 35 696 67 705 70 684 70 655 61 655"/></Shape>
+            <Shape><Polygon POINTS="48 655 35 655 35 684 35 696 67 705 70 684 70 655 61 655"/></Shape>
 	    <String CONTENT="de¬"
                     HPOS="35"
                     VPOS="655"
@@ -79,12 +81,13 @@
                     HEIGHT="50"></String>
           </TextLine>
           <TextLine ID="eSc_line_b0e79724"
+                    TAGREFS="LT8"
                     BASELINE="35 715 58 715" 
                     HPOS="34"
                     VPOS="688"
                     WIDTH="23"
                     HEIGHT="40">
-            <Shape><Polygon POINTS="34 714 34 724 56 728 57 714 57 693 34 688 34 714"/></Shape>
+            <Shape><Polygon POINTS="34 724 56 728 57 714 57 693 34 688 34 714"/></Shape>
 	    <String CONTENT="is."
                     HPOS="34"
                     VPOS="688"

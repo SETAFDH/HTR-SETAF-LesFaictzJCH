@@ -53,12 +53,13 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="26 555 26 611 60 611 60 555"/></Shape>
           <TextLine ID="eSc_line_4d52683e"
+                    TAGREFS="LT8"
                     BASELINE="30 574 55 572" 
                     HPOS="26"
                     VPOS="555"
                     WIDTH="27"
                     HEIGHT="29">
-            <Shape><Polygon POINTS="39 555 26 555 29 573 30 584 53 582 53 570 49 555 39 555"/></Shape>
+            <Shape><Polygon POINTS="26 555 29 573 30 584 53 582 53 570 49 555 39 555"/></Shape>
 	    <String CONTENT="ret"
                     HPOS="26"
                     VPOS="555"
@@ -66,12 +67,13 @@
                     HEIGHT="29"></String>
           </TextLine>
           <TextLine ID="eSc_line_79e994f5"
+                    TAGREFS="LT8"
                     BASELINE="30 604 57 604" 
                     HPOS="29"
                     VPOS="579"
                     WIDTH="27"
                     HEIGHT="32">
-            <Shape><Polygon POINTS="29 602 29 611 56 611 56 602 56 579 29 579 29 602"/></Shape>
+            <Shape><Polygon POINTS="29 611 56 611 56 602 56 579 29 579 29 602"/></Shape>
 	    <String CONTENT="◊is."
                     HPOS="29"
                     VPOS="579"
