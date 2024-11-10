@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>41_cb593_default.jpg</fileName>
+      <fileIdentifier>https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page41/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT886" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT433" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="991"
+          HEIGHT="1536"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="991"
+                  HEIGHT="1536">
+        <TextBlock HPOS="57"
+                   VPOS="100"
+                   WIDTH="906"
+                   HEIGHT="1178"
+                   ID="eSc_textblock_ead364f9"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="279 100 286 155 58 157 72 636 76 669 57 1278 963 1277 957 160 731 154 734 100"/></Shape>
+          <TextLine ID="eSc_line_829c2ca2"
+                    TAGREFS="LT10"
+                    BASELINE="300 151 718 148" 
+                    HPOS="299"
+                    VPOS="104"
+                    WIDTH="419"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="641 107 632 107 623 106 615 106 606 106 605 106 588 108 587 108 576 114 555 105 547 104 538 104 530 104 521 104 480 104 479 104 478 104 444 115 437 117 428 115 418 112 417 112 416 112 415 112 414 112 410 115 406 118 337 118 334 115 325 106 325 105 324 105 323 105 307 105 299 120 300 151 300 163 336 157 373 162 374 162 394 157 404 162 409 164 410 164 411 165 433 165 433 164 434 164 441 162 451 157 495 157 505 160 511 162 512 162 513 162 520 159 529 157 535 159 543 163 544 163 545 163 546 163 547 163 552 159 553 157 558 158 575 163 576 163 577 163 595 157 596 157 597 157 609 162 610 162 611 163 629 163 629 162 630 162 635 158 642 162 643 162 644 162 645 162 646 162 654 158 681 162 682 162 683 162 693 156 705 162 706 162 707 162 708 162 709 162 718 156 718 148 717 116 655 107 649 107"/></Shape>
+	    <String CONTENT="L’orgueilleux Pape"
+                    HPOS="299"
+                    VPOS="104"
+                    WIDTH="419"
+                    HEIGHT="61"
+                    WC="0.999774393108156"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="36"
+                   VPOS="624"
+                   WIDTH="37"
+                   HEIGHT="93"
+                   ID="eSc_textblock_31f80bd8"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="36 624 36 716 73 717 72 636"/></Shape>
+          <TextLine ID="eSc_line_ea74651c"
+                    BASELINE="42 648 68 648" 
+                    HPOS="40"
+                    VPOS="625"
+                    WIDTH="27"
+                    HEIGHT="35">
+            <Shape><Polygon POINTS="66 633 53 629 40 625 40 647 40 657 66 660 67 647 67 634 66 633"/></Shape>
+	    <String CONTENT="itu"
+                    HPOS="40"
+                    VPOS="625"
+                    WIDTH="27"
+                    HEIGHT="35"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_67d07883"
+                    BASELINE="42 682 69 682" 
+                    HPOS="40"
+                    VPOS="648"
+                    WIDTH="27"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="40 680 40 686 66 688 67 680 67 652 40 648 40 680"/></Shape>
+	    <String CONTENT="ille"
+                    HPOS="40"
+                    VPOS="648"
+                    WIDTH="27"
+                    HEIGHT="40"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_01d236ee"
+                    BASELINE="41 710 60 710" 
+                    HPOS="40"
+                    VPOS="682"
+                    WIDTH="18"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="53 682 40 682 40 709 40 715 56 720 58 709 58 682 53 682"/></Shape>
+	    <String CONTENT="i."
+                    HPOS="40"
+                    VPOS="682"
+                    WIDTH="18"
+                    HEIGHT="38"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="69"
+                   VPOS="163"
+                   WIDTH="882"
+                   HEIGHT="1105"
+                   ID="eSc_textblock_5152eaa2"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="69 163 77 692 69 1268 951 1268 951 163"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

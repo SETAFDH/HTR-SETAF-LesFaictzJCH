@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>65_568dc_default.jpg</fileName>
+      <fileIdentifier>https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page65/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT886" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT433" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="985"
+          HEIGHT="1536"
+          PHYSICAL_IMG_NR="65"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="985"
+                  HEIGHT="1536">
+        <TextBlock HPOS="57"
+                   VPOS="116"
+                   WIDTH="907"
+                   HEIGHT="1170"
+                   ID="eSc_textblock_5f29fec4"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="311 116 310 175 67 175 74 623 57 1286 964 1285 957 173 731 171 720 126"/></Shape>
+          <TextLine ID="eSc_line_cf42e7b0"
+                    TAGREFS="LT10"
+                    BASELINE="320 168 719 167" 
+                    HPOS="319"
+                    VPOS="122"
+                    WIDTH="400"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="334 124 320 128 319 128 320 168 320 174 339 180 340 180 341 180 342 180 360 176 368 180 369 180 370 180 371 180 372 180 377 175 422 175 434 180 435 180 436 181 479 181 479 180 480 180 490 175 491 175 493 175 512 180 513 180 557 180 558 180 559 180 559 179 562 176 564 174 567 176 579 180 580 180 581 180 582 180 589 176 593 174 596 176 604 180 605 180 606 180 631 176 645 174 651 176 660 180 661 180 662 180 719 176 719 167 717 134 670 128 669 128 660 133 657 135 632 135 625 133 590 122 589 122 559 122 558 122 540 131 537 133 535 131 520 122 519 122 518 122 503 123 502 123 501 123 491 131 483 136 440 136 423 129 404 123 403 123 375 123 374 123 373 123 366 128 358 135 349 128 341 123 336 124"/></Shape>
+	    <String CONTENT="Le Pape les deuore"
+                    HPOS="319"
+                    VPOS="122"
+                    WIDTH="400"
+                    HEIGHT="59"
+                    WC="0.9961214959621429"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="26"
+                   VPOS="620"
+                   WIDTH="45"
+                   HEIGHT="97"
+                   ID="eSc_textblock_d18e6c28"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="26 620 26 717 71 717 71 620"/></Shape>
+          <TextLine ID="eSc_line_3cca2ce4"
+                    TAGREFS="LT8"
+                    BASELINE="29 647 68 646" 
+                    HPOS="26"
+                    VPOS="613"
+                    WIDTH="41"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="28 656 65 663 67 645 64 613 26 618 28 646"/></Shape>
+	    <String CONTENT="hic"
+                    HPOS="26"
+                    VPOS="613"
+                    WIDTH="41"
+                    HEIGHT="50"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_56e6771b"
+                    TAGREFS="LT8"
+                    BASELINE="30 680 66 679" 
+                    HPOS="28"
+                    VPOS="651"
+                    WIDTH="37"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="29 692 65 686 65 678 62 656 28 651 29 679"/></Shape>
+	    <String CONTENT="◊ne"
+                    HPOS="28"
+                    VPOS="651"
+                    WIDTH="37"
+                    HEIGHT="41"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_e3ac72c1"
+                    TAGREFS="LT8"
+                    BASELINE="31 712 56 711" 
+                    HPOS="28"
+                    VPOS="683"
+                    WIDTH="27"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="30 721 55 721 55 710 52 686 28 683 30 711"/></Shape>
+	    <String CONTENT="t."
+                    HPOS="28"
+                    VPOS="683"
+                    WIDTH="27"
+                    HEIGHT="38"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="75"
+                   VPOS="181"
+                   WIDTH="873"
+                   HEIGHT="1091"
+                   ID="eSc_textblock_f0540467"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="75 181 75 1272 948 1272 948 181"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

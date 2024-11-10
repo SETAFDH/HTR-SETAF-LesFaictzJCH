@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>13_a86f7_default.jpg</fileName>
+      <fileIdentifier>https://luna.manchester.ac.uk/luna/servlet/iiif/Manchester~91~1~425957~192597page13/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT886" LABEL="MarginTextZone:handwrittenAddition" DESCRIPTION="block type MarginTextZone:handwrittenAddition"/>
+    <OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT433" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1005"
+          HEIGHT="1536"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1005"
+                  HEIGHT="1536">
+        <TextBlock HPOS="67"
+                   VPOS="96"
+                   WIDTH="897"
+                   HEIGHT="1152"
+                   ID="eSc_textblock_71c340e6"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="254 96 259 151 67 147 77 695 67 1244 957 1248 964 151 744 150 744 98"/></Shape>
+          <TextLine ID="eSc_line_9a1060b7"
+                    TAGREFS="LT10"
+                    BASELINE="269 146 735 146" 
+                    HPOS="269"
+                    VPOS="104"
+                    WIDTH="466"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="697 104 696 104 688 104 686 104 672 110 666 112 665 110 658 104 654 104 645 104 636 104 628 104 619 104 613 104 605 111 596 119 566 119 559 112 558 112 557 112 556 112 555 112 543 119 502 119 496 114 495 113 495 112 494 112 493 112 471 112 451 104 450 104 449 104 410 116 409 116 397 104 396 104 379 104 378 104 377 104 376 104 362 116 360 118 343 118 341 117 331 107 331 106 330 106 329 106 328 106 327 106 321 110 312 104 311 104 310 104 309 104 308 104 292 118 292 119 274 119 269 142 269 146 269 155 312 160 313 160 314 160 333 156 397 160 398 160 399 160 400 160 405 156 451 156 452 156 461 161 462 161 463 161 464 161 475 157 479 160 479 161 480 161 481 161 735 156 735 146 735 111 730 108"/></Shape>
+	    <String CONTENT="Mais le Pape par force"
+                    HPOS="269"
+                    VPOS="104"
+                    WIDTH="466"
+                    HEIGHT="57"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="33"
+                   VPOS="625"
+                   WIDTH="41"
+                   HEIGHT="103"
+                   ID="eSc_textblock_720017cc"
+                   TAGREFS="BT13">
+          <Shape><Polygon POINTS="33 625 33 728 74 728 74 625"/></Shape>
+          <TextLine ID="eSc_line_5f0be6d4"
+                    TAGREFS="LT8"
+                    BASELINE="34 654 67 656" 
+                    HPOS="32"
+                    VPOS="628"
+                    WIDTH="34"
+                    HEIGHT="32">
+            <Shape><Polygon POINTS="32 657 64 660 66 655 66 632 34 628 33 652"/></Shape>
+	    <String CONTENT="re¬"
+                    HPOS="32"
+                    VPOS="628"
+                    WIDTH="34"
+                    HEIGHT="32"
+                    WC="0.9966487089792887"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bcea3a58"
+                    TAGREFS="LT8"
+                    BASELINE="36 682 70 683" 
+                    HPOS="34"
+                    VPOS="650"
+                    WIDTH="35"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="48 654 35 654 35 680 34 688 66 689 69 682 69 651 61 650 61 655"/></Shape>
+	    <String CONTENT="ſci"
+                    HPOS="34"
+                    VPOS="650"
+                    WIDTH="35"
+                    HEIGHT="39"
+                    WC="0.99989914894104"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5cec8000"
+                    TAGREFS="LT8"
+                    BASELINE="36 714 69 716" 
+                    HPOS="34"
+                    VPOS="689"
+                    WIDTH="33"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="34 723 66 721 67 715 67 689 35 689 35 712"/></Shape>
+	    <String CONTENT="bes."
+                    HPOS="34"
+                    VPOS="689"
+                    WIDTH="33"
+                    HEIGHT="34"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="75"
+                   VPOS="159"
+                   WIDTH="876"
+                   HEIGHT="1079"
+                   ID="eSc_textblock_24f2b79b"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="75 159 75 1238 951 1238 951 159"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
