@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite this repository as below."
 title: "Données OCR et segmentation des Faits de Jésus Christ et du pape (projet SETAF)"
 abstract: >-
-  OCR data for the SETAF project, 16th-century French prints in Gothic characters.
+  OCR data for the SETAF project, 16th-century French prints in Gothic and Roman characters.
 type: dataset
 authors:
   - family-names: Solfrini
