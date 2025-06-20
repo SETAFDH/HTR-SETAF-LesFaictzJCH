@@ -157,7 +157,7 @@ license:
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
 project-website: >-
-  https://www.unige.ch/lettres/humanites-numeriques/recherche/projets-de-la-chaire/fondue
+  https://www.unige.ch/lettres/humanites-numeriques/recherche/projets/projets-de-la-chaire/fondue
 schema: https://htr-united.github.io/schema/2023-06-27/schema.json
 script:
 - iso: Latn
